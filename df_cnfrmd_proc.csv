@@ -1,0 +1,973 @@
+Country,Country_Code,Time_Stamp,Cases
+Australia,AUS,1/21/20 22:00,0.0
+Belgium,BEL,1/21/20 22:00,0.0
+Cambodia,KHM,1/21/20 22:00,0.0
+Canada,CAN,1/21/20 22:00,0.0
+Finland,FIN,1/21/20 22:00,0.0
+France,FRA,1/21/20 22:00,0.0
+Germany,DEU,1/21/20 22:00,0.0
+Hong Kong,HKG,1/21/20 22:00,0.0
+India,IND,1/21/20 22:00,0.0
+Italy,ITA,1/21/20 22:00,0.0
+Japan,JPN,1/21/20 22:00,1.0
+Macao,MAC,1/21/20 22:00,0.0
+Malaysia,MYS,1/21/20 22:00,0.0
+Nepal,NPL,1/21/20 22:00,0.0
+Philippines,PHL,1/21/20 22:00,0.0
+Russian Federation,RUS,1/21/20 22:00,0.0
+Singapore,SGP,1/21/20 22:00,0.0
+"Korea, Republic of",KOR,1/21/20 22:00,0.0
+Spain,ESP,1/21/20 22:00,0.0
+Sri Lanka,LKA,1/21/20 22:00,0.0
+Sweden,SWE,1/21/20 22:00,0.0
+"Taiwan, Province of China",TWN,1/21/20 22:00,1.0
+Thailand,THA,1/21/20 22:00,2.0
+United Kingdom,GBR,1/21/20 22:00,0.0
+United States,USA,1/21/20 22:00,1.0
+United Arab Emirates,ARE,1/21/20 22:00,0.0
+Viet Nam,VNM,1/21/20 22:00,0.0
+Australia,AUS,1/22/20 12:00,0.0
+Belgium,BEL,1/22/20 12:00,0.0
+Cambodia,KHM,1/22/20 12:00,0.0
+Canada,CAN,1/22/20 12:00,0.0
+Finland,FIN,1/22/20 12:00,0.0
+France,FRA,1/22/20 12:00,0.0
+Germany,DEU,1/22/20 12:00,0.0
+Hong Kong,HKG,1/22/20 12:00,0.0
+India,IND,1/22/20 12:00,0.0
+Italy,ITA,1/22/20 12:00,0.0
+Japan,JPN,1/22/20 12:00,2.0
+Macao,MAC,1/22/20 12:00,1.0
+Malaysia,MYS,1/22/20 12:00,0.0
+Nepal,NPL,1/22/20 12:00,0.0
+Philippines,PHL,1/22/20 12:00,0.0
+Russian Federation,RUS,1/22/20 12:00,0.0
+Singapore,SGP,1/22/20 12:00,0.0
+"Korea, Republic of",KOR,1/22/20 12:00,1.0
+Spain,ESP,1/22/20 12:00,0.0
+Sri Lanka,LKA,1/22/20 12:00,0.0
+Sweden,SWE,1/22/20 12:00,0.0
+"Taiwan, Province of China",TWN,1/22/20 12:00,1.0
+Thailand,THA,1/22/20 12:00,2.0
+United Kingdom,GBR,1/22/20 12:00,0.0
+United States,USA,1/22/20 12:00,1.0
+United Arab Emirates,ARE,1/22/20 12:00,0.0
+Viet Nam,VNM,1/22/20 12:00,0.0
+Australia,AUS,1/23/20 12:00,0.0
+Belgium,BEL,1/23/20 12:00,0.0
+Cambodia,KHM,1/23/20 12:00,0.0
+Canada,CAN,1/23/20 12:00,0.0
+Finland,FIN,1/23/20 12:00,0.0
+France,FRA,1/23/20 12:00,0.0
+Germany,DEU,1/23/20 12:00,0.0
+Hong Kong,HKG,1/23/20 12:00,2.0
+India,IND,1/23/20 12:00,0.0
+Italy,ITA,1/23/20 12:00,0.0
+Japan,JPN,1/23/20 12:00,2.0
+Macao,MAC,1/23/20 12:00,2.0
+Malaysia,MYS,1/23/20 12:00,0.0
+Nepal,NPL,1/23/20 12:00,0.0
+Philippines,PHL,1/23/20 12:00,0.0
+Russian Federation,RUS,1/23/20 12:00,0.0
+Singapore,SGP,1/23/20 12:00,1.0
+"Korea, Republic of",KOR,1/23/20 12:00,1.0
+Spain,ESP,1/23/20 12:00,0.0
+Sri Lanka,LKA,1/23/20 12:00,0.0
+Sweden,SWE,1/23/20 12:00,0.0
+"Taiwan, Province of China",TWN,1/23/20 12:00,1.0
+Thailand,THA,1/23/20 12:00,3.0
+United Kingdom,GBR,1/23/20 12:00,0.0
+United States,USA,1/23/20 12:00,1.0
+United Arab Emirates,ARE,1/23/20 12:00,0.0
+Viet Nam,VNM,1/23/20 12:00,2.0
+Australia,AUS,1/24/20 0:00,0.0
+Belgium,BEL,1/24/20 0:00,0.0
+Cambodia,KHM,1/24/20 0:00,0.0
+Canada,CAN,1/24/20 0:00,0.0
+Finland,FIN,1/24/20 0:00,0.0
+France,FRA,1/24/20 0:00,0.0
+Germany,DEU,1/24/20 0:00,0.0
+Hong Kong,HKG,1/24/20 0:00,2.0
+India,IND,1/24/20 0:00,0.0
+Italy,ITA,1/24/20 0:00,0.0
+Japan,JPN,1/24/20 0:00,2.0
+Macao,MAC,1/24/20 0:00,2.0
+Malaysia,MYS,1/24/20 0:00,0.0
+Nepal,NPL,1/24/20 0:00,0.0
+Philippines,PHL,1/24/20 0:00,0.0
+Russian Federation,RUS,1/24/20 0:00,0.0
+Singapore,SGP,1/24/20 0:00,1.0
+"Korea, Republic of",KOR,1/24/20 0:00,1.0
+Spain,ESP,1/24/20 0:00,0.0
+Sri Lanka,LKA,1/24/20 0:00,0.0
+Sweden,SWE,1/24/20 0:00,0.0
+"Taiwan, Province of China",TWN,1/24/20 0:00,1.0
+Thailand,THA,1/24/20 0:00,4.0
+United Kingdom,GBR,1/24/20 0:00,0.0
+United States,USA,1/24/20 0:00,1.0
+United Arab Emirates,ARE,1/24/20 0:00,0.0
+Viet Nam,VNM,1/24/20 0:00,2.0
+Australia,AUS,1/24/20 12:00,0.0
+Belgium,BEL,1/24/20 12:00,0.0
+Cambodia,KHM,1/24/20 12:00,0.0
+Canada,CAN,1/24/20 12:00,0.0
+Finland,FIN,1/24/20 12:00,0.0
+France,FRA,1/24/20 12:00,2.0
+Germany,DEU,1/24/20 12:00,0.0
+Hong Kong,HKG,1/24/20 12:00,2.0
+India,IND,1/24/20 12:00,0.0
+Italy,ITA,1/24/20 12:00,0.0
+Japan,JPN,1/24/20 12:00,2.0
+Macao,MAC,1/24/20 12:00,2.0
+Malaysia,MYS,1/24/20 12:00,0.0
+Nepal,NPL,1/24/20 12:00,0.0
+Philippines,PHL,1/24/20 12:00,0.0
+Russian Federation,RUS,1/24/20 12:00,0.0
+Singapore,SGP,1/24/20 12:00,3.0
+"Korea, Republic of",KOR,1/24/20 12:00,2.0
+Spain,ESP,1/24/20 12:00,0.0
+Sri Lanka,LKA,1/24/20 12:00,0.0
+Sweden,SWE,1/24/20 12:00,0.0
+"Taiwan, Province of China",TWN,1/24/20 12:00,3.0
+Thailand,THA,1/24/20 12:00,5.0
+United Kingdom,GBR,1/24/20 12:00,0.0
+United States,USA,1/24/20 12:00,2.0
+United Arab Emirates,ARE,1/24/20 12:00,0.0
+Viet Nam,VNM,1/24/20 12:00,2.0
+Australia,AUS,1/25/20 0:00,0.0
+Belgium,BEL,1/25/20 0:00,0.0
+Cambodia,KHM,1/25/20 0:00,0.0
+Canada,CAN,1/25/20 0:00,0.0
+Finland,FIN,1/25/20 0:00,0.0
+France,FRA,1/25/20 0:00,3.0
+Germany,DEU,1/25/20 0:00,0.0
+Hong Kong,HKG,1/25/20 0:00,5.0
+India,IND,1/25/20 0:00,0.0
+Italy,ITA,1/25/20 0:00,0.0
+Japan,JPN,1/25/20 0:00,2.0
+Macao,MAC,1/25/20 0:00,2.0
+Malaysia,MYS,1/25/20 0:00,3.0
+Nepal,NPL,1/25/20 0:00,1.0
+Philippines,PHL,1/25/20 0:00,0.0
+Russian Federation,RUS,1/25/20 0:00,0.0
+Singapore,SGP,1/25/20 0:00,3.0
+"Korea, Republic of",KOR,1/25/20 0:00,2.0
+Spain,ESP,1/25/20 0:00,0.0
+Sri Lanka,LKA,1/25/20 0:00,0.0
+Sweden,SWE,1/25/20 0:00,0.0
+"Taiwan, Province of China",TWN,1/25/20 0:00,3.0
+Thailand,THA,1/25/20 0:00,5.0
+United Kingdom,GBR,1/25/20 0:00,0.0
+United States,USA,1/25/20 0:00,2.0
+United Arab Emirates,ARE,1/25/20 0:00,0.0
+Viet Nam,VNM,1/25/20 0:00,2.0
+Australia,AUS,1/25/20 12:00,0.0
+Belgium,BEL,1/25/20 12:00,0.0
+Cambodia,KHM,1/25/20 12:00,0.0
+Canada,CAN,1/25/20 12:00,0.0
+Finland,FIN,1/25/20 12:00,0.0
+France,FRA,1/25/20 12:00,3.0
+Germany,DEU,1/25/20 12:00,0.0
+Hong Kong,HKG,1/25/20 12:00,5.0
+India,IND,1/25/20 12:00,0.0
+Italy,ITA,1/25/20 12:00,0.0
+Japan,JPN,1/25/20 12:00,2.0
+Macao,MAC,1/25/20 12:00,2.0
+Malaysia,MYS,1/25/20 12:00,3.0
+Nepal,NPL,1/25/20 12:00,1.0
+Philippines,PHL,1/25/20 12:00,0.0
+Russian Federation,RUS,1/25/20 12:00,0.0
+Singapore,SGP,1/25/20 12:00,3.0
+"Korea, Republic of",KOR,1/25/20 12:00,2.0
+Spain,ESP,1/25/20 12:00,0.0
+Sri Lanka,LKA,1/25/20 12:00,0.0
+Sweden,SWE,1/25/20 12:00,0.0
+"Taiwan, Province of China",TWN,1/25/20 12:00,3.0
+Thailand,THA,1/25/20 12:00,7.0
+United Kingdom,GBR,1/25/20 12:00,0.0
+United States,USA,1/25/20 12:00,2.0
+United Arab Emirates,ARE,1/25/20 12:00,0.0
+Viet Nam,VNM,1/25/20 12:00,2.0
+Australia,AUS,1/25/20 22:00,0.0
+Belgium,BEL,1/25/20 22:00,0.0
+Cambodia,KHM,1/25/20 22:00,0.0
+Canada,CAN,1/25/20 22:00,0.0
+Finland,FIN,1/25/20 22:00,0.0
+France,FRA,1/25/20 22:00,3.0
+Germany,DEU,1/25/20 22:00,0.0
+Hong Kong,HKG,1/25/20 22:00,5.0
+India,IND,1/25/20 22:00,0.0
+Italy,ITA,1/25/20 22:00,0.0
+Japan,JPN,1/25/20 22:00,2.0
+Macao,MAC,1/25/20 22:00,2.0
+Malaysia,MYS,1/25/20 22:00,3.0
+Nepal,NPL,1/25/20 22:00,1.0
+Philippines,PHL,1/25/20 22:00,0.0
+Russian Federation,RUS,1/25/20 22:00,0.0
+Singapore,SGP,1/25/20 22:00,3.0
+"Korea, Republic of",KOR,1/25/20 22:00,2.0
+Spain,ESP,1/25/20 22:00,0.0
+Sri Lanka,LKA,1/25/20 22:00,0.0
+Sweden,SWE,1/25/20 22:00,0.0
+"Taiwan, Province of China",TWN,1/25/20 22:00,3.0
+Thailand,THA,1/25/20 22:00,7.0
+United Kingdom,GBR,1/25/20 22:00,0.0
+United States,USA,1/25/20 22:00,2.0
+United Arab Emirates,ARE,1/25/20 22:00,0.0
+Viet Nam,VNM,1/25/20 22:00,2.0
+Australia,AUS,1/26/20 11:00,4.0
+Belgium,BEL,1/26/20 11:00,0.0
+Cambodia,KHM,1/26/20 11:00,0.0
+Canada,CAN,1/26/20 11:00,1.0
+Finland,FIN,1/26/20 11:00,0.0
+France,FRA,1/26/20 11:00,3.0
+Germany,DEU,1/26/20 11:00,0.0
+Hong Kong,HKG,1/26/20 11:00,8.0
+India,IND,1/26/20 11:00,0.0
+Italy,ITA,1/26/20 11:00,0.0
+Japan,JPN,1/26/20 11:00,4.0
+Macao,MAC,1/26/20 11:00,5.0
+Malaysia,MYS,1/26/20 11:00,4.0
+Nepal,NPL,1/26/20 11:00,1.0
+Philippines,PHL,1/26/20 11:00,0.0
+Russian Federation,RUS,1/26/20 11:00,0.0
+Singapore,SGP,1/26/20 11:00,4.0
+"Korea, Republic of",KOR,1/26/20 11:00,3.0
+Spain,ESP,1/26/20 11:00,0.0
+Sri Lanka,LKA,1/26/20 11:00,0.0
+Sweden,SWE,1/26/20 11:00,0.0
+"Taiwan, Province of China",TWN,1/26/20 11:00,4.0
+Thailand,THA,1/26/20 11:00,8.0
+United Kingdom,GBR,1/26/20 11:00,0.0
+United States,USA,1/26/20 11:00,5.0
+United Arab Emirates,ARE,1/26/20 11:00,0.0
+Viet Nam,VNM,1/26/20 11:00,2.0
+Australia,AUS,1/26/20 23:00,4.0
+Belgium,BEL,1/26/20 23:00,0.0
+Cambodia,KHM,1/26/20 23:00,0.0
+Canada,CAN,1/26/20 23:00,1.0
+Finland,FIN,1/26/20 23:00,0.0
+France,FRA,1/26/20 23:00,3.0
+Germany,DEU,1/26/20 23:00,0.0
+Hong Kong,HKG,1/26/20 23:00,8.0
+India,IND,1/26/20 23:00,0.0
+Italy,ITA,1/26/20 23:00,0.0
+Japan,JPN,1/26/20 23:00,4.0
+Macao,MAC,1/26/20 23:00,6.0
+Malaysia,MYS,1/26/20 23:00,4.0
+Nepal,NPL,1/26/20 23:00,1.0
+Philippines,PHL,1/26/20 23:00,0.0
+Russian Federation,RUS,1/26/20 23:00,0.0
+Singapore,SGP,1/26/20 23:00,4.0
+"Korea, Republic of",KOR,1/26/20 23:00,3.0
+Spain,ESP,1/26/20 23:00,0.0
+Sri Lanka,LKA,1/26/20 23:00,0.0
+Sweden,SWE,1/26/20 23:00,0.0
+"Taiwan, Province of China",TWN,1/26/20 23:00,4.0
+Thailand,THA,1/26/20 23:00,8.0
+United Kingdom,GBR,1/26/20 23:00,0.0
+United States,USA,1/26/20 23:00,5.0
+United Arab Emirates,ARE,1/26/20 23:00,0.0
+Viet Nam,VNM,1/26/20 23:00,2.0
+Australia,AUS,1/27/20 9:00,5.0
+Belgium,BEL,1/27/20 9:00,0.0
+Cambodia,KHM,1/27/20 9:00,1.0
+Canada,CAN,1/27/20 9:00,1.0
+Finland,FIN,1/27/20 9:00,0.0
+France,FRA,1/27/20 9:00,3.0
+Germany,DEU,1/27/20 9:00,0.0
+Hong Kong,HKG,1/27/20 9:00,8.0
+India,IND,1/27/20 9:00,0.0
+Italy,ITA,1/27/20 9:00,0.0
+Japan,JPN,1/27/20 9:00,4.0
+Macao,MAC,1/27/20 9:00,6.0
+Malaysia,MYS,1/27/20 9:00,4.0
+Nepal,NPL,1/27/20 9:00,1.0
+Philippines,PHL,1/27/20 9:00,0.0
+Russian Federation,RUS,1/27/20 9:00,0.0
+Singapore,SGP,1/27/20 9:00,4.0
+"Korea, Republic of",KOR,1/27/20 9:00,4.0
+Spain,ESP,1/27/20 9:00,0.0
+Sri Lanka,LKA,1/27/20 9:00,0.0
+Sweden,SWE,1/27/20 9:00,0.0
+"Taiwan, Province of China",TWN,1/27/20 9:00,5.0
+Thailand,THA,1/27/20 9:00,8.0
+United Kingdom,GBR,1/27/20 9:00,0.0
+United States,USA,1/27/20 9:00,5.0
+United Arab Emirates,ARE,1/27/20 9:00,0.0
+Viet Nam,VNM,1/27/20 9:00,2.0
+Australia,AUS,1/27/20 19:00,5.0
+Belgium,BEL,1/27/20 19:00,0.0
+Cambodia,KHM,1/27/20 19:00,1.0
+Canada,CAN,1/27/20 19:00,1.0
+Finland,FIN,1/27/20 19:00,0.0
+France,FRA,1/27/20 19:00,3.0
+Germany,DEU,1/27/20 19:00,0.0
+Hong Kong,HKG,1/27/20 19:00,8.0
+India,IND,1/27/20 19:00,0.0
+Italy,ITA,1/27/20 19:00,0.0
+Japan,JPN,1/27/20 19:00,4.0
+Macao,MAC,1/27/20 19:00,6.0
+Malaysia,MYS,1/27/20 19:00,4.0
+Nepal,NPL,1/27/20 19:00,1.0
+Philippines,PHL,1/27/20 19:00,0.0
+Russian Federation,RUS,1/27/20 19:00,0.0
+Singapore,SGP,1/27/20 19:00,5.0
+"Korea, Republic of",KOR,1/27/20 19:00,4.0
+Spain,ESP,1/27/20 19:00,0.0
+Sri Lanka,LKA,1/27/20 19:00,1.0
+Sweden,SWE,1/27/20 19:00,0.0
+"Taiwan, Province of China",TWN,1/27/20 19:00,5.0
+Thailand,THA,1/27/20 19:00,8.0
+United Kingdom,GBR,1/27/20 19:00,0.0
+United States,USA,1/27/20 19:00,5.0
+United Arab Emirates,ARE,1/27/20 19:00,0.0
+Viet Nam,VNM,1/27/20 19:00,2.0
+Australia,AUS,1/27/20 20:30,5.0
+Belgium,BEL,1/27/20 20:30,0.0
+Cambodia,KHM,1/27/20 20:30,1.0
+Canada,CAN,1/27/20 20:30,1.0
+Finland,FIN,1/27/20 20:30,0.0
+France,FRA,1/27/20 20:30,3.0
+Germany,DEU,1/27/20 20:30,1.0
+Hong Kong,HKG,1/27/20 20:30,8.0
+India,IND,1/27/20 20:30,0.0
+Italy,ITA,1/27/20 20:30,0.0
+Japan,JPN,1/27/20 20:30,4.0
+Macao,MAC,1/27/20 20:30,6.0
+Malaysia,MYS,1/27/20 20:30,4.0
+Nepal,NPL,1/27/20 20:30,1.0
+Philippines,PHL,1/27/20 20:30,0.0
+Russian Federation,RUS,1/27/20 20:30,0.0
+Singapore,SGP,1/27/20 20:30,5.0
+"Korea, Republic of",KOR,1/27/20 20:30,4.0
+Spain,ESP,1/27/20 20:30,0.0
+Sri Lanka,LKA,1/27/20 20:30,1.0
+Sweden,SWE,1/27/20 20:30,0.0
+"Taiwan, Province of China",TWN,1/27/20 20:30,5.0
+Thailand,THA,1/27/20 20:30,8.0
+United Kingdom,GBR,1/27/20 20:30,0.0
+United States,USA,1/27/20 20:30,5.0
+United Arab Emirates,ARE,1/27/20 20:30,0.0
+Viet Nam,VNM,1/27/20 20:30,2.0
+Australia,AUS,1/28/20 13:00,5.0
+Belgium,BEL,1/28/20 13:00,0.0
+Cambodia,KHM,1/28/20 13:00,1.0
+Canada,CAN,1/28/20 13:00,2.0
+Finland,FIN,1/28/20 13:00,0.0
+France,FRA,1/28/20 13:00,3.0
+Germany,DEU,1/28/20 13:00,1.0
+Hong Kong,HKG,1/28/20 13:00,8.0
+India,IND,1/28/20 13:00,0.0
+Italy,ITA,1/28/20 13:00,0.0
+Japan,JPN,1/28/20 13:00,7.0
+Macao,MAC,1/28/20 13:00,7.0
+Malaysia,MYS,1/28/20 13:00,4.0
+Nepal,NPL,1/28/20 13:00,1.0
+Philippines,PHL,1/28/20 13:00,0.0
+Russian Federation,RUS,1/28/20 13:00,0.0
+Singapore,SGP,1/28/20 13:00,7.0
+"Korea, Republic of",KOR,1/28/20 13:00,4.0
+Spain,ESP,1/28/20 13:00,0.0
+Sri Lanka,LKA,1/28/20 13:00,1.0
+Sweden,SWE,1/28/20 13:00,0.0
+"Taiwan, Province of China",TWN,1/28/20 13:00,8.0
+Thailand,THA,1/28/20 13:00,14.0
+United Kingdom,GBR,1/28/20 13:00,0.0
+United States,USA,1/28/20 13:00,5.0
+United Arab Emirates,ARE,1/28/20 13:00,0.0
+Viet Nam,VNM,1/28/20 13:00,2.0
+Australia,AUS,1/28/20 18:00,5.0
+Belgium,BEL,1/28/20 18:00,0.0
+Cambodia,KHM,1/28/20 18:00,1.0
+Canada,CAN,1/28/20 18:00,2.0
+Finland,FIN,1/28/20 18:00,0.0
+France,FRA,1/28/20 18:00,4.0
+Germany,DEU,1/28/20 18:00,4.0
+Hong Kong,HKG,1/28/20 18:00,8.0
+India,IND,1/28/20 18:00,0.0
+Italy,ITA,1/28/20 18:00,0.0
+Japan,JPN,1/28/20 18:00,7.0
+Macao,MAC,1/28/20 18:00,7.0
+Malaysia,MYS,1/28/20 18:00,4.0
+Nepal,NPL,1/28/20 18:00,1.0
+Philippines,PHL,1/28/20 18:00,0.0
+Russian Federation,RUS,1/28/20 18:00,0.0
+Singapore,SGP,1/28/20 18:00,7.0
+"Korea, Republic of",KOR,1/28/20 18:00,4.0
+Spain,ESP,1/28/20 18:00,0.0
+Sri Lanka,LKA,1/28/20 18:00,1.0
+Sweden,SWE,1/28/20 18:00,0.0
+"Taiwan, Province of China",TWN,1/28/20 18:00,8.0
+Thailand,THA,1/28/20 18:00,14.0
+United Kingdom,GBR,1/28/20 18:00,0.0
+United States,USA,1/28/20 18:00,5.0
+United Arab Emirates,ARE,1/28/20 18:00,0.0
+Viet Nam,VNM,1/28/20 18:00,2.0
+Australia,AUS,1/28/20 23:00,5.0
+Belgium,BEL,1/28/20 23:00,0.0
+Cambodia,KHM,1/28/20 23:00,1.0
+Canada,CAN,1/28/20 23:00,2.0
+Finland,FIN,1/28/20 23:00,0.0
+France,FRA,1/28/20 23:00,4.0
+Germany,DEU,1/28/20 23:00,4.0
+Hong Kong,HKG,1/28/20 23:00,8.0
+India,IND,1/28/20 23:00,0.0
+Italy,ITA,1/28/20 23:00,0.0
+Japan,JPN,1/28/20 23:00,7.0
+Macao,MAC,1/28/20 23:00,7.0
+Malaysia,MYS,1/28/20 23:00,7.0
+Nepal,NPL,1/28/20 23:00,1.0
+Philippines,PHL,1/28/20 23:00,0.0
+Russian Federation,RUS,1/28/20 23:00,0.0
+Singapore,SGP,1/28/20 23:00,7.0
+"Korea, Republic of",KOR,1/28/20 23:00,4.0
+Spain,ESP,1/28/20 23:00,0.0
+Sri Lanka,LKA,1/28/20 23:00,1.0
+Sweden,SWE,1/28/20 23:00,0.0
+"Taiwan, Province of China",TWN,1/28/20 23:00,8.0
+Thailand,THA,1/28/20 23:00,14.0
+United Kingdom,GBR,1/28/20 23:00,0.0
+United States,USA,1/28/20 23:00,5.0
+United Arab Emirates,ARE,1/28/20 23:00,0.0
+Viet Nam,VNM,1/28/20 23:00,2.0
+Australia,AUS,1/29/20 13:30,5.0
+Belgium,BEL,1/29/20 13:30,0.0
+Cambodia,KHM,1/29/20 13:30,1.0
+Canada,CAN,1/29/20 13:30,2.0
+Finland,FIN,1/29/20 13:30,1.0
+France,FRA,1/29/20 13:30,4.0
+Germany,DEU,1/29/20 13:30,4.0
+Hong Kong,HKG,1/29/20 13:30,10.0
+India,IND,1/29/20 13:30,1.0
+Italy,ITA,1/29/20 13:30,0.0
+Japan,JPN,1/29/20 13:30,7.0
+Macao,MAC,1/29/20 13:30,7.0
+Malaysia,MYS,1/29/20 13:30,7.0
+Nepal,NPL,1/29/20 13:30,1.0
+Philippines,PHL,1/29/20 13:30,0.0
+Russian Federation,RUS,1/29/20 13:30,0.0
+Singapore,SGP,1/29/20 13:30,7.0
+"Korea, Republic of",KOR,1/29/20 13:30,4.0
+Spain,ESP,1/29/20 13:30,0.0
+Sri Lanka,LKA,1/29/20 13:30,1.0
+Sweden,SWE,1/29/20 13:30,0.0
+"Taiwan, Province of China",TWN,1/29/20 13:30,8.0
+Thailand,THA,1/29/20 13:30,14.0
+United Kingdom,GBR,1/29/20 13:30,0.0
+United States,USA,1/29/20 13:30,5.0
+United Arab Emirates,ARE,1/29/20 13:30,4.0
+Viet Nam,VNM,1/29/20 13:30,2.0
+Australia,AUS,1/29/20 14:30,5.0
+Belgium,BEL,1/29/20 14:30,0.0
+Cambodia,KHM,1/29/20 14:30,1.0
+Canada,CAN,1/29/20 14:30,2.0
+Finland,FIN,1/29/20 14:30,1.0
+France,FRA,1/29/20 14:30,5.0
+Germany,DEU,1/29/20 14:30,4.0
+Hong Kong,HKG,1/29/20 14:30,10.0
+India,IND,1/29/20 14:30,0.0
+Italy,ITA,1/29/20 14:30,0.0
+Japan,JPN,1/29/20 14:30,7.0
+Macao,MAC,1/29/20 14:30,7.0
+Malaysia,MYS,1/29/20 14:30,7.0
+Nepal,NPL,1/29/20 14:30,1.0
+Philippines,PHL,1/29/20 14:30,0.0
+Russian Federation,RUS,1/29/20 14:30,0.0
+Singapore,SGP,1/29/20 14:30,7.0
+"Korea, Republic of",KOR,1/29/20 14:30,4.0
+Spain,ESP,1/29/20 14:30,0.0
+Sri Lanka,LKA,1/29/20 14:30,1.0
+Sweden,SWE,1/29/20 14:30,0.0
+"Taiwan, Province of China",TWN,1/29/20 14:30,8.0
+Thailand,THA,1/29/20 14:30,14.0
+United Kingdom,GBR,1/29/20 14:30,0.0
+United States,USA,1/29/20 14:30,5.0
+United Arab Emirates,ARE,1/29/20 14:30,4.0
+Viet Nam,VNM,1/29/20 14:30,2.0
+Australia,AUS,1/29/20 21:00,7.0
+Belgium,BEL,1/29/20 21:00,0.0
+Cambodia,KHM,1/29/20 21:00,1.0
+Canada,CAN,1/29/20 21:00,2.0
+Finland,FIN,1/29/20 21:00,1.0
+France,FRA,1/29/20 21:00,5.0
+Germany,DEU,1/29/20 21:00,4.0
+Hong Kong,HKG,1/29/20 21:00,10.0
+India,IND,1/29/20 21:00,0.0
+Italy,ITA,1/29/20 21:00,0.0
+Japan,JPN,1/29/20 21:00,11.0
+Macao,MAC,1/29/20 21:00,7.0
+Malaysia,MYS,1/29/20 21:00,7.0
+Nepal,NPL,1/29/20 21:00,1.0
+Philippines,PHL,1/29/20 21:00,0.0
+Russian Federation,RUS,1/29/20 21:00,0.0
+Singapore,SGP,1/29/20 21:00,10.0
+"Korea, Republic of",KOR,1/29/20 21:00,4.0
+Spain,ESP,1/29/20 21:00,0.0
+Sri Lanka,LKA,1/29/20 21:00,1.0
+Sweden,SWE,1/29/20 21:00,0.0
+"Taiwan, Province of China",TWN,1/29/20 21:00,8.0
+Thailand,THA,1/29/20 21:00,14.0
+United Kingdom,GBR,1/29/20 21:00,0.0
+United States,USA,1/29/20 21:00,5.0
+United Arab Emirates,ARE,1/29/20 21:00,4.0
+Viet Nam,VNM,1/29/20 21:00,2.0
+Australia,AUS,1/30/20 11:00,9.0
+Belgium,BEL,1/30/20 11:00,0.0
+Cambodia,KHM,1/30/20 11:00,1.0
+Canada,CAN,1/30/20 11:00,2.0
+Finland,FIN,1/30/20 11:00,1.0
+France,FRA,1/30/20 11:00,5.0
+Germany,DEU,1/30/20 11:00,4.0
+Hong Kong,HKG,1/30/20 11:00,10.0
+India,IND,1/30/20 11:00,1.0
+Italy,ITA,1/30/20 11:00,0.0
+Japan,JPN,1/30/20 11:00,11.0
+Macao,MAC,1/30/20 11:00,7.0
+Malaysia,MYS,1/30/20 11:00,8.0
+Nepal,NPL,1/30/20 11:00,1.0
+Philippines,PHL,1/30/20 11:00,1.0
+Russian Federation,RUS,1/30/20 11:00,0.0
+Singapore,SGP,1/30/20 11:00,10.0
+"Korea, Republic of",KOR,1/30/20 11:00,4.0
+Spain,ESP,1/30/20 11:00,0.0
+Sri Lanka,LKA,1/30/20 11:00,1.0
+Sweden,SWE,1/30/20 11:00,0.0
+"Taiwan, Province of China",TWN,1/30/20 11:00,9.0
+Thailand,THA,1/30/20 11:00,14.0
+United Kingdom,GBR,1/30/20 11:00,0.0
+United States,USA,1/30/20 11:00,5.0
+United Arab Emirates,ARE,1/30/20 11:00,4.0
+Viet Nam,VNM,1/30/20 11:00,2.0
+Australia,AUS,1/31/20 14:00,9.0
+Belgium,BEL,1/31/20 14:00,0.0
+Cambodia,KHM,1/31/20 14:00,1.0
+Canada,CAN,1/31/20 14:00,4.0
+Finland,FIN,1/31/20 14:00,1.0
+France,FRA,1/31/20 14:00,5.0
+Germany,DEU,1/31/20 14:00,5.0
+Hong Kong,HKG,1/31/20 14:00,12.0
+India,IND,1/31/20 14:00,1.0
+Italy,ITA,1/31/20 14:00,2.0
+Japan,JPN,1/31/20 14:00,15.0
+Macao,MAC,1/31/20 14:00,7.0
+Malaysia,MYS,1/31/20 14:00,8.0
+Nepal,NPL,1/31/20 14:00,1.0
+Philippines,PHL,1/31/20 14:00,1.0
+Russian Federation,RUS,1/31/20 14:00,2.0
+Singapore,SGP,1/31/20 14:00,13.0
+"Korea, Republic of",KOR,1/31/20 14:00,11.0
+Spain,ESP,1/31/20 14:00,0.0
+Sri Lanka,LKA,1/31/20 14:00,1.0
+Sweden,SWE,1/31/20 14:00,1.0
+"Taiwan, Province of China",TWN,1/31/20 14:00,10.0
+Thailand,THA,1/31/20 14:00,19.0
+United Kingdom,GBR,1/31/20 14:00,2.0
+United States,USA,1/31/20 14:00,7.0
+United Arab Emirates,ARE,1/31/20 14:00,4.0
+Viet Nam,VNM,1/31/20 14:00,2.0
+Australia,AUS,02/01/20 10:00,12.0
+Belgium,BEL,02/01/20 10:00,0.0
+Cambodia,KHM,02/01/20 10:00,1.0
+Canada,CAN,02/01/20 10:00,4.0
+Finland,FIN,02/01/20 10:00,1.0
+France,FRA,02/01/20 10:00,6.0
+Germany,DEU,02/01/20 10:00,7.0
+Hong Kong,HKG,02/01/20 10:00,13.0
+India,IND,02/01/20 10:00,1.0
+Italy,ITA,02/01/20 10:00,2.0
+Japan,JPN,02/01/20 10:00,17.0
+Macao,MAC,02/01/20 10:00,7.0
+Malaysia,MYS,02/01/20 10:00,8.0
+Nepal,NPL,02/01/20 10:00,1.0
+Philippines,PHL,02/01/20 10:00,1.0
+Russian Federation,RUS,02/01/20 10:00,2.0
+Singapore,SGP,02/01/20 10:00,18.0
+"Korea, Republic of",KOR,02/01/20 10:00,12.0
+Spain,ESP,02/01/20 10:00,1.0
+Sri Lanka,LKA,02/01/20 10:00,1.0
+Sweden,SWE,02/01/20 10:00,1.0
+"Taiwan, Province of China",TWN,02/01/20 10:00,10.0
+Thailand,THA,02/01/20 10:00,19.0
+United Kingdom,GBR,02/01/20 10:00,2.0
+United States,USA,02/01/20 10:00,7.0
+United Arab Emirates,ARE,02/01/20 10:00,4.0
+Viet Nam,VNM,02/01/20 10:00,6.0
+Australia,AUS,02/02/20 21:00,12.0
+Belgium,BEL,02/02/20 21:00,0.0
+Cambodia,KHM,02/02/20 21:00,1.0
+Canada,CAN,02/02/20 21:00,4.0
+Finland,FIN,02/02/20 21:00,1.0
+France,FRA,02/02/20 21:00,6.0
+Germany,DEU,02/02/20 21:00,10.0
+Hong Kong,HKG,02/02/20 21:00,15.0
+India,IND,02/02/20 21:00,2.0
+Italy,ITA,02/02/20 21:00,2.0
+Japan,JPN,02/02/20 21:00,20.0
+Macao,MAC,02/02/20 21:00,8.0
+Malaysia,MYS,02/02/20 21:00,8.0
+Nepal,NPL,02/02/20 21:00,1.0
+Philippines,PHL,02/02/20 21:00,2.0
+Russian Federation,RUS,02/02/20 21:00,2.0
+Singapore,SGP,02/02/20 21:00,18.0
+"Korea, Republic of",KOR,02/02/20 21:00,15.0
+Spain,ESP,02/02/20 21:00,1.0
+Sri Lanka,LKA,02/02/20 21:00,1.0
+Sweden,SWE,02/02/20 21:00,1.0
+"Taiwan, Province of China",TWN,02/02/20 21:00,10.0
+Thailand,THA,02/02/20 21:00,19.0
+United Kingdom,GBR,02/02/20 21:00,2.0
+United States,USA,02/02/20 21:00,8.0
+United Arab Emirates,ARE,02/02/20 21:00,5.0
+Viet Nam,VNM,02/02/20 21:00,6.0
+Australia,AUS,02/03/20 21:00,12.0
+Belgium,BEL,02/03/20 21:00,0.0
+Cambodia,KHM,02/03/20 21:00,1.0
+Canada,CAN,02/03/20 21:00,4.0
+Finland,FIN,02/03/20 21:00,1.0
+France,FRA,02/03/20 21:00,6.0
+Germany,DEU,02/03/20 21:00,10.0
+Hong Kong,HKG,02/03/20 21:00,15.0
+India,IND,02/03/20 21:00,2.0
+Italy,ITA,02/03/20 21:00,2.0
+Japan,JPN,02/03/20 21:00,20.0
+Macao,MAC,02/03/20 21:00,8.0
+Malaysia,MYS,02/03/20 21:00,8.0
+Nepal,NPL,02/03/20 21:00,1.0
+Philippines,PHL,02/03/20 21:00,2.0
+Russian Federation,RUS,02/03/20 21:00,2.0
+Singapore,SGP,02/03/20 21:00,18.0
+"Korea, Republic of",KOR,02/03/20 21:00,15.0
+Spain,ESP,02/03/20 21:00,1.0
+Sri Lanka,LKA,02/03/20 21:00,1.0
+Sweden,SWE,02/03/20 21:00,1.0
+"Taiwan, Province of China",TWN,02/03/20 21:00,10.0
+Thailand,THA,02/03/20 21:00,19.0
+United Kingdom,GBR,02/03/20 21:00,2.0
+United States,USA,02/03/20 21:00,10.0
+United Arab Emirates,ARE,02/03/20 21:00,5.0
+Viet Nam,VNM,02/03/20 21:00,8.0
+Australia,AUS,02/04/20 9:40,12.0
+Belgium,BEL,02/04/20 9:40,1.0
+Cambodia,KHM,02/04/20 9:40,1.0
+Canada,CAN,02/04/20 9:40,4.0
+Finland,FIN,02/04/20 9:40,1.0
+France,FRA,02/04/20 9:40,6.0
+Germany,DEU,02/04/20 9:40,12.0
+Hong Kong,HKG,02/04/20 9:40,15.0
+India,IND,02/04/20 9:40,3.0
+Italy,ITA,02/04/20 9:40,2.0
+Japan,JPN,02/04/20 9:40,20.0
+Macao,MAC,02/04/20 9:40,8.0
+Malaysia,MYS,02/04/20 9:40,8.0
+Nepal,NPL,02/04/20 9:40,1.0
+Philippines,PHL,02/04/20 9:40,2.0
+Russian Federation,RUS,02/04/20 9:40,2.0
+Singapore,SGP,02/04/20 9:40,18.0
+"Korea, Republic of",KOR,02/04/20 9:40,15.0
+Spain,ESP,02/04/20 9:40,1.0
+Sri Lanka,LKA,02/04/20 9:40,1.0
+Sweden,SWE,02/04/20 9:40,1.0
+"Taiwan, Province of China",TWN,02/04/20 9:40,10.0
+Thailand,THA,02/04/20 9:40,19.0
+United Kingdom,GBR,02/04/20 9:40,2.0
+United States,USA,02/04/20 9:40,11.0
+United Arab Emirates,ARE,02/04/20 9:40,5.0
+Viet Nam,VNM,02/04/20 9:40,8.0
+Australia,AUS,02/04/20 22:00,13.0
+Belgium,BEL,02/04/20 22:00,1.0
+Cambodia,KHM,02/04/20 22:00,1.0
+Canada,CAN,02/04/20 22:00,4.0
+Finland,FIN,02/04/20 22:00,1.0
+France,FRA,02/04/20 22:00,6.0
+Germany,DEU,02/04/20 22:00,12.0
+Hong Kong,HKG,02/04/20 22:00,18.0
+India,IND,02/04/20 22:00,3.0
+Italy,ITA,02/04/20 22:00,2.0
+Japan,JPN,02/04/20 22:00,22.0
+Macao,MAC,02/04/20 22:00,10.0
+Malaysia,MYS,02/04/20 22:00,10.0
+Nepal,NPL,02/04/20 22:00,1.0
+Philippines,PHL,02/04/20 22:00,2.0
+Russian Federation,RUS,02/04/20 22:00,2.0
+Singapore,SGP,02/04/20 22:00,24.0
+"Korea, Republic of",KOR,02/04/20 22:00,16.0
+Spain,ESP,02/04/20 22:00,1.0
+Sri Lanka,LKA,02/04/20 22:00,1.0
+Sweden,SWE,02/04/20 22:00,1.0
+"Taiwan, Province of China",TWN,02/04/20 22:00,11.0
+Thailand,THA,02/04/20 22:00,25.0
+United Kingdom,GBR,02/04/20 22:00,2.0
+United States,USA,02/04/20 22:00,11.0
+United Arab Emirates,ARE,02/04/20 22:00,5.0
+Viet Nam,VNM,02/04/20 22:00,8.0
+Australia,AUS,02/05/20 9:00,13.0
+Belgium,BEL,02/05/20 9:00,1.0
+Cambodia,KHM,02/05/20 9:00,1.0
+Canada,CAN,02/05/20 9:00,4.0
+Finland,FIN,02/05/20 9:00,1.0
+France,FRA,02/05/20 9:00,6.0
+Germany,DEU,02/05/20 9:00,12.0
+Hong Kong,HKG,02/05/20 9:00,21.0
+India,IND,02/05/20 9:00,3.0
+Italy,ITA,02/05/20 9:00,2.0
+Japan,JPN,02/05/20 9:00,22.0
+Macao,MAC,02/05/20 9:00,10.0
+Malaysia,MYS,02/05/20 9:00,10.0
+Nepal,NPL,02/05/20 9:00,1.0
+Philippines,PHL,02/05/20 9:00,2.0
+Russian Federation,RUS,02/05/20 9:00,2.0
+Singapore,SGP,02/05/20 9:00,24.0
+"Korea, Republic of",KOR,02/05/20 9:00,16.0
+Spain,ESP,02/05/20 9:00,1.0
+Sri Lanka,LKA,02/05/20 9:00,1.0
+Sweden,SWE,02/05/20 9:00,1.0
+"Taiwan, Province of China",TWN,02/05/20 9:00,11.0
+Thailand,THA,02/05/20 9:00,25.0
+United Kingdom,GBR,02/05/20 9:00,2.0
+United States,USA,02/05/20 9:00,11.0
+United Arab Emirates,ARE,02/05/20 9:00,5.0
+Viet Nam,VNM,02/05/20 9:00,8.0
+Australia,AUS,02/05/20 23:00,14.0
+Belgium,BEL,02/05/20 23:00,1.0
+Cambodia,KHM,02/05/20 23:00,1.0
+Canada,CAN,02/05/20 23:00,5.0
+Finland,FIN,02/05/20 23:00,1.0
+France,FRA,02/05/20 23:00,6.0
+Germany,DEU,02/05/20 23:00,12.0
+Hong Kong,HKG,02/05/20 23:00,21.0
+India,IND,02/05/20 23:00,3.0
+Italy,ITA,02/05/20 23:00,2.0
+Japan,JPN,02/05/20 23:00,45.0
+Macao,MAC,02/05/20 23:00,10.0
+Malaysia,MYS,02/05/20 23:00,12.0
+Nepal,NPL,02/05/20 23:00,1.0
+Philippines,PHL,02/05/20 23:00,2.0
+Russian Federation,RUS,02/05/20 23:00,2.0
+Singapore,SGP,02/05/20 23:00,28.0
+"Korea, Republic of",KOR,02/05/20 23:00,23.0
+Spain,ESP,02/05/20 23:00,1.0
+Sri Lanka,LKA,02/05/20 23:00,1.0
+Sweden,SWE,02/05/20 23:00,1.0
+"Taiwan, Province of China",TWN,02/05/20 23:00,11.0
+Thailand,THA,02/05/20 23:00,25.0
+United Kingdom,GBR,02/05/20 23:00,2.0
+United States,USA,02/05/20 23:00,12.0
+United Arab Emirates,ARE,02/05/20 23:00,5.0
+Viet Nam,VNM,02/05/20 23:00,10.0
+Australia,AUS,02/06/20 9:00,14.0
+Belgium,BEL,02/06/20 9:00,1.0
+Cambodia,KHM,02/06/20 9:00,1.0
+Canada,CAN,02/06/20 9:00,5.0
+Finland,FIN,02/06/20 9:00,1.0
+France,FRA,02/06/20 9:00,6.0
+Germany,DEU,02/06/20 9:00,12.0
+Hong Kong,HKG,02/06/20 9:00,21.0
+India,IND,02/06/20 9:00,3.0
+Italy,ITA,02/06/20 9:00,2.0
+Japan,JPN,02/06/20 9:00,45.0
+Macao,MAC,02/06/20 9:00,10.0
+Malaysia,MYS,02/06/20 9:00,12.0
+Nepal,NPL,02/06/20 9:00,1.0
+Philippines,PHL,02/06/20 9:00,2.0
+Russian Federation,RUS,02/06/20 9:00,2.0
+Singapore,SGP,02/06/20 9:00,28.0
+"Korea, Republic of",KOR,02/06/20 9:00,23.0
+Spain,ESP,02/06/20 9:00,1.0
+Sri Lanka,LKA,02/06/20 9:00,1.0
+Sweden,SWE,02/06/20 9:00,1.0
+"Taiwan, Province of China",TWN,02/06/20 9:00,13.0
+Thailand,THA,02/06/20 9:00,25.0
+United Kingdom,GBR,02/06/20 9:00,2.0
+United States,USA,02/06/20 9:00,12.0
+United Arab Emirates,ARE,02/06/20 9:00,5.0
+Viet Nam,VNM,02/06/20 9:00,10.0
+Australia,AUS,02/06/20 14:20,14.0
+Belgium,BEL,02/06/20 14:20,1.0
+Cambodia,KHM,02/06/20 14:20,1.0
+Canada,CAN,02/06/20 14:20,5.0
+Finland,FIN,02/06/20 14:20,1.0
+France,FRA,02/06/20 14:20,6.0
+Germany,DEU,02/06/20 14:20,12.0
+Hong Kong,HKG,02/06/20 14:20,24.0
+India,IND,02/06/20 14:20,3.0
+Italy,ITA,02/06/20 14:20,2.0
+Japan,JPN,02/06/20 14:20,45.0
+Macao,MAC,02/06/20 14:20,10.0
+Malaysia,MYS,02/06/20 14:20,12.0
+Nepal,NPL,02/06/20 14:20,1.0
+Philippines,PHL,02/06/20 14:20,2.0
+Russian Federation,RUS,02/06/20 14:20,2.0
+Singapore,SGP,02/06/20 14:20,28.0
+"Korea, Republic of",KOR,02/06/20 14:20,23.0
+Spain,ESP,02/06/20 14:20,1.0
+Sri Lanka,LKA,02/06/20 14:20,1.0
+Sweden,SWE,02/06/20 14:20,1.0
+"Taiwan, Province of China",TWN,02/06/20 14:20,16.0
+Thailand,THA,02/06/20 14:20,25.0
+United Kingdom,GBR,02/06/20 14:20,2.0
+United States,USA,02/06/20 14:20,12.0
+United Arab Emirates,ARE,02/06/20 14:20,5.0
+Viet Nam,VNM,02/06/20 14:20,10.0
+Australia,AUS,02/07/20 20:13,15.0
+Belgium,BEL,02/07/20 20:13,1.0
+Cambodia,KHM,02/07/20 20:13,1.0
+Canada,CAN,02/07/20 20:13,7.0
+Finland,FIN,02/07/20 20:13,1.0
+France,FRA,02/07/20 20:13,6.0
+Germany,DEU,02/07/20 20:13,13.0
+Hong Kong,HKG,02/07/20 20:13,25.0
+India,IND,02/07/20 20:13,3.0
+Italy,ITA,02/07/20 20:13,3.0
+Japan,JPN,02/07/20 20:13,25.0
+Macao,MAC,02/07/20 20:13,10.0
+Malaysia,MYS,02/07/20 20:13,12.0
+Nepal,NPL,02/07/20 20:13,1.0
+Philippines,PHL,02/07/20 20:13,3.0
+Russian Federation,RUS,02/07/20 20:13,2.0
+Singapore,SGP,02/07/20 20:13,30.0
+"Korea, Republic of",KOR,02/07/20 20:13,24.0
+Spain,ESP,02/07/20 20:13,1.0
+Sri Lanka,LKA,02/07/20 20:13,1.0
+Sweden,SWE,02/07/20 20:13,1.0
+"Taiwan, Province of China",TWN,02/07/20 20:13,16.0
+Thailand,THA,02/07/20 20:13,25.0
+United Kingdom,GBR,02/07/20 20:13,3.0
+United States,USA,02/07/20 20:13,12.0
+United Arab Emirates,ARE,02/07/20 20:13,5.0
+Viet Nam,VNM,02/07/20 20:13,10.0
+Australia,AUS,02/07/20 22:50,15.0
+Belgium,BEL,02/07/20 22:50,1.0
+Cambodia,KHM,02/07/20 22:50,1.0
+Canada,CAN,02/07/20 22:50,7.0
+Finland,FIN,02/07/20 22:50,1.0
+France,FRA,02/07/20 22:50,6.0
+Germany,DEU,02/07/20 22:50,13.0
+Hong Kong,HKG,02/07/20 22:50,26.0
+India,IND,02/07/20 22:50,3.0
+Italy,ITA,02/07/20 22:50,3.0
+Japan,JPN,02/07/20 22:50,25.0
+Macao,MAC,02/07/20 22:50,10.0
+Malaysia,MYS,02/07/20 22:50,12.0
+Nepal,NPL,02/07/20 22:50,1.0
+Philippines,PHL,02/07/20 22:50,3.0
+Russian Federation,RUS,02/07/20 22:50,2.0
+Singapore,SGP,02/07/20 22:50,30.0
+"Korea, Republic of",KOR,02/07/20 22:50,36.0
+Spain,ESP,02/07/20 22:50,1.0
+Sri Lanka,LKA,02/07/20 22:50,1.0
+Sweden,SWE,02/07/20 22:50,1.0
+"Taiwan, Province of China",TWN,02/07/20 22:50,16.0
+Thailand,THA,02/07/20 22:50,25.0
+United Kingdom,GBR,02/07/20 22:50,3.0
+United States,USA,02/07/20 22:50,12.0
+United Arab Emirates,ARE,02/07/20 22:50,5.0
+Viet Nam,VNM,02/07/20 22:50,10.0
+Australia,AUS,02/08/20 22:04,15.0
+Belgium,BEL,02/08/20 22:04,1.0
+Cambodia,KHM,02/08/20 22:04,1.0
+Canada,CAN,02/08/20 22:04,7.0
+Finland,FIN,02/08/20 22:04,1.0
+France,FRA,02/08/20 22:04,11.0
+Germany,DEU,02/08/20 22:04,13.0
+Hong Kong,HKG,02/08/20 22:04,26.0
+India,IND,02/08/20 22:04,3.0
+Italy,ITA,02/08/20 22:04,3.0
+Japan,JPN,02/08/20 22:04,25.0
+Macao,MAC,02/08/20 22:04,10.0
+Malaysia,MYS,02/08/20 22:04,16.0
+Nepal,NPL,02/08/20 22:04,1.0
+Philippines,PHL,02/08/20 22:04,3.0
+Russian Federation,RUS,02/08/20 22:04,2.0
+Singapore,SGP,02/08/20 22:04,33.0
+"Korea, Republic of",KOR,02/08/20 22:04,24.0
+Spain,ESP,02/08/20 22:04,1.0
+Sri Lanka,LKA,02/08/20 22:04,1.0
+Sweden,SWE,02/08/20 22:04,1.0
+"Taiwan, Province of China",TWN,02/08/20 22:04,17.0
+Thailand,THA,02/08/20 22:04,32.0
+United Kingdom,GBR,02/08/20 22:04,3.0
+United States,USA,02/08/20 22:04,12.0
+United Arab Emirates,ARE,02/08/20 22:04,7.0
+Viet Nam,VNM,02/08/20 22:04,13.0
+Australia,AUS,02/08/20 23:04,15.0
+Belgium,BEL,02/08/20 23:04,1.0
+Cambodia,KHM,02/08/20 23:04,1.0
+Canada,CAN,02/08/20 23:04,7.0
+Finland,FIN,02/08/20 23:04,1.0
+France,FRA,02/08/20 23:04,11.0
+Germany,DEU,02/08/20 23:04,13.0
+Hong Kong,HKG,02/08/20 23:04,26.0
+India,IND,02/08/20 23:04,3.0
+Italy,ITA,02/08/20 23:04,3.0
+Japan,JPN,02/08/20 23:04,25.0
+Macao,MAC,02/08/20 23:04,10.0
+Malaysia,MYS,02/08/20 23:04,16.0
+Nepal,NPL,02/08/20 23:04,1.0
+Philippines,PHL,02/08/20 23:04,3.0
+Russian Federation,RUS,02/08/20 23:04,2.0
+Singapore,SGP,02/08/20 23:04,40.0
+"Korea, Republic of",KOR,02/08/20 23:04,25.0
+Spain,ESP,02/08/20 23:04,1.0
+Sri Lanka,LKA,02/08/20 23:04,1.0
+Sweden,SWE,02/08/20 23:04,1.0
+"Taiwan, Province of China",TWN,02/08/20 23:04,17.0
+Thailand,THA,02/08/20 23:04,32.0
+United Kingdom,GBR,02/08/20 23:04,3.0
+United States,USA,02/08/20 23:04,12.0
+United Arab Emirates,ARE,02/08/20 23:04,7.0
+Viet Nam,VNM,02/08/20 23:04,13.0
+Australia,AUS,02/09/20 10:30,15.0
+Belgium,BEL,02/09/20 10:30,1.0
+Cambodia,KHM,02/09/20 10:30,1.0
+Canada,CAN,02/09/20 10:30,7.0
+Finland,FIN,02/09/20 10:30,1.0
+France,FRA,02/09/20 10:30,11.0
+Germany,DEU,02/09/20 10:30,14.0
+Hong Kong,HKG,02/09/20 10:30,29.0
+India,IND,02/09/20 10:30,3.0
+Italy,ITA,02/09/20 10:30,3.0
+Japan,JPN,02/09/20 10:30,26.0
+Macao,MAC,02/09/20 10:30,10.0
+Malaysia,MYS,02/09/20 10:30,16.0
+Nepal,NPL,02/09/20 10:30,1.0
+Philippines,PHL,02/09/20 10:30,3.0
+Russian Federation,RUS,02/09/20 10:30,2.0
+Singapore,SGP,02/09/20 10:30,40.0
+"Korea, Republic of",KOR,02/09/20 10:30,25.0
+Spain,ESP,02/09/20 10:30,1.0
+Sri Lanka,LKA,02/09/20 10:30,1.0
+Sweden,SWE,02/09/20 10:30,1.0
+"Taiwan, Province of China",TWN,02/09/20 10:30,18.0
+Thailand,THA,02/09/20 10:30,32.0
+United Kingdom,GBR,02/09/20 10:30,3.0
+United States,USA,02/09/20 10:30,12.0
+United Arab Emirates,ARE,02/09/20 10:30,7.0
+Viet Nam,VNM,02/09/20 10:30,13.0
+Australia,AUS,02/09/20 23:20,15.0
+Belgium,BEL,02/09/20 23:20,1.0
+Cambodia,KHM,02/09/20 23:20,1.0
+Canada,CAN,02/09/20 23:20,7.0
+Finland,FIN,02/09/20 23:20,1.0
+France,FRA,02/09/20 23:20,11.0
+Germany,DEU,02/09/20 23:20,14.0
+Hong Kong,HKG,02/09/20 23:20,36.0
+India,IND,02/09/20 23:20,3.0
+Italy,ITA,02/09/20 23:20,3.0
+Japan,JPN,02/09/20 23:20,26.0
+Macao,MAC,02/09/20 23:20,10.0
+Malaysia,MYS,02/09/20 23:20,18.0
+Nepal,NPL,02/09/20 23:20,1.0
+Philippines,PHL,02/09/20 23:20,3.0
+Russian Federation,RUS,02/09/20 23:20,2.0
+Singapore,SGP,02/09/20 23:20,43.0
+"Korea, Republic of",KOR,02/09/20 23:20,27.0
+Spain,ESP,02/09/20 23:20,2.0
+Sri Lanka,LKA,02/09/20 23:20,1.0
+Sweden,SWE,02/09/20 23:20,1.0
+"Taiwan, Province of China",TWN,02/09/20 23:20,18.0
+Thailand,THA,02/09/20 23:20,32.0
+United Kingdom,GBR,02/09/20 23:20,3.0
+United States,USA,02/09/20 23:20,12.0
+United Arab Emirates,ARE,02/09/20 23:20,7.0
+Viet Nam,VNM,02/09/20 23:20,14.0
