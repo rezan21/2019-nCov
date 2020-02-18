@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 def plot_cnfrmd_frame():
     # crate figure as usual
-    df_cnfrmd = pd.read_csv("df_cnfrmd_proc.csv")
+    df_cnfrmd = pd.read_csv("data/df_cnfrmd_proc.csv")
     fig = px.scatter_geo(df_cnfrmd, locations="Country_Code",
                         hover_name="Country", size="Cases",
                         animation_frame="Time_Stamp",
