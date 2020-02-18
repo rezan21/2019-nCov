@@ -27,7 +27,12 @@ body {
     margin: 0 auto;
     padding: 35px 20px;
 }
-
+.charts-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 20px;
+}
 .site-header {
     background-color: var(--main-color);
     color: white;
