@@ -1,38 +1,48 @@
-
 <!DOCTYPE html>
 <html>
+
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <!-- Bootstrap CSS -->
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
     <!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}"> -->
 
     {% if title %}
-        <title>Flask Blog - {{ title }}</title>
+    <title>2019-nCov Analysis - {{ title }}</title>
     {% else %}
-        <title>Flask Blog</title>
+    <title>2019-nCov Analysis</title>
     {% endif %}
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <!-- Plotly.js -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
-     
+
 </head>
+
 <body>
     <header class="site-header">
-      this is shared header
-    </header>
-    <main class="container">
-        <div>
-            <div class="col-md-8">
-                {% block content %}{% endblock %}
-            </div>
+        <div class="header-content">
+            <span class="left-header"><b>2019-nCov:</b>Novel Coronavirus | Data Science approach to The Disease</span>
+            <span class="right-header">Analysis & Visualisations by: <a href="https://github.com/rezan21">Reza
+                    N</a></span>
         </div>
-    </main>
+    </header>
+    <div id="page-container">
+        <main class="container">
+            <div>
+                <div class="col-md-8">
+                    {% block content %}{% endblock %}
+                </div>
+            </div>
+        </main>
+    </div>
+    </div>
+
 
 
     <!-- Optional JavaScript -->
@@ -42,4 +52,5 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> -->
 
 </body>
+
 </html>

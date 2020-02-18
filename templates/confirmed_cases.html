@@ -1,9 +1,12 @@
 {% extends "layout.html" %}
 {% block content %}
-<div class="chart" id="bargraph">
-    <script>
-        var graphs = {{figure | safe}};
-        Plotly.plot('bargraph',graphs,{});
-    </script>
-</div>
+<p>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), formerly known as the 2019 novel coronavirus
+    (2019-nCoV),is a positive-sense single-stranded RNA virus. It is contagious among humans and is the cause of
+    coronavirus disease 2019 (COVID-19).[8] There is no vaccine available.<u>Wikipedia</u></p>
+    <div class="chart" id="bargraph" >
+        <script>
+            var graphs = {{figure | safe}};
+            Plotly.plot('bargraph',graphs,{});
+        </script>
+    </div>
 {% endblock content %}
