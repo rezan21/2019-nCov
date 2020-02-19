@@ -17,7 +17,7 @@ def plot_animation(df=animation_df):
 
     fig.update_layout(
             title = go.layout.Title(
-            text = '<b>2019-nCoV</b>: Coronavirus disease 2019-20<br>Study <i>Excludes</i> cases in China'),
+            text = '<b>2019-nCoV</b>:Worldwide Periodic Confirmed Cases<br>Graph <i>Excludes</i> cases in China'),
             showlegend = True,
 
         )

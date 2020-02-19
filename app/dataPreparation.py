@@ -53,8 +53,9 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
     # melt (i.e: wide to long function)
     confrmd_df = pd.melt(confrmd_df, id_vars=["Country","Country_Code"],var_name="Time_Stamp", value_name="Cases")
     confrmd_df.to_csv("./app_data/frame_animation_df.csv",index=False)
-
+    
 prepare_dfCnfrmd()
+
 
 def prepare_general_df(confrmd_df=confrmd_df,recovrd_df=recovrd_df,deaths_df=deaths_df):
     confrmd_df.drop(["Province/State","Lat","Long"], axis=1, inplace=True)
