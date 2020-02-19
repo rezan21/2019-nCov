@@ -1,0 +1,729 @@
+Country,Country_Code,Time_Stamp,Cases
+Australia,AUS,1/22/20,0
+Belgium,BEL,1/22/20,0
+Cambodia,KHM,1/22/20,0
+Canada,CAN,1/22/20,0
+Egypt,EGY,1/22/20,0
+Finland,FIN,1/22/20,0
+France,FRA,1/22/20,0
+Germany,DEU,1/22/20,0
+Hong Kong,HKG,1/22/20,0
+India,IND,1/22/20,0
+Italy,ITA,1/22/20,0
+Japan,JPN,1/22/20,2
+Macao,MAC,1/22/20,1
+Malaysia,MYS,1/22/20,0
+Nepal,NPL,1/22/20,0
+Philippines,PHL,1/22/20,0
+Russian Federation,RUS,1/22/20,0
+Singapore,SGP,1/22/20,0
+"Korea, Republic of",KOR,1/22/20,1
+Spain,ESP,1/22/20,0
+Sri Lanka,LKA,1/22/20,0
+Sweden,SWE,1/22/20,0
+"Taiwan, Province of China",TWN,1/22/20,1
+Thailand,THA,1/22/20,2
+United Kingdom,GBR,1/22/20,0
+United States,USA,1/22/20,1
+United Arab Emirates,ARE,1/22/20,0
+Viet Nam,VNM,1/22/20,0
+Australia,AUS,1/23/20,0
+Belgium,BEL,1/23/20,0
+Cambodia,KHM,1/23/20,0
+Canada,CAN,1/23/20,0
+Egypt,EGY,1/23/20,0
+Finland,FIN,1/23/20,0
+France,FRA,1/23/20,0
+Germany,DEU,1/23/20,0
+Hong Kong,HKG,1/23/20,2
+India,IND,1/23/20,0
+Italy,ITA,1/23/20,0
+Japan,JPN,1/23/20,1
+Macao,MAC,1/23/20,2
+Malaysia,MYS,1/23/20,0
+Nepal,NPL,1/23/20,0
+Philippines,PHL,1/23/20,0
+Russian Federation,RUS,1/23/20,0
+Singapore,SGP,1/23/20,1
+"Korea, Republic of",KOR,1/23/20,1
+Spain,ESP,1/23/20,0
+Sri Lanka,LKA,1/23/20,0
+Sweden,SWE,1/23/20,0
+"Taiwan, Province of China",TWN,1/23/20,1
+Thailand,THA,1/23/20,3
+United Kingdom,GBR,1/23/20,0
+United States,USA,1/23/20,1
+United Arab Emirates,ARE,1/23/20,0
+Viet Nam,VNM,1/23/20,2
+Australia,AUS,1/24/20,0
+Belgium,BEL,1/24/20,0
+Cambodia,KHM,1/24/20,0
+Canada,CAN,1/24/20,0
+Egypt,EGY,1/24/20,0
+Finland,FIN,1/24/20,0
+France,FRA,1/24/20,2
+Germany,DEU,1/24/20,0
+Hong Kong,HKG,1/24/20,2
+India,IND,1/24/20,0
+Italy,ITA,1/24/20,0
+Japan,JPN,1/24/20,2
+Macao,MAC,1/24/20,2
+Malaysia,MYS,1/24/20,0
+Nepal,NPL,1/24/20,0
+Philippines,PHL,1/24/20,0
+Russian Federation,RUS,1/24/20,0
+Singapore,SGP,1/24/20,3
+"Korea, Republic of",KOR,1/24/20,2
+Spain,ESP,1/24/20,0
+Sri Lanka,LKA,1/24/20,0
+Sweden,SWE,1/24/20,0
+"Taiwan, Province of China",TWN,1/24/20,3
+Thailand,THA,1/24/20,5
+United Kingdom,GBR,1/24/20,0
+United States,USA,1/24/20,2
+United Arab Emirates,ARE,1/24/20,0
+Viet Nam,VNM,1/24/20,2
+Australia,AUS,1/25/20,0
+Belgium,BEL,1/25/20,0
+Cambodia,KHM,1/25/20,0
+Canada,CAN,1/25/20,0
+Egypt,EGY,1/25/20,0
+Finland,FIN,1/25/20,0
+France,FRA,1/25/20,3
+Germany,DEU,1/25/20,0
+Hong Kong,HKG,1/25/20,5
+India,IND,1/25/20,0
+Italy,ITA,1/25/20,0
+Japan,JPN,1/25/20,2
+Macao,MAC,1/25/20,2
+Malaysia,MYS,1/25/20,3
+Nepal,NPL,1/25/20,1
+Philippines,PHL,1/25/20,0
+Russian Federation,RUS,1/25/20,0
+Singapore,SGP,1/25/20,3
+"Korea, Republic of",KOR,1/25/20,2
+Spain,ESP,1/25/20,0
+Sri Lanka,LKA,1/25/20,0
+Sweden,SWE,1/25/20,0
+"Taiwan, Province of China",TWN,1/25/20,3
+Thailand,THA,1/25/20,7
+United Kingdom,GBR,1/25/20,0
+United States,USA,1/25/20,2
+United Arab Emirates,ARE,1/25/20,0
+Viet Nam,VNM,1/25/20,2
+Australia,AUS,1/26/20,4
+Belgium,BEL,1/26/20,0
+Cambodia,KHM,1/26/20,0
+Canada,CAN,1/26/20,1
+Egypt,EGY,1/26/20,0
+Finland,FIN,1/26/20,0
+France,FRA,1/26/20,3
+Germany,DEU,1/26/20,0
+Hong Kong,HKG,1/26/20,8
+India,IND,1/26/20,0
+Italy,ITA,1/26/20,0
+Japan,JPN,1/26/20,4
+Macao,MAC,1/26/20,5
+Malaysia,MYS,1/26/20,4
+Nepal,NPL,1/26/20,1
+Philippines,PHL,1/26/20,0
+Russian Federation,RUS,1/26/20,0
+Singapore,SGP,1/26/20,4
+"Korea, Republic of",KOR,1/26/20,3
+Spain,ESP,1/26/20,0
+Sri Lanka,LKA,1/26/20,0
+Sweden,SWE,1/26/20,0
+"Taiwan, Province of China",TWN,1/26/20,4
+Thailand,THA,1/26/20,8
+United Kingdom,GBR,1/26/20,0
+United States,USA,1/26/20,5
+United Arab Emirates,ARE,1/26/20,0
+Viet Nam,VNM,1/26/20,2
+Australia,AUS,1/27/20,5
+Belgium,BEL,1/27/20,0
+Cambodia,KHM,1/27/20,1
+Canada,CAN,1/27/20,1
+Egypt,EGY,1/27/20,0
+Finland,FIN,1/27/20,0
+France,FRA,1/27/20,3
+Germany,DEU,1/27/20,1
+Hong Kong,HKG,1/27/20,8
+India,IND,1/27/20,0
+Italy,ITA,1/27/20,0
+Japan,JPN,1/27/20,4
+Macao,MAC,1/27/20,6
+Malaysia,MYS,1/27/20,4
+Nepal,NPL,1/27/20,1
+Philippines,PHL,1/27/20,0
+Russian Federation,RUS,1/27/20,0
+Singapore,SGP,1/27/20,5
+"Korea, Republic of",KOR,1/27/20,4
+Spain,ESP,1/27/20,0
+Sri Lanka,LKA,1/27/20,1
+Sweden,SWE,1/27/20,0
+"Taiwan, Province of China",TWN,1/27/20,5
+Thailand,THA,1/27/20,8
+United Kingdom,GBR,1/27/20,0
+United States,USA,1/27/20,5
+United Arab Emirates,ARE,1/27/20,0
+Viet Nam,VNM,1/27/20,2
+Australia,AUS,1/28/20,5
+Belgium,BEL,1/28/20,0
+Cambodia,KHM,1/28/20,1
+Canada,CAN,1/28/20,2
+Egypt,EGY,1/28/20,0
+Finland,FIN,1/28/20,0
+France,FRA,1/28/20,4
+Germany,DEU,1/28/20,4
+Hong Kong,HKG,1/28/20,8
+India,IND,1/28/20,0
+Italy,ITA,1/28/20,0
+Japan,JPN,1/28/20,7
+Macao,MAC,1/28/20,7
+Malaysia,MYS,1/28/20,4
+Nepal,NPL,1/28/20,1
+Philippines,PHL,1/28/20,0
+Russian Federation,RUS,1/28/20,0
+Singapore,SGP,1/28/20,7
+"Korea, Republic of",KOR,1/28/20,4
+Spain,ESP,1/28/20,0
+Sri Lanka,LKA,1/28/20,1
+Sweden,SWE,1/28/20,0
+"Taiwan, Province of China",TWN,1/28/20,8
+Thailand,THA,1/28/20,14
+United Kingdom,GBR,1/28/20,0
+United States,USA,1/28/20,5
+United Arab Emirates,ARE,1/28/20,0
+Viet Nam,VNM,1/28/20,2
+Australia,AUS,1/29/20,6
+Belgium,BEL,1/29/20,0
+Cambodia,KHM,1/29/20,1
+Canada,CAN,1/29/20,2
+Egypt,EGY,1/29/20,0
+Finland,FIN,1/29/20,1
+France,FRA,1/29/20,5
+Germany,DEU,1/29/20,4
+Hong Kong,HKG,1/29/20,10
+India,IND,1/29/20,0
+Italy,ITA,1/29/20,0
+Japan,JPN,1/29/20,7
+Macao,MAC,1/29/20,7
+Malaysia,MYS,1/29/20,7
+Nepal,NPL,1/29/20,1
+Philippines,PHL,1/29/20,0
+Russian Federation,RUS,1/29/20,0
+Singapore,SGP,1/29/20,7
+"Korea, Republic of",KOR,1/29/20,4
+Spain,ESP,1/29/20,0
+Sri Lanka,LKA,1/29/20,1
+Sweden,SWE,1/29/20,0
+"Taiwan, Province of China",TWN,1/29/20,8
+Thailand,THA,1/29/20,14
+United Kingdom,GBR,1/29/20,0
+United States,USA,1/29/20,5
+United Arab Emirates,ARE,1/29/20,4
+Viet Nam,VNM,1/29/20,2
+Australia,AUS,1/30/20,9
+Belgium,BEL,1/30/20,0
+Cambodia,KHM,1/30/20,1
+Canada,CAN,1/30/20,2
+Egypt,EGY,1/30/20,0
+Finland,FIN,1/30/20,1
+France,FRA,1/30/20,5
+Germany,DEU,1/30/20,4
+Hong Kong,HKG,1/30/20,10
+India,IND,1/30/20,1
+Italy,ITA,1/30/20,0
+Japan,JPN,1/30/20,11
+Macao,MAC,1/30/20,7
+Malaysia,MYS,1/30/20,8
+Nepal,NPL,1/30/20,1
+Philippines,PHL,1/30/20,1
+Russian Federation,RUS,1/30/20,0
+Singapore,SGP,1/30/20,10
+"Korea, Republic of",KOR,1/30/20,4
+Spain,ESP,1/30/20,0
+Sri Lanka,LKA,1/30/20,1
+Sweden,SWE,1/30/20,0
+"Taiwan, Province of China",TWN,1/30/20,9
+Thailand,THA,1/30/20,14
+United Kingdom,GBR,1/30/20,0
+United States,USA,1/30/20,5
+United Arab Emirates,ARE,1/30/20,4
+Viet Nam,VNM,1/30/20,2
+Australia,AUS,1/31/20,9
+Belgium,BEL,1/31/20,0
+Cambodia,KHM,1/31/20,1
+Canada,CAN,1/31/20,4
+Egypt,EGY,1/31/20,0
+Finland,FIN,1/31/20,1
+France,FRA,1/31/20,5
+Germany,DEU,1/31/20,5
+Hong Kong,HKG,1/31/20,12
+India,IND,1/31/20,1
+Italy,ITA,1/31/20,2
+Japan,JPN,1/31/20,15
+Macao,MAC,1/31/20,7
+Malaysia,MYS,1/31/20,8
+Nepal,NPL,1/31/20,1
+Philippines,PHL,1/31/20,1
+Russian Federation,RUS,1/31/20,2
+Singapore,SGP,1/31/20,13
+"Korea, Republic of",KOR,1/31/20,11
+Spain,ESP,1/31/20,0
+Sri Lanka,LKA,1/31/20,1
+Sweden,SWE,1/31/20,1
+"Taiwan, Province of China",TWN,1/31/20,10
+Thailand,THA,1/31/20,19
+United Kingdom,GBR,1/31/20,2
+United States,USA,1/31/20,7
+United Arab Emirates,ARE,1/31/20,4
+Viet Nam,VNM,1/31/20,2
+Australia,AUS,2/1/20,12
+Belgium,BEL,2/1/20,0
+Cambodia,KHM,2/1/20,1
+Canada,CAN,2/1/20,4
+Egypt,EGY,2/1/20,0
+Finland,FIN,2/1/20,1
+France,FRA,2/1/20,6
+Germany,DEU,2/1/20,8
+Hong Kong,HKG,2/1/20,13
+India,IND,2/1/20,1
+Italy,ITA,2/1/20,2
+Japan,JPN,2/1/20,20
+Macao,MAC,2/1/20,7
+Malaysia,MYS,2/1/20,8
+Nepal,NPL,2/1/20,1
+Philippines,PHL,2/1/20,1
+Russian Federation,RUS,2/1/20,2
+Singapore,SGP,2/1/20,16
+"Korea, Republic of",KOR,2/1/20,12
+Spain,ESP,2/1/20,1
+Sri Lanka,LKA,2/1/20,1
+Sweden,SWE,2/1/20,1
+"Taiwan, Province of China",TWN,2/1/20,10
+Thailand,THA,2/1/20,19
+United Kingdom,GBR,2/1/20,2
+United States,USA,2/1/20,8
+United Arab Emirates,ARE,2/1/20,4
+Viet Nam,VNM,2/1/20,6
+Australia,AUS,2/2/20,12
+Belgium,BEL,2/2/20,0
+Cambodia,KHM,2/2/20,1
+Canada,CAN,2/2/20,4
+Egypt,EGY,2/2/20,0
+Finland,FIN,2/2/20,1
+France,FRA,2/2/20,6
+Germany,DEU,2/2/20,10
+Hong Kong,HKG,2/2/20,15
+India,IND,2/2/20,2
+Italy,ITA,2/2/20,2
+Japan,JPN,2/2/20,20
+Macao,MAC,2/2/20,8
+Malaysia,MYS,2/2/20,8
+Nepal,NPL,2/2/20,1
+Philippines,PHL,2/2/20,2
+Russian Federation,RUS,2/2/20,2
+Singapore,SGP,2/2/20,18
+"Korea, Republic of",KOR,2/2/20,15
+Spain,ESP,2/2/20,1
+Sri Lanka,LKA,2/2/20,1
+Sweden,SWE,2/2/20,1
+"Taiwan, Province of China",TWN,2/2/20,10
+Thailand,THA,2/2/20,19
+United Kingdom,GBR,2/2/20,2
+United States,USA,2/2/20,8
+United Arab Emirates,ARE,2/2/20,5
+Viet Nam,VNM,2/2/20,6
+Australia,AUS,2/3/20,12
+Belgium,BEL,2/3/20,0
+Cambodia,KHM,2/3/20,1
+Canada,CAN,2/3/20,4
+Egypt,EGY,2/3/20,0
+Finland,FIN,2/3/20,1
+France,FRA,2/3/20,6
+Germany,DEU,2/3/20,12
+Hong Kong,HKG,2/3/20,15
+India,IND,2/3/20,3
+Italy,ITA,2/3/20,2
+Japan,JPN,2/3/20,20
+Macao,MAC,2/3/20,8
+Malaysia,MYS,2/3/20,8
+Nepal,NPL,2/3/20,1
+Philippines,PHL,2/3/20,2
+Russian Federation,RUS,2/3/20,2
+Singapore,SGP,2/3/20,18
+"Korea, Republic of",KOR,2/3/20,15
+Spain,ESP,2/3/20,1
+Sri Lanka,LKA,2/3/20,1
+Sweden,SWE,2/3/20,1
+"Taiwan, Province of China",TWN,2/3/20,10
+Thailand,THA,2/3/20,19
+United Kingdom,GBR,2/3/20,2
+United States,USA,2/3/20,11
+United Arab Emirates,ARE,2/3/20,5
+Viet Nam,VNM,2/3/20,8
+Australia,AUS,2/4/20,13
+Belgium,BEL,2/4/20,1
+Cambodia,KHM,2/4/20,1
+Canada,CAN,2/4/20,4
+Egypt,EGY,2/4/20,0
+Finland,FIN,2/4/20,1
+France,FRA,2/4/20,6
+Germany,DEU,2/4/20,12
+Hong Kong,HKG,2/4/20,17
+India,IND,2/4/20,3
+Italy,ITA,2/4/20,2
+Japan,JPN,2/4/20,22
+Macao,MAC,2/4/20,10
+Malaysia,MYS,2/4/20,10
+Nepal,NPL,2/4/20,1
+Philippines,PHL,2/4/20,2
+Russian Federation,RUS,2/4/20,2
+Singapore,SGP,2/4/20,24
+"Korea, Republic of",KOR,2/4/20,16
+Spain,ESP,2/4/20,1
+Sri Lanka,LKA,2/4/20,1
+Sweden,SWE,2/4/20,1
+"Taiwan, Province of China",TWN,2/4/20,11
+Thailand,THA,2/4/20,25
+United Kingdom,GBR,2/4/20,2
+United States,USA,2/4/20,11
+United Arab Emirates,ARE,2/4/20,5
+Viet Nam,VNM,2/4/20,8
+Australia,AUS,2/5/20,13
+Belgium,BEL,2/5/20,1
+Cambodia,KHM,2/5/20,1
+Canada,CAN,2/5/20,5
+Egypt,EGY,2/5/20,0
+Finland,FIN,2/5/20,1
+France,FRA,2/5/20,6
+Germany,DEU,2/5/20,12
+Hong Kong,HKG,2/5/20,21
+India,IND,2/5/20,3
+Italy,ITA,2/5/20,2
+Japan,JPN,2/5/20,22
+Macao,MAC,2/5/20,10
+Malaysia,MYS,2/5/20,12
+Nepal,NPL,2/5/20,1
+Philippines,PHL,2/5/20,2
+Russian Federation,RUS,2/5/20,2
+Singapore,SGP,2/5/20,28
+"Korea, Republic of",KOR,2/5/20,19
+Spain,ESP,2/5/20,1
+Sri Lanka,LKA,2/5/20,1
+Sweden,SWE,2/5/20,1
+"Taiwan, Province of China",TWN,2/5/20,11
+Thailand,THA,2/5/20,25
+United Kingdom,GBR,2/5/20,2
+United States,USA,2/5/20,12
+United Arab Emirates,ARE,2/5/20,5
+Viet Nam,VNM,2/5/20,8
+Australia,AUS,2/6/20,14
+Belgium,BEL,2/6/20,1
+Cambodia,KHM,2/6/20,1
+Canada,CAN,2/6/20,5
+Egypt,EGY,2/6/20,0
+Finland,FIN,2/6/20,1
+France,FRA,2/6/20,6
+Germany,DEU,2/6/20,12
+Hong Kong,HKG,2/6/20,24
+India,IND,2/6/20,3
+Italy,ITA,2/6/20,2
+Japan,JPN,2/6/20,45
+Macao,MAC,2/6/20,10
+Malaysia,MYS,2/6/20,12
+Nepal,NPL,2/6/20,1
+Philippines,PHL,2/6/20,2
+Russian Federation,RUS,2/6/20,2
+Singapore,SGP,2/6/20,28
+"Korea, Republic of",KOR,2/6/20,23
+Spain,ESP,2/6/20,1
+Sri Lanka,LKA,2/6/20,1
+Sweden,SWE,2/6/20,1
+"Taiwan, Province of China",TWN,2/6/20,16
+Thailand,THA,2/6/20,25
+United Kingdom,GBR,2/6/20,2
+United States,USA,2/6/20,12
+United Arab Emirates,ARE,2/6/20,5
+Viet Nam,VNM,2/6/20,10
+Australia,AUS,2/7/20,15
+Belgium,BEL,2/7/20,1
+Cambodia,KHM,2/7/20,1
+Canada,CAN,2/7/20,7
+Egypt,EGY,2/7/20,0
+Finland,FIN,2/7/20,1
+France,FRA,2/7/20,6
+Germany,DEU,2/7/20,13
+Hong Kong,HKG,2/7/20,25
+India,IND,2/7/20,3
+Italy,ITA,2/7/20,3
+Japan,JPN,2/7/20,25
+Macao,MAC,2/7/20,10
+Malaysia,MYS,2/7/20,12
+Nepal,NPL,2/7/20,1
+Philippines,PHL,2/7/20,3
+Russian Federation,RUS,2/7/20,2
+Singapore,SGP,2/7/20,30
+"Korea, Republic of",KOR,2/7/20,24
+Spain,ESP,2/7/20,1
+Sri Lanka,LKA,2/7/20,1
+Sweden,SWE,2/7/20,1
+"Taiwan, Province of China",TWN,2/7/20,16
+Thailand,THA,2/7/20,25
+United Kingdom,GBR,2/7/20,3
+United States,USA,2/7/20,12
+United Arab Emirates,ARE,2/7/20,5
+Viet Nam,VNM,2/7/20,10
+Australia,AUS,2/8/20,15
+Belgium,BEL,2/8/20,1
+Cambodia,KHM,2/8/20,1
+Canada,CAN,2/8/20,7
+Egypt,EGY,2/8/20,0
+Finland,FIN,2/8/20,1
+France,FRA,2/8/20,11
+Germany,DEU,2/8/20,13
+Hong Kong,HKG,2/8/20,26
+India,IND,2/8/20,3
+Italy,ITA,2/8/20,3
+Japan,JPN,2/8/20,25
+Macao,MAC,2/8/20,10
+Malaysia,MYS,2/8/20,16
+Nepal,NPL,2/8/20,1
+Philippines,PHL,2/8/20,3
+Russian Federation,RUS,2/8/20,2
+Singapore,SGP,2/8/20,33
+"Korea, Republic of",KOR,2/8/20,24
+Spain,ESP,2/8/20,1
+Sri Lanka,LKA,2/8/20,1
+Sweden,SWE,2/8/20,1
+"Taiwan, Province of China",TWN,2/8/20,17
+Thailand,THA,2/8/20,32
+United Kingdom,GBR,2/8/20,3
+United States,USA,2/8/20,12
+United Arab Emirates,ARE,2/8/20,7
+Viet Nam,VNM,2/8/20,13
+Australia,AUS,2/9/20,15
+Belgium,BEL,2/9/20,1
+Cambodia,KHM,2/9/20,1
+Canada,CAN,2/9/20,7
+Egypt,EGY,2/9/20,0
+Finland,FIN,2/9/20,1
+France,FRA,2/9/20,11
+Germany,DEU,2/9/20,14
+Hong Kong,HKG,2/9/20,29
+India,IND,2/9/20,3
+Italy,ITA,2/9/20,3
+Japan,JPN,2/9/20,26
+Macao,MAC,2/9/20,10
+Malaysia,MYS,2/9/20,16
+Nepal,NPL,2/9/20,1
+Philippines,PHL,2/9/20,3
+Russian Federation,RUS,2/9/20,2
+Singapore,SGP,2/9/20,40
+"Korea, Republic of",KOR,2/9/20,25
+Spain,ESP,2/9/20,2
+Sri Lanka,LKA,2/9/20,1
+Sweden,SWE,2/9/20,1
+"Taiwan, Province of China",TWN,2/9/20,18
+Thailand,THA,2/9/20,32
+United Kingdom,GBR,2/9/20,3
+United States,USA,2/9/20,12
+United Arab Emirates,ARE,2/9/20,7
+Viet Nam,VNM,2/9/20,13
+Australia,AUS,2/10/20,15
+Belgium,BEL,2/10/20,1
+Cambodia,KHM,2/10/20,1
+Canada,CAN,2/10/20,7
+Egypt,EGY,2/10/20,0
+Finland,FIN,2/10/20,1
+France,FRA,2/10/20,11
+Germany,DEU,2/10/20,14
+Hong Kong,HKG,2/10/20,38
+India,IND,2/10/20,3
+Italy,ITA,2/10/20,3
+Japan,JPN,2/10/20,26
+Macao,MAC,2/10/20,10
+Malaysia,MYS,2/10/20,18
+Nepal,NPL,2/10/20,1
+Philippines,PHL,2/10/20,3
+Russian Federation,RUS,2/10/20,2
+Singapore,SGP,2/10/20,45
+"Korea, Republic of",KOR,2/10/20,27
+Spain,ESP,2/10/20,2
+Sri Lanka,LKA,2/10/20,1
+Sweden,SWE,2/10/20,1
+"Taiwan, Province of China",TWN,2/10/20,18
+Thailand,THA,2/10/20,32
+United Kingdom,GBR,2/10/20,8
+United States,USA,2/10/20,12
+United Arab Emirates,ARE,2/10/20,8
+Viet Nam,VNM,2/10/20,14
+Australia,AUS,2/11/20,15
+Belgium,BEL,2/11/20,1
+Cambodia,KHM,2/11/20,1
+Canada,CAN,2/11/20,7
+Egypt,EGY,2/11/20,0
+Finland,FIN,2/11/20,1
+France,FRA,2/11/20,11
+Germany,DEU,2/11/20,16
+Hong Kong,HKG,2/11/20,49
+India,IND,2/11/20,3
+Italy,ITA,2/11/20,3
+Japan,JPN,2/11/20,26
+Macao,MAC,2/11/20,10
+Malaysia,MYS,2/11/20,18
+Nepal,NPL,2/11/20,1
+Philippines,PHL,2/11/20,3
+Russian Federation,RUS,2/11/20,2
+Singapore,SGP,2/11/20,47
+"Korea, Republic of",KOR,2/11/20,28
+Spain,ESP,2/11/20,2
+Sri Lanka,LKA,2/11/20,1
+Sweden,SWE,2/11/20,1
+"Taiwan, Province of China",TWN,2/11/20,18
+Thailand,THA,2/11/20,33
+United Kingdom,GBR,2/11/20,8
+United States,USA,2/11/20,13
+United Arab Emirates,ARE,2/11/20,8
+Viet Nam,VNM,2/11/20,15
+Australia,AUS,2/12/20,15
+Belgium,BEL,2/12/20,1
+Cambodia,KHM,2/12/20,1
+Canada,CAN,2/12/20,7
+Egypt,EGY,2/12/20,0
+Finland,FIN,2/12/20,1
+France,FRA,2/12/20,11
+Germany,DEU,2/12/20,16
+Hong Kong,HKG,2/12/20,50
+India,IND,2/12/20,3
+Italy,ITA,2/12/20,3
+Japan,JPN,2/12/20,28
+Macao,MAC,2/12/20,10
+Malaysia,MYS,2/12/20,18
+Nepal,NPL,2/12/20,1
+Philippines,PHL,2/12/20,3
+Russian Federation,RUS,2/12/20,2
+Singapore,SGP,2/12/20,50
+"Korea, Republic of",KOR,2/12/20,28
+Spain,ESP,2/12/20,2
+Sri Lanka,LKA,2/12/20,1
+Sweden,SWE,2/12/20,1
+"Taiwan, Province of China",TWN,2/12/20,18
+Thailand,THA,2/12/20,33
+United Kingdom,GBR,2/12/20,9
+United States,USA,2/12/20,13
+United Arab Emirates,ARE,2/12/20,8
+Viet Nam,VNM,2/12/20,15
+Australia,AUS,2/13/20,15
+Belgium,BEL,2/13/20,1
+Cambodia,KHM,2/13/20,1
+Canada,CAN,2/13/20,7
+Egypt,EGY,2/13/20,0
+Finland,FIN,2/13/20,1
+France,FRA,2/13/20,11
+Germany,DEU,2/13/20,16
+Hong Kong,HKG,2/13/20,53
+India,IND,2/13/20,3
+Italy,ITA,2/13/20,3
+Japan,JPN,2/13/20,28
+Macao,MAC,2/13/20,10
+Malaysia,MYS,2/13/20,19
+Nepal,NPL,2/13/20,1
+Philippines,PHL,2/13/20,3
+Russian Federation,RUS,2/13/20,2
+Singapore,SGP,2/13/20,58
+"Korea, Republic of",KOR,2/13/20,28
+Spain,ESP,2/13/20,2
+Sri Lanka,LKA,2/13/20,1
+Sweden,SWE,2/13/20,1
+"Taiwan, Province of China",TWN,2/13/20,18
+Thailand,THA,2/13/20,33
+United Kingdom,GBR,2/13/20,9
+United States,USA,2/13/20,15
+United Arab Emirates,ARE,2/13/20,8
+Viet Nam,VNM,2/13/20,16
+Australia,AUS,2/14/20,15
+Belgium,BEL,2/14/20,1
+Cambodia,KHM,2/14/20,1
+Canada,CAN,2/14/20,7
+Egypt,EGY,2/14/20,1
+Finland,FIN,2/14/20,1
+France,FRA,2/14/20,11
+Germany,DEU,2/14/20,16
+Hong Kong,HKG,2/14/20,56
+India,IND,2/14/20,3
+Italy,ITA,2/14/20,3
+Japan,JPN,2/14/20,29
+Macao,MAC,2/14/20,10
+Malaysia,MYS,2/14/20,19
+Nepal,NPL,2/14/20,1
+Philippines,PHL,2/14/20,3
+Russian Federation,RUS,2/14/20,2
+Singapore,SGP,2/14/20,67
+"Korea, Republic of",KOR,2/14/20,28
+Spain,ESP,2/14/20,2
+Sri Lanka,LKA,2/14/20,1
+Sweden,SWE,2/14/20,1
+"Taiwan, Province of China",TWN,2/14/20,18
+Thailand,THA,2/14/20,33
+United Kingdom,GBR,2/14/20,9
+United States,USA,2/14/20,15
+United Arab Emirates,ARE,2/14/20,8
+Viet Nam,VNM,2/14/20,16
+Australia,AUS,2/15/20,15
+Belgium,BEL,2/15/20,1
+Cambodia,KHM,2/15/20,1
+Canada,CAN,2/15/20,7
+Egypt,EGY,2/15/20,1
+Finland,FIN,2/15/20,1
+France,FRA,2/15/20,12
+Germany,DEU,2/15/20,16
+Hong Kong,HKG,2/15/20,56
+India,IND,2/15/20,3
+Italy,ITA,2/15/20,3
+Japan,JPN,2/15/20,43
+Macao,MAC,2/15/20,10
+Malaysia,MYS,2/15/20,22
+Nepal,NPL,2/15/20,1
+Philippines,PHL,2/15/20,3
+Russian Federation,RUS,2/15/20,2
+Singapore,SGP,2/15/20,72
+"Korea, Republic of",KOR,2/15/20,28
+Spain,ESP,2/15/20,2
+Sri Lanka,LKA,2/15/20,1
+Sweden,SWE,2/15/20,1
+"Taiwan, Province of China",TWN,2/15/20,18
+Thailand,THA,2/15/20,33
+United Kingdom,GBR,2/15/20,9
+United States,USA,2/15/20,15
+United Arab Emirates,ARE,2/15/20,8
+Viet Nam,VNM,2/15/20,16
+Australia,AUS,2/16/20,15
+Belgium,BEL,2/16/20,1
+Cambodia,KHM,2/16/20,1
+Canada,CAN,2/16/20,7
+Egypt,EGY,2/16/20,1
+Finland,FIN,2/16/20,1
+France,FRA,2/16/20,12
+Germany,DEU,2/16/20,16
+Hong Kong,HKG,2/16/20,57
+India,IND,2/16/20,3
+Italy,ITA,2/16/20,3
+Japan,JPN,2/16/20,59
+Macao,MAC,2/16/20,10
+Malaysia,MYS,2/16/20,22
+Nepal,NPL,2/16/20,1
+Philippines,PHL,2/16/20,3
+Russian Federation,RUS,2/16/20,2
+Singapore,SGP,2/16/20,75
+"Korea, Republic of",KOR,2/16/20,29
+Spain,ESP,2/16/20,2
+Sri Lanka,LKA,2/16/20,1
+Sweden,SWE,2/16/20,1
+"Taiwan, Province of China",TWN,2/16/20,20
+Thailand,THA,2/16/20,34
+United Kingdom,GBR,2/16/20,9
+United States,USA,2/16/20,15
+United Arab Emirates,ARE,2/16/20,9
+Viet Nam,VNM,2/16/20,16
