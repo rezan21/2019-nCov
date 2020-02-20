@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objs as go
 
-animation_df = pd.read_csv("./app_data/frame_animation_df.csv")
+animation_df = pd.read_csv("/tmp/myfolder/frame_animation_df.csv")
 general_df = pd.read_csv("./app_data/general_df.csv")
 
 def plot_animation(df=animation_df):

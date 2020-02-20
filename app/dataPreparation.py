@@ -39,8 +39,7 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
         try:
             c = pycountry.countries.get(name=x)
             return c.alpha_3
-        except Exception as e:
-            print(e)
+        except:
             pass
         
     sec1_confrmd_df["Country_Code"] = sec1_confrmd_df["Country/Region"].apply(getCountryCode)
@@ -51,9 +50,11 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
     confrmd_df.reset_index(inplace=True, drop=True)
 
     # melt (i.e: wide to long function)
+    import os
     confrmd_df = pd.melt(confrmd_df, id_vars=["Country","Country_Code"],var_name="Time_Stamp", value_name="Cases")
-    confrmd_df.to_csv("./app_data/frame_animation_df.csv",index=False)
-    
+    os.system(f"mkdir /tmp/myfolder")
+    confrmd_df.to_csv("/tmp/myfolder/frame_animation_df.csv",index=False)
+
 prepare_dfCnfrmd()
 
 
@@ -78,6 +79,5 @@ def prepare_general_df(confrmd_df=confrmd_df,recovrd_df=recovrd_df,deaths_df=dea
 
     df["timestamp"] = pd.to_datetime(df["timestamp"])
 
-    df.to_csv("./app_data/general_df.csv",index=False)
 
 prepare_general_df()
