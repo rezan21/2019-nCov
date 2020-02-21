@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 import pycountry
 
-confrmd_df = pd.read_csv("time_series_2019_ncov_confirmed.csv")
-recovrd_df = pd.read_csv("time_series_2019_ncov_recovered.csv")
-deaths_df = pd.read_csv("time_series_2019_ncov_deaths.csv")
+confrmd_df = pd.read_csv("time_series_confirmed.csv")
+recovrd_df = pd.read_csv("time_series_recovered.csv")
+deaths_df = pd.read_csv("time_series_deaths.csv")
 
 def prepare_dfCnfrmd(confrmd_df=confrmd_df):
     confrmd_df = confrmd_df.groupby("Country/Region").sum()
@@ -16,7 +16,8 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
                                         "Taiwan", 
                                         "UK",
                                         "US",
-                                        "Vietnam"
+                                        "Vietnam",
+                                        "Iran",
                                         ],
                                         [
                                         "Macao",
@@ -25,7 +26,8 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
                                         "Taiwan, Province of China",
                                         "United Kingdom",
                                         "United States",
-                                        "Viet Nam"
+                                        "Viet Nam",
+                                        "Iran, Islamic Republic of",
                                         
                                         ], inplace=True)
 
@@ -40,6 +42,7 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
             c = pycountry.countries.get(name=x)
             return c.alpha_3
         except Exception as e:
+            print(x)
             print(e)
             pass
         

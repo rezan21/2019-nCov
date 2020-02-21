@@ -9,6 +9,7 @@ France,FRA,1/22/20,0
 Germany,DEU,1/22/20,0
 Hong Kong,HKG,1/22/20,0
 India,IND,1/22/20,0
+"Iran, Islamic Republic of",IRN,1/22/20,0
 Italy,ITA,1/22/20,0
 Japan,JPN,1/22/20,2
 Macao,MAC,1/22/20,1
@@ -37,6 +38,7 @@ France,FRA,1/23/20,0
 Germany,DEU,1/23/20,0
 Hong Kong,HKG,1/23/20,2
 India,IND,1/23/20,0
+"Iran, Islamic Republic of",IRN,1/23/20,0
 Italy,ITA,1/23/20,0
 Japan,JPN,1/23/20,1
 Macao,MAC,1/23/20,2
@@ -65,6 +67,7 @@ France,FRA,1/24/20,2
 Germany,DEU,1/24/20,0
 Hong Kong,HKG,1/24/20,2
 India,IND,1/24/20,0
+"Iran, Islamic Republic of",IRN,1/24/20,0
 Italy,ITA,1/24/20,0
 Japan,JPN,1/24/20,2
 Macao,MAC,1/24/20,2
@@ -93,6 +96,7 @@ France,FRA,1/25/20,3
 Germany,DEU,1/25/20,0
 Hong Kong,HKG,1/25/20,5
 India,IND,1/25/20,0
+"Iran, Islamic Republic of",IRN,1/25/20,0
 Italy,ITA,1/25/20,0
 Japan,JPN,1/25/20,2
 Macao,MAC,1/25/20,2
@@ -121,6 +125,7 @@ France,FRA,1/26/20,3
 Germany,DEU,1/26/20,0
 Hong Kong,HKG,1/26/20,8
 India,IND,1/26/20,0
+"Iran, Islamic Republic of",IRN,1/26/20,0
 Italy,ITA,1/26/20,0
 Japan,JPN,1/26/20,4
 Macao,MAC,1/26/20,5
@@ -149,6 +154,7 @@ France,FRA,1/27/20,3
 Germany,DEU,1/27/20,1
 Hong Kong,HKG,1/27/20,8
 India,IND,1/27/20,0
+"Iran, Islamic Republic of",IRN,1/27/20,0
 Italy,ITA,1/27/20,0
 Japan,JPN,1/27/20,4
 Macao,MAC,1/27/20,6
@@ -177,6 +183,7 @@ France,FRA,1/28/20,4
 Germany,DEU,1/28/20,4
 Hong Kong,HKG,1/28/20,8
 India,IND,1/28/20,0
+"Iran, Islamic Republic of",IRN,1/28/20,0
 Italy,ITA,1/28/20,0
 Japan,JPN,1/28/20,7
 Macao,MAC,1/28/20,7
@@ -205,6 +212,7 @@ France,FRA,1/29/20,5
 Germany,DEU,1/29/20,4
 Hong Kong,HKG,1/29/20,10
 India,IND,1/29/20,0
+"Iran, Islamic Republic of",IRN,1/29/20,0
 Italy,ITA,1/29/20,0
 Japan,JPN,1/29/20,7
 Macao,MAC,1/29/20,7
@@ -233,6 +241,7 @@ France,FRA,1/30/20,5
 Germany,DEU,1/30/20,4
 Hong Kong,HKG,1/30/20,10
 India,IND,1/30/20,1
+"Iran, Islamic Republic of",IRN,1/30/20,0
 Italy,ITA,1/30/20,0
 Japan,JPN,1/30/20,11
 Macao,MAC,1/30/20,7
@@ -261,6 +270,7 @@ France,FRA,1/31/20,5
 Germany,DEU,1/31/20,5
 Hong Kong,HKG,1/31/20,12
 India,IND,1/31/20,1
+"Iran, Islamic Republic of",IRN,1/31/20,0
 Italy,ITA,1/31/20,2
 Japan,JPN,1/31/20,15
 Macao,MAC,1/31/20,7
@@ -289,6 +299,7 @@ France,FRA,2/1/20,6
 Germany,DEU,2/1/20,8
 Hong Kong,HKG,2/1/20,13
 India,IND,2/1/20,1
+"Iran, Islamic Republic of",IRN,2/1/20,0
 Italy,ITA,2/1/20,2
 Japan,JPN,2/1/20,20
 Macao,MAC,2/1/20,7
@@ -317,6 +328,7 @@ France,FRA,2/2/20,6
 Germany,DEU,2/2/20,10
 Hong Kong,HKG,2/2/20,15
 India,IND,2/2/20,2
+"Iran, Islamic Republic of",IRN,2/2/20,0
 Italy,ITA,2/2/20,2
 Japan,JPN,2/2/20,20
 Macao,MAC,2/2/20,8
@@ -345,6 +357,7 @@ France,FRA,2/3/20,6
 Germany,DEU,2/3/20,12
 Hong Kong,HKG,2/3/20,15
 India,IND,2/3/20,3
+"Iran, Islamic Republic of",IRN,2/3/20,0
 Italy,ITA,2/3/20,2
 Japan,JPN,2/3/20,20
 Macao,MAC,2/3/20,8
@@ -373,6 +386,7 @@ France,FRA,2/4/20,6
 Germany,DEU,2/4/20,12
 Hong Kong,HKG,2/4/20,17
 India,IND,2/4/20,3
+"Iran, Islamic Republic of",IRN,2/4/20,0
 Italy,ITA,2/4/20,2
 Japan,JPN,2/4/20,22
 Macao,MAC,2/4/20,10
@@ -401,6 +415,7 @@ France,FRA,2/5/20,6
 Germany,DEU,2/5/20,12
 Hong Kong,HKG,2/5/20,21
 India,IND,2/5/20,3
+"Iran, Islamic Republic of",IRN,2/5/20,0
 Italy,ITA,2/5/20,2
 Japan,JPN,2/5/20,22
 Macao,MAC,2/5/20,10
@@ -429,6 +444,7 @@ France,FRA,2/6/20,6
 Germany,DEU,2/6/20,12
 Hong Kong,HKG,2/6/20,24
 India,IND,2/6/20,3
+"Iran, Islamic Republic of",IRN,2/6/20,0
 Italy,ITA,2/6/20,2
 Japan,JPN,2/6/20,45
 Macao,MAC,2/6/20,10
@@ -457,6 +473,7 @@ France,FRA,2/7/20,6
 Germany,DEU,2/7/20,13
 Hong Kong,HKG,2/7/20,25
 India,IND,2/7/20,3
+"Iran, Islamic Republic of",IRN,2/7/20,0
 Italy,ITA,2/7/20,3
 Japan,JPN,2/7/20,25
 Macao,MAC,2/7/20,10
@@ -485,6 +502,7 @@ France,FRA,2/8/20,11
 Germany,DEU,2/8/20,13
 Hong Kong,HKG,2/8/20,26
 India,IND,2/8/20,3
+"Iran, Islamic Republic of",IRN,2/8/20,0
 Italy,ITA,2/8/20,3
 Japan,JPN,2/8/20,25
 Macao,MAC,2/8/20,10
@@ -513,6 +531,7 @@ France,FRA,2/9/20,11
 Germany,DEU,2/9/20,14
 Hong Kong,HKG,2/9/20,29
 India,IND,2/9/20,3
+"Iran, Islamic Republic of",IRN,2/9/20,0
 Italy,ITA,2/9/20,3
 Japan,JPN,2/9/20,26
 Macao,MAC,2/9/20,10
@@ -541,6 +560,7 @@ France,FRA,2/10/20,11
 Germany,DEU,2/10/20,14
 Hong Kong,HKG,2/10/20,38
 India,IND,2/10/20,3
+"Iran, Islamic Republic of",IRN,2/10/20,0
 Italy,ITA,2/10/20,3
 Japan,JPN,2/10/20,26
 Macao,MAC,2/10/20,10
@@ -569,6 +589,7 @@ France,FRA,2/11/20,11
 Germany,DEU,2/11/20,16
 Hong Kong,HKG,2/11/20,49
 India,IND,2/11/20,3
+"Iran, Islamic Republic of",IRN,2/11/20,0
 Italy,ITA,2/11/20,3
 Japan,JPN,2/11/20,26
 Macao,MAC,2/11/20,10
@@ -597,6 +618,7 @@ France,FRA,2/12/20,11
 Germany,DEU,2/12/20,16
 Hong Kong,HKG,2/12/20,50
 India,IND,2/12/20,3
+"Iran, Islamic Republic of",IRN,2/12/20,0
 Italy,ITA,2/12/20,3
 Japan,JPN,2/12/20,28
 Macao,MAC,2/12/20,10
@@ -625,6 +647,7 @@ France,FRA,2/13/20,11
 Germany,DEU,2/13/20,16
 Hong Kong,HKG,2/13/20,53
 India,IND,2/13/20,3
+"Iran, Islamic Republic of",IRN,2/13/20,0
 Italy,ITA,2/13/20,3
 Japan,JPN,2/13/20,28
 Macao,MAC,2/13/20,10
@@ -653,6 +676,7 @@ France,FRA,2/14/20,11
 Germany,DEU,2/14/20,16
 Hong Kong,HKG,2/14/20,56
 India,IND,2/14/20,3
+"Iran, Islamic Republic of",IRN,2/14/20,0
 Italy,ITA,2/14/20,3
 Japan,JPN,2/14/20,29
 Macao,MAC,2/14/20,10
@@ -681,6 +705,7 @@ France,FRA,2/15/20,12
 Germany,DEU,2/15/20,16
 Hong Kong,HKG,2/15/20,56
 India,IND,2/15/20,3
+"Iran, Islamic Republic of",IRN,2/15/20,0
 Italy,ITA,2/15/20,3
 Japan,JPN,2/15/20,43
 Macao,MAC,2/15/20,10
@@ -709,6 +734,7 @@ France,FRA,2/16/20,12
 Germany,DEU,2/16/20,16
 Hong Kong,HKG,2/16/20,57
 India,IND,2/16/20,3
+"Iran, Islamic Republic of",IRN,2/16/20,0
 Italy,ITA,2/16/20,3
 Japan,JPN,2/16/20,59
 Macao,MAC,2/16/20,10
@@ -737,6 +763,7 @@ France,FRA,2/17/20,12
 Germany,DEU,2/17/20,16
 Hong Kong,HKG,2/17/20,60
 India,IND,2/17/20,3
+"Iran, Islamic Republic of",IRN,2/17/20,0
 Italy,ITA,2/17/20,3
 Japan,JPN,2/17/20,66
 Macao,MAC,2/17/20,10
@@ -765,6 +792,7 @@ France,FRA,2/18/20,12
 Germany,DEU,2/18/20,16
 Hong Kong,HKG,2/18/20,62
 India,IND,2/18/20,3
+"Iran, Islamic Republic of",IRN,2/18/20,0
 Italy,ITA,2/18/20,3
 Japan,JPN,2/18/20,74
 Macao,MAC,2/18/20,10
@@ -780,6 +808,64 @@ Sweden,SWE,2/18/20,1
 "Taiwan, Province of China",TWN,2/18/20,22
 Thailand,THA,2/18/20,35
 United Kingdom,GBR,2/18/20,9
-United States,USA,2/18/20,29
+United States,USA,2/18/20,15
 United Arab Emirates,ARE,2/18/20,9
 Viet Nam,VNM,2/18/20,16
+Australia,AUS,2/19/20,15
+Belgium,BEL,2/19/20,1
+Cambodia,KHM,2/19/20,1
+Canada,CAN,2/19/20,8
+Egypt,EGY,2/19/20,1
+Finland,FIN,2/19/20,1
+France,FRA,2/19/20,12
+Germany,DEU,2/19/20,16
+Hong Kong,HKG,2/19/20,63
+India,IND,2/19/20,3
+"Iran, Islamic Republic of",IRN,2/19/20,2
+Italy,ITA,2/19/20,3
+Japan,JPN,2/19/20,84
+Macao,MAC,2/19/20,10
+Malaysia,MYS,2/19/20,22
+Nepal,NPL,2/19/20,1
+Philippines,PHL,2/19/20,3
+Russian Federation,RUS,2/19/20,2
+Singapore,SGP,2/19/20,84
+"Korea, Republic of",KOR,2/19/20,31
+Spain,ESP,2/19/20,2
+Sri Lanka,LKA,2/19/20,1
+Sweden,SWE,2/19/20,1
+"Taiwan, Province of China",TWN,2/19/20,23
+Thailand,THA,2/19/20,35
+United Kingdom,GBR,2/19/20,9
+United States,USA,2/19/20,15
+United Arab Emirates,ARE,2/19/20,9
+Viet Nam,VNM,2/19/20,16
+Australia,AUS,2/20/20,15
+Belgium,BEL,2/20/20,1
+Cambodia,KHM,2/20/20,1
+Canada,CAN,2/20/20,8
+Egypt,EGY,2/20/20,1
+Finland,FIN,2/20/20,1
+France,FRA,2/20/20,12
+Germany,DEU,2/20/20,16
+Hong Kong,HKG,2/20/20,68
+India,IND,2/20/20,3
+"Iran, Islamic Republic of",IRN,2/20/20,5
+Italy,ITA,2/20/20,3
+Japan,JPN,2/20/20,94
+Macao,MAC,2/20/20,10
+Malaysia,MYS,2/20/20,22
+Nepal,NPL,2/20/20,1
+Philippines,PHL,2/20/20,3
+Russian Federation,RUS,2/20/20,2
+Singapore,SGP,2/20/20,84
+"Korea, Republic of",KOR,2/20/20,104
+Spain,ESP,2/20/20,2
+Sri Lanka,LKA,2/20/20,1
+Sweden,SWE,2/20/20,1
+"Taiwan, Province of China",TWN,2/20/20,24
+Thailand,THA,2/20/20,35
+United Kingdom,GBR,2/20/20,9
+United States,USA,2/20/20,15
+United Arab Emirates,ARE,2/20/20,9
+Viet Nam,VNM,2/20/20,16
