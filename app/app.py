@@ -1,5 +1,4 @@
 from flask import Flask, render_template, url_for
-import dataPreparation
 from plots import plot_animation,plot_worldwide_graph,plot_china_world_graph,plot_barchart
 
 app = Flask(__name__)

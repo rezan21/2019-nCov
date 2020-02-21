@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 import pycountry
 
-confrmd_df = pd.read_csv("./data/time_series_2019_ncov_confirmed.csv")
-recovrd_df = pd.read_csv("./data/time_series_2019_ncov_recovered.csv")
-deaths_df = pd.read_csv("./data/time_series_2019_ncov_deaths.csv")
+confrmd_df = pd.read_csv("time_series_2019_ncov_confirmed.csv")
+recovrd_df = pd.read_csv("time_series_2019_ncov_recovered.csv")
+deaths_df = pd.read_csv("time_series_2019_ncov_deaths.csv")
 
 def prepare_dfCnfrmd(confrmd_df=confrmd_df):
     confrmd_df = confrmd_df.groupby("Country/Region").sum()
@@ -39,7 +39,8 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
         try:
             c = pycountry.countries.get(name=x)
             return c.alpha_3
-        except:
+        except Exception as e:
+            print(e)
             pass
         
     sec1_confrmd_df["Country_Code"] = sec1_confrmd_df["Country/Region"].apply(getCountryCode)
@@ -50,10 +51,10 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
     confrmd_df.reset_index(inplace=True, drop=True)
 
     # melt (i.e: wide to long function)
-    import os
+    
     confrmd_df = pd.melt(confrmd_df, id_vars=["Country","Country_Code"],var_name="Time_Stamp", value_name="Cases")
-    os.system(f"mkdir /tmp/myfolder")
-    confrmd_df.to_csv("/tmp/myfolder/frame_animation_df.csv",index=False)
+    
+    confrmd_df.to_csv("../app/app_data/frame_animation_df.csv",index=False)
 
 prepare_dfCnfrmd()
 
@@ -76,8 +77,15 @@ def prepare_general_df(confrmd_df=confrmd_df,recovrd_df=recovrd_df,deaths_df=dea
     deaths_df.rename(columns={"cases": "death_cases"},inplace=True)
 
     df = pd.concat([confrmd_df,recovrd_df.iloc[:,2],deaths_df.iloc[:,2]], axis=1)
-
     df["timestamp"] = pd.to_datetime(df["timestamp"])
+
+    df.to_csv("../app/app_data/general_df.csv",index=False)
 
 
 prepare_general_df()
+
+# Can NOT write file to the disk on GCP-Standard enviroment.
+# The following is a solution to write files to temporary folder and create folders withing that:
+# import os
+# os.system(f"mkdir /tmp/myfolder")
+# confrmd_df.to_csv("/tmp/myfolder/frame_animation_df.csv",index=False)
