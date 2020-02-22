@@ -4,16 +4,12 @@ from plots import plot_animation,plot_worldwide_graph,plot_china_world_graph,plo
 app = Flask(__name__)
 
 @app.route('/')
-def home():
-    return render_template('home.html')
-
-@app.route('/confirmed-cases')
-def confirmed_cases():
+def visuals():
     animation_frame = plot_animation()
     worldwide_graph = plot_worldwide_graph()
     china_world_graph = plot_china_world_graph()
     barchart = plot_barchart()
-    return render_template('confirmed_cases.html',
+    return render_template('visuals.html',
                             animation_frame=animation_frame,
                             worldwide_graph=worldwide_graph,
                             china_world_graph=china_world_graph,
