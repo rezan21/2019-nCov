@@ -131,7 +131,8 @@ def plot_barchart(df=general_df):
 
     fig.update_layout(title='CoronaVirus: Ratios<br><span style="font-size:80%">Excluding China</span>',
                     xaxis_title='Country',
-                    yaxis_title='Number of Cases (Persons)')
+                   # yaxis_title='Number of Cases (Persons)'
+                    showlegend=False)
     # Here we modify the tickangle of the xaxis, resulting in rotated labels.
     fig.update_layout(barmode='group', xaxis_tickangle=-55)
     
@@ -161,7 +162,7 @@ def plot_recov_donut(df=df_grouped):
     values1 = [df["recov_cases"].sum(),df["conf_cases"].sum()-df["recov_cases"].sum()]
 
     fig = go.Figure(data=[go.Pie( labels=labels1,values=values1, hole=0.8)])
-    fig.update_layout(title_text='Overall Recovery Ratio')
+    fig.update_layout(title_text='Overall Recovery Ratio',showlegend=False)
 
 
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
@@ -172,7 +173,7 @@ def plot_death_donut(df=df_grouped):
     values2 = [df["death_cases"].sum(),df["conf_cases"].sum()-df["death_cases"].sum()]
 
     fig = go.Figure(data=[go.Pie( labels=labels2,values=values2, hole=0.8)])
-    fig.update_layout(title_text='Overall Mortality Ratio',
+    fig.update_layout(title_text='Overall Mortality Ratio',showlegend=False
     #width=330, height=330
     )
 

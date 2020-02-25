@@ -29,7 +29,7 @@ body {
 }
 .charts-grid {
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1.8fr 1fr;
     grid-gap: 20px;
 
 
@@ -45,7 +45,7 @@ body {
 .right-grid{
     display: grid;
     /* grid-template-columns: 1fr; */
-    grid-template-rows: 1fr 1fr 2fr;
+    grid-template-rows: 1fr 1fr 1fr;
     grid-gap: 10px;
 
 }
