@@ -83,10 +83,31 @@ def prepare_general_df(confrmd_df=confrmd_df,recovrd_df=recovrd_df,deaths_df=dea
     df["timestamp"] = pd.to_datetime(df["timestamp"])
 
     df.to_csv("../app/app_data/general_df.csv",index=False)
-
+    
 
 prepare_general_df()
 
+def prepare_visuals3():
+    # local processing
+    df = pd.read_csv("../app/app_data/general_df.csv")
+    df = [df.groupby("Country/Region").get_group(country).sort_values("timestamp", ascending=False).\
+    iloc[0] for country in df["Country/Region"].unique()]
+    df = pd.DataFrame(df)
+    df.to_csv("../app/app_data/df_grouped.csv",index=False) # export
+
+    df["death_rate"] = df["death_cases"] / df["conf_cases"]
+    df["recover_rate"] = df["recov_cases"] / df["conf_cases"]
+
+    df_death  = df[df["death_rate"]>0]
+    df_recov  = df[df["recover_rate"]>0]
+
+    df_death = df_death.sort_values("death_rate",ascending=False)
+    df_recov = df_recov.sort_values("recover_rate",ascending=False)
+
+
+    df_death.to_csv("../app/app_data/df_death.csv",index=False) # export
+    df_recov.to_csv("../app/app_data/df_recov.csv",index=False) # export
+prepare_visuals3()    
 # Can NOT write file to the disk on GCP-Standard enviroment.
 # The following is a solution to write files to temporary folder and create folders withing that:
 # import os

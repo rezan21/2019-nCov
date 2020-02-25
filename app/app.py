@@ -1,5 +1,5 @@
 from flask import Flask, render_template, url_for
-from plots import plot_animation,plot_worldwide_graph,plot_china_world_graph,plot_barchart
+from plots import plot_animation,plot_worldwide_graph,plot_china_world_graph,plot_barchart,plot_death_rate,plot_recov_rate,plot_recov_donut,plot_death_donut
 
 app = Flask(__name__)
 
@@ -9,11 +9,20 @@ def visuals():
     worldwide_graph = plot_worldwide_graph()
     china_world_graph = plot_china_world_graph()
     barchart = plot_barchart()
+    death_rate_chart = plot_death_rate()
+    recov_rate_chart = plot_recov_rate()
+    recov_donut = plot_recov_donut()
+    death_donut = plot_death_donut()
     return render_template('visuals.html',
                             animation_frame=animation_frame,
                             worldwide_graph=worldwide_graph,
                             china_world_graph=china_world_graph,
-                            barchart=barchart
+                            barchart=barchart,
+                            death_rate_chart=death_rate_chart,
+                            recov_rate_chart=recov_rate_chart,
+                            recov_donut=recov_donut,
+                            death_donut=death_donut
+
                         )
 
 

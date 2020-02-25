@@ -6,6 +6,11 @@ import plotly.graph_objs as go
 
 animation_df = pd.read_csv("app_data/frame_animation_df.csv")
 general_df = pd.read_csv("app_data/general_df.csv")
+df_death = pd.read_csv("app_data/df_death.csv")
+df_recov = pd.read_csv("app_data/df_recov.csv")
+df_grouped = pd.read_csv("app_data/df_grouped.csv")
+
+
 
 def plot_animation(df=animation_df):
     fig = px.scatter_geo(df, locations="Country_Code",
@@ -132,3 +137,45 @@ def plot_barchart(df=general_df):
     
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON
+
+
+
+def plot_death_rate(df_death=df_death):
+    final_date = df_death["timestamp"].iloc[0]
+    fig = px.bar(df_death, x='Country/Region', y='death_rate',hover_data=["death_cases", "conf_cases"])
+    fig.update_layout(title_text='Death Rate By Country')
+
+    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+    return graphJSON
+
+
+def plot_recov_rate(df_recov=df_recov):
+    fig = px.bar(df_recov, x='Country/Region', y='recover_rate', hover_data=["recov_cases", "conf_cases"] )
+    fig.update_layout(title_text='Recover Rate By Country')
+    
+    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+    return graphJSON
+
+def plot_recov_donut(df=df_grouped):
+    labels1 = ['Recovered','Non-Recovered']
+    values1 = [df["recov_cases"].sum(),df["conf_cases"].sum()-df["recov_cases"].sum()]
+
+    fig = go.Figure(data=[go.Pie( labels=labels1,values=values1, hole=0.8)])
+    fig.update_layout(title_text='Overall Recovery Ratio')
+
+
+    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+    return graphJSON
+
+def plot_death_donut(df=df_grouped):
+    labels2 = ['Dead','Alive']
+    values2 = [df["death_cases"].sum(),df["conf_cases"].sum()-df["death_cases"].sum()]
+
+    fig = go.Figure(data=[go.Pie( labels=labels2,values=values2, hole=0.8)])
+    fig.update_layout(title_text='Overall Mortality Ratio',
+    #width=330, height=330
+    )
+
+    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+    return graphJSON
+
