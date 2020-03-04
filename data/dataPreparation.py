@@ -20,6 +20,7 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
                                         "Iran",
                                         " Azerbaijan",
                                         "North Ireland",
+                                        "Czech Republic"
                                         ],
                                         [
                                         "Macao",
@@ -31,7 +32,8 @@ def prepare_dfCnfrmd(confrmd_df=confrmd_df):
                                         "Viet Nam",
                                         "Iran, Islamic Republic of",
                                         "Azerbaijan",
-                                        "United Kingdom"
+                                        "United Kingdom",
+                                        "Czechia"
 
                                         
                                         ], inplace=True)
