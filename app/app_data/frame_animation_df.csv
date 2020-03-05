@@ -2,6 +2,7 @@ Country,Country_Code,Time_Stamp,Cases
 Afghanistan,AFG,1/22/20,0
 Algeria,DZA,1/22/20,0
 Andorra,AND,1/22/20,0
+Argentina,ARG,1/22/20,0
 Armenia,ARM,1/22/20,0
 Australia,AUS,1/22/20,0
 Austria,AUT,1/22/20,0
@@ -12,6 +13,7 @@ Belgium,BEL,1/22/20,0
 Brazil,BRA,1/22/20,0
 Cambodia,KHM,1/22/20,0
 Canada,CAN,1/22/20,0
+Chile,CHL,1/22/20,0
 Croatia,HRV,1/22/20,0
 Czechia,CZE,1/22/20,0
 Denmark,DNK,1/22/20,0
@@ -19,12 +21,15 @@ Dominican Republic,DOM,1/22/20,0
 Ecuador,ECU,1/22/20,0
 Egypt,EGY,1/22/20,0
 Estonia,EST,1/22/20,0
+Faroe Islands,FRO,1/22/20,0
 Finland,FIN,1/22/20,0
 France,FRA,1/22/20,0
 Georgia,GEO,1/22/20,0
 Germany,DEU,1/22/20,0
+Gibraltar,GIB,1/22/20,0
 Greece,GRC,1/22/20,0
 Hong Kong,HKG,1/22/20,0
+Hungary,HUN,1/22/20,0
 Iceland,ISL,1/22/20,0
 India,IND,1/22/20,0
 Indonesia,IDN,1/22/20,0
@@ -34,9 +39,11 @@ Ireland,IRL,1/22/20,0
 Israel,ISR,1/22/20,0
 Italy,ITA,1/22/20,0
 Japan,JPN,1/22/20,2
+Jordan,JOR,1/22/20,0
 Kuwait,KWT,1/22/20,0
 Latvia,LVA,1/22/20,0
 Lebanon,LBN,1/22/20,0
+Liechtenstein,LIE,1/22/20,0
 Lithuania,LTU,1/22/20,0
 Luxembourg,LUX,1/22/20,0
 Macao,MAC,1/22/20,1
@@ -53,6 +60,7 @@ Norway,NOR,1/22/20,0
 Oman,OMN,1/22/20,0
 Pakistan,PAK,1/22/20,0
 Philippines,PHL,1/22/20,0
+Poland,POL,1/22/20,0
 Portugal,PRT,1/22/20,0
 Qatar,QAT,1/22/20,0
 Romania,ROU,1/22/20,0
@@ -68,13 +76,16 @@ Sweden,SWE,1/22/20,0
 Switzerland,CHE,1/22/20,0
 "Taiwan, Province of China",TWN,1/22/20,1
 Thailand,THA,1/22/20,2
+Tunisia,TUN,1/22/20,0
 United Kingdom,GBR,1/22/20,0
 United States,USA,1/22/20,1
+Ukraine,UKR,1/22/20,0
 United Arab Emirates,ARE,1/22/20,0
 Viet Nam,VNM,1/22/20,0
 Afghanistan,AFG,1/23/20,0
 Algeria,DZA,1/23/20,0
 Andorra,AND,1/23/20,0
+Argentina,ARG,1/23/20,0
 Armenia,ARM,1/23/20,0
 Australia,AUS,1/23/20,0
 Austria,AUT,1/23/20,0
@@ -85,6 +96,7 @@ Belgium,BEL,1/23/20,0
 Brazil,BRA,1/23/20,0
 Cambodia,KHM,1/23/20,0
 Canada,CAN,1/23/20,0
+Chile,CHL,1/23/20,0
 Croatia,HRV,1/23/20,0
 Czechia,CZE,1/23/20,0
 Denmark,DNK,1/23/20,0
@@ -92,12 +104,15 @@ Dominican Republic,DOM,1/23/20,0
 Ecuador,ECU,1/23/20,0
 Egypt,EGY,1/23/20,0
 Estonia,EST,1/23/20,0
+Faroe Islands,FRO,1/23/20,0
 Finland,FIN,1/23/20,0
 France,FRA,1/23/20,0
 Georgia,GEO,1/23/20,0
 Germany,DEU,1/23/20,0
+Gibraltar,GIB,1/23/20,0
 Greece,GRC,1/23/20,0
 Hong Kong,HKG,1/23/20,2
+Hungary,HUN,1/23/20,0
 Iceland,ISL,1/23/20,0
 India,IND,1/23/20,0
 Indonesia,IDN,1/23/20,0
@@ -107,9 +122,11 @@ Ireland,IRL,1/23/20,0
 Israel,ISR,1/23/20,0
 Italy,ITA,1/23/20,0
 Japan,JPN,1/23/20,1
+Jordan,JOR,1/23/20,0
 Kuwait,KWT,1/23/20,0
 Latvia,LVA,1/23/20,0
 Lebanon,LBN,1/23/20,0
+Liechtenstein,LIE,1/23/20,0
 Lithuania,LTU,1/23/20,0
 Luxembourg,LUX,1/23/20,0
 Macao,MAC,1/23/20,2
@@ -126,6 +143,7 @@ Norway,NOR,1/23/20,0
 Oman,OMN,1/23/20,0
 Pakistan,PAK,1/23/20,0
 Philippines,PHL,1/23/20,0
+Poland,POL,1/23/20,0
 Portugal,PRT,1/23/20,0
 Qatar,QAT,1/23/20,0
 Romania,ROU,1/23/20,0
@@ -141,13 +159,16 @@ Sweden,SWE,1/23/20,0
 Switzerland,CHE,1/23/20,0
 "Taiwan, Province of China",TWN,1/23/20,1
 Thailand,THA,1/23/20,3
+Tunisia,TUN,1/23/20,0
 United Kingdom,GBR,1/23/20,0
 United States,USA,1/23/20,1
+Ukraine,UKR,1/23/20,0
 United Arab Emirates,ARE,1/23/20,0
 Viet Nam,VNM,1/23/20,2
 Afghanistan,AFG,1/24/20,0
 Algeria,DZA,1/24/20,0
 Andorra,AND,1/24/20,0
+Argentina,ARG,1/24/20,0
 Armenia,ARM,1/24/20,0
 Australia,AUS,1/24/20,0
 Austria,AUT,1/24/20,0
@@ -158,6 +179,7 @@ Belgium,BEL,1/24/20,0
 Brazil,BRA,1/24/20,0
 Cambodia,KHM,1/24/20,0
 Canada,CAN,1/24/20,0
+Chile,CHL,1/24/20,0
 Croatia,HRV,1/24/20,0
 Czechia,CZE,1/24/20,0
 Denmark,DNK,1/24/20,0
@@ -165,12 +187,15 @@ Dominican Republic,DOM,1/24/20,0
 Ecuador,ECU,1/24/20,0
 Egypt,EGY,1/24/20,0
 Estonia,EST,1/24/20,0
+Faroe Islands,FRO,1/24/20,0
 Finland,FIN,1/24/20,0
 France,FRA,1/24/20,2
 Georgia,GEO,1/24/20,0
 Germany,DEU,1/24/20,0
+Gibraltar,GIB,1/24/20,0
 Greece,GRC,1/24/20,0
 Hong Kong,HKG,1/24/20,2
+Hungary,HUN,1/24/20,0
 Iceland,ISL,1/24/20,0
 India,IND,1/24/20,0
 Indonesia,IDN,1/24/20,0
@@ -180,9 +205,11 @@ Ireland,IRL,1/24/20,0
 Israel,ISR,1/24/20,0
 Italy,ITA,1/24/20,0
 Japan,JPN,1/24/20,2
+Jordan,JOR,1/24/20,0
 Kuwait,KWT,1/24/20,0
 Latvia,LVA,1/24/20,0
 Lebanon,LBN,1/24/20,0
+Liechtenstein,LIE,1/24/20,0
 Lithuania,LTU,1/24/20,0
 Luxembourg,LUX,1/24/20,0
 Macao,MAC,1/24/20,2
@@ -199,6 +226,7 @@ Norway,NOR,1/24/20,0
 Oman,OMN,1/24/20,0
 Pakistan,PAK,1/24/20,0
 Philippines,PHL,1/24/20,0
+Poland,POL,1/24/20,0
 Portugal,PRT,1/24/20,0
 Qatar,QAT,1/24/20,0
 Romania,ROU,1/24/20,0
@@ -214,13 +242,16 @@ Sweden,SWE,1/24/20,0
 Switzerland,CHE,1/24/20,0
 "Taiwan, Province of China",TWN,1/24/20,3
 Thailand,THA,1/24/20,5
+Tunisia,TUN,1/24/20,0
 United Kingdom,GBR,1/24/20,0
 United States,USA,1/24/20,2
+Ukraine,UKR,1/24/20,0
 United Arab Emirates,ARE,1/24/20,0
 Viet Nam,VNM,1/24/20,2
 Afghanistan,AFG,1/25/20,0
 Algeria,DZA,1/25/20,0
 Andorra,AND,1/25/20,0
+Argentina,ARG,1/25/20,0
 Armenia,ARM,1/25/20,0
 Australia,AUS,1/25/20,0
 Austria,AUT,1/25/20,0
@@ -231,6 +262,7 @@ Belgium,BEL,1/25/20,0
 Brazil,BRA,1/25/20,0
 Cambodia,KHM,1/25/20,0
 Canada,CAN,1/25/20,0
+Chile,CHL,1/25/20,0
 Croatia,HRV,1/25/20,0
 Czechia,CZE,1/25/20,0
 Denmark,DNK,1/25/20,0
@@ -238,12 +270,15 @@ Dominican Republic,DOM,1/25/20,0
 Ecuador,ECU,1/25/20,0
 Egypt,EGY,1/25/20,0
 Estonia,EST,1/25/20,0
+Faroe Islands,FRO,1/25/20,0
 Finland,FIN,1/25/20,0
 France,FRA,1/25/20,3
 Georgia,GEO,1/25/20,0
 Germany,DEU,1/25/20,0
+Gibraltar,GIB,1/25/20,0
 Greece,GRC,1/25/20,0
 Hong Kong,HKG,1/25/20,5
+Hungary,HUN,1/25/20,0
 Iceland,ISL,1/25/20,0
 India,IND,1/25/20,0
 Indonesia,IDN,1/25/20,0
@@ -253,9 +288,11 @@ Ireland,IRL,1/25/20,0
 Israel,ISR,1/25/20,0
 Italy,ITA,1/25/20,0
 Japan,JPN,1/25/20,2
+Jordan,JOR,1/25/20,0
 Kuwait,KWT,1/25/20,0
 Latvia,LVA,1/25/20,0
 Lebanon,LBN,1/25/20,0
+Liechtenstein,LIE,1/25/20,0
 Lithuania,LTU,1/25/20,0
 Luxembourg,LUX,1/25/20,0
 Macao,MAC,1/25/20,2
@@ -272,6 +309,7 @@ Norway,NOR,1/25/20,0
 Oman,OMN,1/25/20,0
 Pakistan,PAK,1/25/20,0
 Philippines,PHL,1/25/20,0
+Poland,POL,1/25/20,0
 Portugal,PRT,1/25/20,0
 Qatar,QAT,1/25/20,0
 Romania,ROU,1/25/20,0
@@ -287,13 +325,16 @@ Sweden,SWE,1/25/20,0
 Switzerland,CHE,1/25/20,0
 "Taiwan, Province of China",TWN,1/25/20,3
 Thailand,THA,1/25/20,7
+Tunisia,TUN,1/25/20,0
 United Kingdom,GBR,1/25/20,0
 United States,USA,1/25/20,2
+Ukraine,UKR,1/25/20,0
 United Arab Emirates,ARE,1/25/20,0
 Viet Nam,VNM,1/25/20,2
 Afghanistan,AFG,1/26/20,0
 Algeria,DZA,1/26/20,0
 Andorra,AND,1/26/20,0
+Argentina,ARG,1/26/20,0
 Armenia,ARM,1/26/20,0
 Australia,AUS,1/26/20,4
 Austria,AUT,1/26/20,0
@@ -304,6 +345,7 @@ Belgium,BEL,1/26/20,0
 Brazil,BRA,1/26/20,0
 Cambodia,KHM,1/26/20,0
 Canada,CAN,1/26/20,1
+Chile,CHL,1/26/20,0
 Croatia,HRV,1/26/20,0
 Czechia,CZE,1/26/20,0
 Denmark,DNK,1/26/20,0
@@ -311,12 +353,15 @@ Dominican Republic,DOM,1/26/20,0
 Ecuador,ECU,1/26/20,0
 Egypt,EGY,1/26/20,0
 Estonia,EST,1/26/20,0
+Faroe Islands,FRO,1/26/20,0
 Finland,FIN,1/26/20,0
 France,FRA,1/26/20,3
 Georgia,GEO,1/26/20,0
 Germany,DEU,1/26/20,0
+Gibraltar,GIB,1/26/20,0
 Greece,GRC,1/26/20,0
 Hong Kong,HKG,1/26/20,8
+Hungary,HUN,1/26/20,0
 Iceland,ISL,1/26/20,0
 India,IND,1/26/20,0
 Indonesia,IDN,1/26/20,0
@@ -326,9 +371,11 @@ Ireland,IRL,1/26/20,0
 Israel,ISR,1/26/20,0
 Italy,ITA,1/26/20,0
 Japan,JPN,1/26/20,4
+Jordan,JOR,1/26/20,0
 Kuwait,KWT,1/26/20,0
 Latvia,LVA,1/26/20,0
 Lebanon,LBN,1/26/20,0
+Liechtenstein,LIE,1/26/20,0
 Lithuania,LTU,1/26/20,0
 Luxembourg,LUX,1/26/20,0
 Macao,MAC,1/26/20,5
@@ -345,6 +392,7 @@ Norway,NOR,1/26/20,0
 Oman,OMN,1/26/20,0
 Pakistan,PAK,1/26/20,0
 Philippines,PHL,1/26/20,0
+Poland,POL,1/26/20,0
 Portugal,PRT,1/26/20,0
 Qatar,QAT,1/26/20,0
 Romania,ROU,1/26/20,0
@@ -360,13 +408,16 @@ Sweden,SWE,1/26/20,0
 Switzerland,CHE,1/26/20,0
 "Taiwan, Province of China",TWN,1/26/20,4
 Thailand,THA,1/26/20,8
+Tunisia,TUN,1/26/20,0
 United Kingdom,GBR,1/26/20,0
 United States,USA,1/26/20,5
+Ukraine,UKR,1/26/20,0
 United Arab Emirates,ARE,1/26/20,0
 Viet Nam,VNM,1/26/20,2
 Afghanistan,AFG,1/27/20,0
 Algeria,DZA,1/27/20,0
 Andorra,AND,1/27/20,0
+Argentina,ARG,1/27/20,0
 Armenia,ARM,1/27/20,0
 Australia,AUS,1/27/20,5
 Austria,AUT,1/27/20,0
@@ -377,6 +428,7 @@ Belgium,BEL,1/27/20,0
 Brazil,BRA,1/27/20,0
 Cambodia,KHM,1/27/20,1
 Canada,CAN,1/27/20,1
+Chile,CHL,1/27/20,0
 Croatia,HRV,1/27/20,0
 Czechia,CZE,1/27/20,0
 Denmark,DNK,1/27/20,0
@@ -384,12 +436,15 @@ Dominican Republic,DOM,1/27/20,0
 Ecuador,ECU,1/27/20,0
 Egypt,EGY,1/27/20,0
 Estonia,EST,1/27/20,0
+Faroe Islands,FRO,1/27/20,0
 Finland,FIN,1/27/20,0
 France,FRA,1/27/20,3
 Georgia,GEO,1/27/20,0
 Germany,DEU,1/27/20,1
+Gibraltar,GIB,1/27/20,0
 Greece,GRC,1/27/20,0
 Hong Kong,HKG,1/27/20,8
+Hungary,HUN,1/27/20,0
 Iceland,ISL,1/27/20,0
 India,IND,1/27/20,0
 Indonesia,IDN,1/27/20,0
@@ -399,9 +454,11 @@ Ireland,IRL,1/27/20,0
 Israel,ISR,1/27/20,0
 Italy,ITA,1/27/20,0
 Japan,JPN,1/27/20,4
+Jordan,JOR,1/27/20,0
 Kuwait,KWT,1/27/20,0
 Latvia,LVA,1/27/20,0
 Lebanon,LBN,1/27/20,0
+Liechtenstein,LIE,1/27/20,0
 Lithuania,LTU,1/27/20,0
 Luxembourg,LUX,1/27/20,0
 Macao,MAC,1/27/20,6
@@ -418,6 +475,7 @@ Norway,NOR,1/27/20,0
 Oman,OMN,1/27/20,0
 Pakistan,PAK,1/27/20,0
 Philippines,PHL,1/27/20,0
+Poland,POL,1/27/20,0
 Portugal,PRT,1/27/20,0
 Qatar,QAT,1/27/20,0
 Romania,ROU,1/27/20,0
@@ -433,13 +491,16 @@ Sweden,SWE,1/27/20,0
 Switzerland,CHE,1/27/20,0
 "Taiwan, Province of China",TWN,1/27/20,5
 Thailand,THA,1/27/20,8
+Tunisia,TUN,1/27/20,0
 United Kingdom,GBR,1/27/20,0
 United States,USA,1/27/20,5
+Ukraine,UKR,1/27/20,0
 United Arab Emirates,ARE,1/27/20,0
 Viet Nam,VNM,1/27/20,2
 Afghanistan,AFG,1/28/20,0
 Algeria,DZA,1/28/20,0
 Andorra,AND,1/28/20,0
+Argentina,ARG,1/28/20,0
 Armenia,ARM,1/28/20,0
 Australia,AUS,1/28/20,5
 Austria,AUT,1/28/20,0
@@ -450,6 +511,7 @@ Belgium,BEL,1/28/20,0
 Brazil,BRA,1/28/20,0
 Cambodia,KHM,1/28/20,1
 Canada,CAN,1/28/20,2
+Chile,CHL,1/28/20,0
 Croatia,HRV,1/28/20,0
 Czechia,CZE,1/28/20,0
 Denmark,DNK,1/28/20,0
@@ -457,12 +519,15 @@ Dominican Republic,DOM,1/28/20,0
 Ecuador,ECU,1/28/20,0
 Egypt,EGY,1/28/20,0
 Estonia,EST,1/28/20,0
+Faroe Islands,FRO,1/28/20,0
 Finland,FIN,1/28/20,0
 France,FRA,1/28/20,4
 Georgia,GEO,1/28/20,0
 Germany,DEU,1/28/20,4
+Gibraltar,GIB,1/28/20,0
 Greece,GRC,1/28/20,0
 Hong Kong,HKG,1/28/20,8
+Hungary,HUN,1/28/20,0
 Iceland,ISL,1/28/20,0
 India,IND,1/28/20,0
 Indonesia,IDN,1/28/20,0
@@ -472,9 +537,11 @@ Ireland,IRL,1/28/20,0
 Israel,ISR,1/28/20,0
 Italy,ITA,1/28/20,0
 Japan,JPN,1/28/20,7
+Jordan,JOR,1/28/20,0
 Kuwait,KWT,1/28/20,0
 Latvia,LVA,1/28/20,0
 Lebanon,LBN,1/28/20,0
+Liechtenstein,LIE,1/28/20,0
 Lithuania,LTU,1/28/20,0
 Luxembourg,LUX,1/28/20,0
 Macao,MAC,1/28/20,7
@@ -491,6 +558,7 @@ Norway,NOR,1/28/20,0
 Oman,OMN,1/28/20,0
 Pakistan,PAK,1/28/20,0
 Philippines,PHL,1/28/20,0
+Poland,POL,1/28/20,0
 Portugal,PRT,1/28/20,0
 Qatar,QAT,1/28/20,0
 Romania,ROU,1/28/20,0
@@ -506,13 +574,16 @@ Sweden,SWE,1/28/20,0
 Switzerland,CHE,1/28/20,0
 "Taiwan, Province of China",TWN,1/28/20,8
 Thailand,THA,1/28/20,14
+Tunisia,TUN,1/28/20,0
 United Kingdom,GBR,1/28/20,0
 United States,USA,1/28/20,5
+Ukraine,UKR,1/28/20,0
 United Arab Emirates,ARE,1/28/20,0
 Viet Nam,VNM,1/28/20,2
 Afghanistan,AFG,1/29/20,0
 Algeria,DZA,1/29/20,0
 Andorra,AND,1/29/20,0
+Argentina,ARG,1/29/20,0
 Armenia,ARM,1/29/20,0
 Australia,AUS,1/29/20,6
 Austria,AUT,1/29/20,0
@@ -523,6 +594,7 @@ Belgium,BEL,1/29/20,0
 Brazil,BRA,1/29/20,0
 Cambodia,KHM,1/29/20,1
 Canada,CAN,1/29/20,2
+Chile,CHL,1/29/20,0
 Croatia,HRV,1/29/20,0
 Czechia,CZE,1/29/20,0
 Denmark,DNK,1/29/20,0
@@ -530,12 +602,15 @@ Dominican Republic,DOM,1/29/20,0
 Ecuador,ECU,1/29/20,0
 Egypt,EGY,1/29/20,0
 Estonia,EST,1/29/20,0
+Faroe Islands,FRO,1/29/20,0
 Finland,FIN,1/29/20,1
 France,FRA,1/29/20,5
 Georgia,GEO,1/29/20,0
 Germany,DEU,1/29/20,4
+Gibraltar,GIB,1/29/20,0
 Greece,GRC,1/29/20,0
 Hong Kong,HKG,1/29/20,10
+Hungary,HUN,1/29/20,0
 Iceland,ISL,1/29/20,0
 India,IND,1/29/20,0
 Indonesia,IDN,1/29/20,0
@@ -545,9 +620,11 @@ Ireland,IRL,1/29/20,0
 Israel,ISR,1/29/20,0
 Italy,ITA,1/29/20,0
 Japan,JPN,1/29/20,7
+Jordan,JOR,1/29/20,0
 Kuwait,KWT,1/29/20,0
 Latvia,LVA,1/29/20,0
 Lebanon,LBN,1/29/20,0
+Liechtenstein,LIE,1/29/20,0
 Lithuania,LTU,1/29/20,0
 Luxembourg,LUX,1/29/20,0
 Macao,MAC,1/29/20,7
@@ -564,6 +641,7 @@ Norway,NOR,1/29/20,0
 Oman,OMN,1/29/20,0
 Pakistan,PAK,1/29/20,0
 Philippines,PHL,1/29/20,0
+Poland,POL,1/29/20,0
 Portugal,PRT,1/29/20,0
 Qatar,QAT,1/29/20,0
 Romania,ROU,1/29/20,0
@@ -579,13 +657,16 @@ Sweden,SWE,1/29/20,0
 Switzerland,CHE,1/29/20,0
 "Taiwan, Province of China",TWN,1/29/20,8
 Thailand,THA,1/29/20,14
+Tunisia,TUN,1/29/20,0
 United Kingdom,GBR,1/29/20,0
 United States,USA,1/29/20,5
+Ukraine,UKR,1/29/20,0
 United Arab Emirates,ARE,1/29/20,4
 Viet Nam,VNM,1/29/20,2
 Afghanistan,AFG,1/30/20,0
 Algeria,DZA,1/30/20,0
 Andorra,AND,1/30/20,0
+Argentina,ARG,1/30/20,0
 Armenia,ARM,1/30/20,0
 Australia,AUS,1/30/20,9
 Austria,AUT,1/30/20,0
@@ -596,6 +677,7 @@ Belgium,BEL,1/30/20,0
 Brazil,BRA,1/30/20,0
 Cambodia,KHM,1/30/20,1
 Canada,CAN,1/30/20,2
+Chile,CHL,1/30/20,0
 Croatia,HRV,1/30/20,0
 Czechia,CZE,1/30/20,0
 Denmark,DNK,1/30/20,0
@@ -603,12 +685,15 @@ Dominican Republic,DOM,1/30/20,0
 Ecuador,ECU,1/30/20,0
 Egypt,EGY,1/30/20,0
 Estonia,EST,1/30/20,0
+Faroe Islands,FRO,1/30/20,0
 Finland,FIN,1/30/20,1
 France,FRA,1/30/20,5
 Georgia,GEO,1/30/20,0
 Germany,DEU,1/30/20,4
+Gibraltar,GIB,1/30/20,0
 Greece,GRC,1/30/20,0
 Hong Kong,HKG,1/30/20,10
+Hungary,HUN,1/30/20,0
 Iceland,ISL,1/30/20,0
 India,IND,1/30/20,1
 Indonesia,IDN,1/30/20,0
@@ -618,9 +703,11 @@ Ireland,IRL,1/30/20,0
 Israel,ISR,1/30/20,0
 Italy,ITA,1/30/20,0
 Japan,JPN,1/30/20,11
+Jordan,JOR,1/30/20,0
 Kuwait,KWT,1/30/20,0
 Latvia,LVA,1/30/20,0
 Lebanon,LBN,1/30/20,0
+Liechtenstein,LIE,1/30/20,0
 Lithuania,LTU,1/30/20,0
 Luxembourg,LUX,1/30/20,0
 Macao,MAC,1/30/20,7
@@ -637,6 +724,7 @@ Norway,NOR,1/30/20,0
 Oman,OMN,1/30/20,0
 Pakistan,PAK,1/30/20,0
 Philippines,PHL,1/30/20,1
+Poland,POL,1/30/20,0
 Portugal,PRT,1/30/20,0
 Qatar,QAT,1/30/20,0
 Romania,ROU,1/30/20,0
@@ -652,13 +740,16 @@ Sweden,SWE,1/30/20,0
 Switzerland,CHE,1/30/20,0
 "Taiwan, Province of China",TWN,1/30/20,9
 Thailand,THA,1/30/20,14
+Tunisia,TUN,1/30/20,0
 United Kingdom,GBR,1/30/20,0
 United States,USA,1/30/20,5
+Ukraine,UKR,1/30/20,0
 United Arab Emirates,ARE,1/30/20,4
 Viet Nam,VNM,1/30/20,2
 Afghanistan,AFG,1/31/20,0
 Algeria,DZA,1/31/20,0
 Andorra,AND,1/31/20,0
+Argentina,ARG,1/31/20,0
 Armenia,ARM,1/31/20,0
 Australia,AUS,1/31/20,9
 Austria,AUT,1/31/20,0
@@ -669,6 +760,7 @@ Belgium,BEL,1/31/20,0
 Brazil,BRA,1/31/20,0
 Cambodia,KHM,1/31/20,1
 Canada,CAN,1/31/20,4
+Chile,CHL,1/31/20,0
 Croatia,HRV,1/31/20,0
 Czechia,CZE,1/31/20,0
 Denmark,DNK,1/31/20,0
@@ -676,12 +768,15 @@ Dominican Republic,DOM,1/31/20,0
 Ecuador,ECU,1/31/20,0
 Egypt,EGY,1/31/20,0
 Estonia,EST,1/31/20,0
+Faroe Islands,FRO,1/31/20,0
 Finland,FIN,1/31/20,1
 France,FRA,1/31/20,5
 Georgia,GEO,1/31/20,0
 Germany,DEU,1/31/20,5
+Gibraltar,GIB,1/31/20,0
 Greece,GRC,1/31/20,0
 Hong Kong,HKG,1/31/20,12
+Hungary,HUN,1/31/20,0
 Iceland,ISL,1/31/20,0
 India,IND,1/31/20,1
 Indonesia,IDN,1/31/20,0
@@ -691,9 +786,11 @@ Ireland,IRL,1/31/20,0
 Israel,ISR,1/31/20,0
 Italy,ITA,1/31/20,2
 Japan,JPN,1/31/20,15
+Jordan,JOR,1/31/20,0
 Kuwait,KWT,1/31/20,0
 Latvia,LVA,1/31/20,0
 Lebanon,LBN,1/31/20,0
+Liechtenstein,LIE,1/31/20,0
 Lithuania,LTU,1/31/20,0
 Luxembourg,LUX,1/31/20,0
 Macao,MAC,1/31/20,7
@@ -710,6 +807,7 @@ Norway,NOR,1/31/20,0
 Oman,OMN,1/31/20,0
 Pakistan,PAK,1/31/20,0
 Philippines,PHL,1/31/20,1
+Poland,POL,1/31/20,0
 Portugal,PRT,1/31/20,0
 Qatar,QAT,1/31/20,0
 Romania,ROU,1/31/20,0
@@ -725,889 +823,1012 @@ Sweden,SWE,1/31/20,1
 Switzerland,CHE,1/31/20,0
 "Taiwan, Province of China",TWN,1/31/20,10
 Thailand,THA,1/31/20,19
+Tunisia,TUN,1/31/20,0
 United Kingdom,GBR,1/31/20,2
 United States,USA,1/31/20,7
+Ukraine,UKR,1/31/20,0
 United Arab Emirates,ARE,1/31/20,4
 Viet Nam,VNM,1/31/20,2
-Afghanistan,AFG,2/1/20,0
-Algeria,DZA,2/1/20,0
-Andorra,AND,2/1/20,0
-Armenia,ARM,2/1/20,0
-Australia,AUS,2/1/20,12
-Austria,AUT,2/1/20,0
-Azerbaijan,AZE,2/1/20,0
-Bahrain,BHR,2/1/20,0
-Belarus,BLR,2/1/20,0
-Belgium,BEL,2/1/20,0
-Brazil,BRA,2/1/20,0
-Cambodia,KHM,2/1/20,1
-Canada,CAN,2/1/20,4
-Croatia,HRV,2/1/20,0
-Czechia,CZE,2/1/20,0
-Denmark,DNK,2/1/20,0
-Dominican Republic,DOM,2/1/20,0
-Ecuador,ECU,2/1/20,0
-Egypt,EGY,2/1/20,0
-Estonia,EST,2/1/20,0
-Finland,FIN,2/1/20,1
-France,FRA,2/1/20,6
-Georgia,GEO,2/1/20,0
-Germany,DEU,2/1/20,8
-Greece,GRC,2/1/20,0
-Hong Kong,HKG,2/1/20,13
-Iceland,ISL,2/1/20,0
-India,IND,2/1/20,1
-Indonesia,IDN,2/1/20,0
-"Iran, Islamic Republic of",IRN,2/1/20,0
-Iraq,IRQ,2/1/20,0
-Ireland,IRL,2/1/20,0
-Israel,ISR,2/1/20,0
-Italy,ITA,2/1/20,2
-Japan,JPN,2/1/20,20
-Kuwait,KWT,2/1/20,0
-Latvia,LVA,2/1/20,0
-Lebanon,LBN,2/1/20,0
-Lithuania,LTU,2/1/20,0
-Luxembourg,LUX,2/1/20,0
-Macao,MAC,2/1/20,7
-Malaysia,MYS,2/1/20,8
-Mexico,MEX,2/1/20,0
-Monaco,MCO,2/1/20,0
-Morocco,MAR,2/1/20,0
-Nepal,NPL,2/1/20,1
-Netherlands,NLD,2/1/20,0
-New Zealand,NZL,2/1/20,0
-Nigeria,NGA,2/1/20,0
-North Macedonia,MKD,2/1/20,0
-Norway,NOR,2/1/20,0
-Oman,OMN,2/1/20,0
-Pakistan,PAK,2/1/20,0
-Philippines,PHL,2/1/20,1
-Portugal,PRT,2/1/20,0
-Qatar,QAT,2/1/20,0
-Romania,ROU,2/1/20,0
-Russian Federation,RUS,2/1/20,2
-San Marino,SMR,2/1/20,0
-Saudi Arabia,SAU,2/1/20,0
-Senegal,SEN,2/1/20,0
-Singapore,SGP,2/1/20,16
-"Korea, Republic of",KOR,2/1/20,12
-Spain,ESP,2/1/20,1
-Sri Lanka,LKA,2/1/20,1
-Sweden,SWE,2/1/20,1
-Switzerland,CHE,2/1/20,0
-"Taiwan, Province of China",TWN,2/1/20,10
-Thailand,THA,2/1/20,19
-United Kingdom,GBR,2/1/20,2
-United States,USA,2/1/20,8
-United Arab Emirates,ARE,2/1/20,4
-Viet Nam,VNM,2/1/20,6
-Afghanistan,AFG,2/2/20,0
-Algeria,DZA,2/2/20,0
-Andorra,AND,2/2/20,0
-Armenia,ARM,2/2/20,0
-Australia,AUS,2/2/20,12
-Austria,AUT,2/2/20,0
-Azerbaijan,AZE,2/2/20,0
-Bahrain,BHR,2/2/20,0
-Belarus,BLR,2/2/20,0
-Belgium,BEL,2/2/20,0
-Brazil,BRA,2/2/20,0
-Cambodia,KHM,2/2/20,1
-Canada,CAN,2/2/20,4
-Croatia,HRV,2/2/20,0
-Czechia,CZE,2/2/20,0
-Denmark,DNK,2/2/20,0
-Dominican Republic,DOM,2/2/20,0
-Ecuador,ECU,2/2/20,0
-Egypt,EGY,2/2/20,0
-Estonia,EST,2/2/20,0
-Finland,FIN,2/2/20,1
-France,FRA,2/2/20,6
-Georgia,GEO,2/2/20,0
-Germany,DEU,2/2/20,10
-Greece,GRC,2/2/20,0
-Hong Kong,HKG,2/2/20,15
-Iceland,ISL,2/2/20,0
-India,IND,2/2/20,2
-Indonesia,IDN,2/2/20,0
-"Iran, Islamic Republic of",IRN,2/2/20,0
-Iraq,IRQ,2/2/20,0
-Ireland,IRL,2/2/20,0
-Israel,ISR,2/2/20,0
-Italy,ITA,2/2/20,2
-Japan,JPN,2/2/20,20
-Kuwait,KWT,2/2/20,0
-Latvia,LVA,2/2/20,0
-Lebanon,LBN,2/2/20,0
-Lithuania,LTU,2/2/20,0
-Luxembourg,LUX,2/2/20,0
-Macao,MAC,2/2/20,8
-Malaysia,MYS,2/2/20,8
-Mexico,MEX,2/2/20,0
-Monaco,MCO,2/2/20,0
-Morocco,MAR,2/2/20,0
-Nepal,NPL,2/2/20,1
-Netherlands,NLD,2/2/20,0
-New Zealand,NZL,2/2/20,0
-Nigeria,NGA,2/2/20,0
-North Macedonia,MKD,2/2/20,0
-Norway,NOR,2/2/20,0
-Oman,OMN,2/2/20,0
-Pakistan,PAK,2/2/20,0
-Philippines,PHL,2/2/20,2
-Portugal,PRT,2/2/20,0
-Qatar,QAT,2/2/20,0
-Romania,ROU,2/2/20,0
-Russian Federation,RUS,2/2/20,2
-San Marino,SMR,2/2/20,0
-Saudi Arabia,SAU,2/2/20,0
-Senegal,SEN,2/2/20,0
-Singapore,SGP,2/2/20,18
-"Korea, Republic of",KOR,2/2/20,15
-Spain,ESP,2/2/20,1
-Sri Lanka,LKA,2/2/20,1
-Sweden,SWE,2/2/20,1
-Switzerland,CHE,2/2/20,0
-"Taiwan, Province of China",TWN,2/2/20,10
-Thailand,THA,2/2/20,19
-United Kingdom,GBR,2/2/20,2
-United States,USA,2/2/20,8
-United Arab Emirates,ARE,2/2/20,5
-Viet Nam,VNM,2/2/20,6
-Afghanistan,AFG,2/3/20,0
-Algeria,DZA,2/3/20,0
-Andorra,AND,2/3/20,0
-Armenia,ARM,2/3/20,0
-Australia,AUS,2/3/20,12
-Austria,AUT,2/3/20,0
-Azerbaijan,AZE,2/3/20,0
-Bahrain,BHR,2/3/20,0
-Belarus,BLR,2/3/20,0
-Belgium,BEL,2/3/20,0
-Brazil,BRA,2/3/20,0
-Cambodia,KHM,2/3/20,1
-Canada,CAN,2/3/20,4
-Croatia,HRV,2/3/20,0
-Czechia,CZE,2/3/20,0
-Denmark,DNK,2/3/20,0
-Dominican Republic,DOM,2/3/20,0
-Ecuador,ECU,2/3/20,0
-Egypt,EGY,2/3/20,0
-Estonia,EST,2/3/20,0
-Finland,FIN,2/3/20,1
-France,FRA,2/3/20,6
-Georgia,GEO,2/3/20,0
-Germany,DEU,2/3/20,12
-Greece,GRC,2/3/20,0
-Hong Kong,HKG,2/3/20,15
-Iceland,ISL,2/3/20,0
-India,IND,2/3/20,3
-Indonesia,IDN,2/3/20,0
-"Iran, Islamic Republic of",IRN,2/3/20,0
-Iraq,IRQ,2/3/20,0
-Ireland,IRL,2/3/20,0
-Israel,ISR,2/3/20,0
-Italy,ITA,2/3/20,2
-Japan,JPN,2/3/20,20
-Kuwait,KWT,2/3/20,0
-Latvia,LVA,2/3/20,0
-Lebanon,LBN,2/3/20,0
-Lithuania,LTU,2/3/20,0
-Luxembourg,LUX,2/3/20,0
-Macao,MAC,2/3/20,8
-Malaysia,MYS,2/3/20,8
-Mexico,MEX,2/3/20,0
-Monaco,MCO,2/3/20,0
-Morocco,MAR,2/3/20,0
-Nepal,NPL,2/3/20,1
-Netherlands,NLD,2/3/20,0
-New Zealand,NZL,2/3/20,0
-Nigeria,NGA,2/3/20,0
-North Macedonia,MKD,2/3/20,0
-Norway,NOR,2/3/20,0
-Oman,OMN,2/3/20,0
-Pakistan,PAK,2/3/20,0
-Philippines,PHL,2/3/20,2
-Portugal,PRT,2/3/20,0
-Qatar,QAT,2/3/20,0
-Romania,ROU,2/3/20,0
-Russian Federation,RUS,2/3/20,2
-San Marino,SMR,2/3/20,0
-Saudi Arabia,SAU,2/3/20,0
-Senegal,SEN,2/3/20,0
-Singapore,SGP,2/3/20,18
-"Korea, Republic of",KOR,2/3/20,15
-Spain,ESP,2/3/20,1
-Sri Lanka,LKA,2/3/20,1
-Sweden,SWE,2/3/20,1
-Switzerland,CHE,2/3/20,0
-"Taiwan, Province of China",TWN,2/3/20,10
-Thailand,THA,2/3/20,19
-United Kingdom,GBR,2/3/20,2
-United States,USA,2/3/20,11
-United Arab Emirates,ARE,2/3/20,5
-Viet Nam,VNM,2/3/20,8
-Afghanistan,AFG,2/4/20,0
-Algeria,DZA,2/4/20,0
-Andorra,AND,2/4/20,0
-Armenia,ARM,2/4/20,0
-Australia,AUS,2/4/20,13
-Austria,AUT,2/4/20,0
-Azerbaijan,AZE,2/4/20,0
-Bahrain,BHR,2/4/20,0
-Belarus,BLR,2/4/20,0
-Belgium,BEL,2/4/20,1
-Brazil,BRA,2/4/20,0
-Cambodia,KHM,2/4/20,1
-Canada,CAN,2/4/20,4
-Croatia,HRV,2/4/20,0
-Czechia,CZE,2/4/20,0
-Denmark,DNK,2/4/20,0
-Dominican Republic,DOM,2/4/20,0
-Ecuador,ECU,2/4/20,0
-Egypt,EGY,2/4/20,0
-Estonia,EST,2/4/20,0
-Finland,FIN,2/4/20,1
-France,FRA,2/4/20,6
-Georgia,GEO,2/4/20,0
-Germany,DEU,2/4/20,12
-Greece,GRC,2/4/20,0
-Hong Kong,HKG,2/4/20,17
-Iceland,ISL,2/4/20,0
-India,IND,2/4/20,3
-Indonesia,IDN,2/4/20,0
-"Iran, Islamic Republic of",IRN,2/4/20,0
-Iraq,IRQ,2/4/20,0
-Ireland,IRL,2/4/20,0
-Israel,ISR,2/4/20,0
-Italy,ITA,2/4/20,2
-Japan,JPN,2/4/20,22
-Kuwait,KWT,2/4/20,0
-Latvia,LVA,2/4/20,0
-Lebanon,LBN,2/4/20,0
-Lithuania,LTU,2/4/20,0
-Luxembourg,LUX,2/4/20,0
-Macao,MAC,2/4/20,10
-Malaysia,MYS,2/4/20,10
-Mexico,MEX,2/4/20,0
-Monaco,MCO,2/4/20,0
-Morocco,MAR,2/4/20,0
-Nepal,NPL,2/4/20,1
-Netherlands,NLD,2/4/20,0
-New Zealand,NZL,2/4/20,0
-Nigeria,NGA,2/4/20,0
-North Macedonia,MKD,2/4/20,0
-Norway,NOR,2/4/20,0
-Oman,OMN,2/4/20,0
-Pakistan,PAK,2/4/20,0
-Philippines,PHL,2/4/20,2
-Portugal,PRT,2/4/20,0
-Qatar,QAT,2/4/20,0
-Romania,ROU,2/4/20,0
-Russian Federation,RUS,2/4/20,2
-San Marino,SMR,2/4/20,0
-Saudi Arabia,SAU,2/4/20,0
-Senegal,SEN,2/4/20,0
-Singapore,SGP,2/4/20,24
-"Korea, Republic of",KOR,2/4/20,16
-Spain,ESP,2/4/20,1
-Sri Lanka,LKA,2/4/20,1
-Sweden,SWE,2/4/20,1
-Switzerland,CHE,2/4/20,0
-"Taiwan, Province of China",TWN,2/4/20,11
-Thailand,THA,2/4/20,25
-United Kingdom,GBR,2/4/20,2
-United States,USA,2/4/20,11
-United Arab Emirates,ARE,2/4/20,5
-Viet Nam,VNM,2/4/20,8
-Afghanistan,AFG,2/5/20,0
-Algeria,DZA,2/5/20,0
-Andorra,AND,2/5/20,0
-Armenia,ARM,2/5/20,0
-Australia,AUS,2/5/20,13
-Austria,AUT,2/5/20,0
-Azerbaijan,AZE,2/5/20,0
-Bahrain,BHR,2/5/20,0
-Belarus,BLR,2/5/20,0
-Belgium,BEL,2/5/20,1
-Brazil,BRA,2/5/20,0
-Cambodia,KHM,2/5/20,1
-Canada,CAN,2/5/20,5
-Croatia,HRV,2/5/20,0
-Czechia,CZE,2/5/20,0
-Denmark,DNK,2/5/20,0
-Dominican Republic,DOM,2/5/20,0
-Ecuador,ECU,2/5/20,0
-Egypt,EGY,2/5/20,0
-Estonia,EST,2/5/20,0
-Finland,FIN,2/5/20,1
-France,FRA,2/5/20,6
-Georgia,GEO,2/5/20,0
-Germany,DEU,2/5/20,12
-Greece,GRC,2/5/20,0
-Hong Kong,HKG,2/5/20,21
-Iceland,ISL,2/5/20,0
-India,IND,2/5/20,3
-Indonesia,IDN,2/5/20,0
-"Iran, Islamic Republic of",IRN,2/5/20,0
-Iraq,IRQ,2/5/20,0
-Ireland,IRL,2/5/20,0
-Israel,ISR,2/5/20,0
-Italy,ITA,2/5/20,2
-Japan,JPN,2/5/20,22
-Kuwait,KWT,2/5/20,0
-Latvia,LVA,2/5/20,0
-Lebanon,LBN,2/5/20,0
-Lithuania,LTU,2/5/20,0
-Luxembourg,LUX,2/5/20,0
-Macao,MAC,2/5/20,10
-Malaysia,MYS,2/5/20,12
-Mexico,MEX,2/5/20,0
-Monaco,MCO,2/5/20,0
-Morocco,MAR,2/5/20,0
-Nepal,NPL,2/5/20,1
-Netherlands,NLD,2/5/20,0
-New Zealand,NZL,2/5/20,0
-Nigeria,NGA,2/5/20,0
-North Macedonia,MKD,2/5/20,0
-Norway,NOR,2/5/20,0
-Oman,OMN,2/5/20,0
-Pakistan,PAK,2/5/20,0
-Philippines,PHL,2/5/20,2
-Portugal,PRT,2/5/20,0
-Qatar,QAT,2/5/20,0
-Romania,ROU,2/5/20,0
-Russian Federation,RUS,2/5/20,2
-San Marino,SMR,2/5/20,0
-Saudi Arabia,SAU,2/5/20,0
-Senegal,SEN,2/5/20,0
-Singapore,SGP,2/5/20,28
-"Korea, Republic of",KOR,2/5/20,19
-Spain,ESP,2/5/20,1
-Sri Lanka,LKA,2/5/20,1
-Sweden,SWE,2/5/20,1
-Switzerland,CHE,2/5/20,0
-"Taiwan, Province of China",TWN,2/5/20,11
-Thailand,THA,2/5/20,25
-United Kingdom,GBR,2/5/20,2
-United States,USA,2/5/20,12
-United Arab Emirates,ARE,2/5/20,5
-Viet Nam,VNM,2/5/20,8
-Afghanistan,AFG,2/6/20,0
-Algeria,DZA,2/6/20,0
-Andorra,AND,2/6/20,0
-Armenia,ARM,2/6/20,0
-Australia,AUS,2/6/20,14
-Austria,AUT,2/6/20,0
-Azerbaijan,AZE,2/6/20,0
-Bahrain,BHR,2/6/20,0
-Belarus,BLR,2/6/20,0
-Belgium,BEL,2/6/20,1
-Brazil,BRA,2/6/20,0
-Cambodia,KHM,2/6/20,1
-Canada,CAN,2/6/20,5
-Croatia,HRV,2/6/20,0
-Czechia,CZE,2/6/20,0
-Denmark,DNK,2/6/20,0
-Dominican Republic,DOM,2/6/20,0
-Ecuador,ECU,2/6/20,0
-Egypt,EGY,2/6/20,0
-Estonia,EST,2/6/20,0
-Finland,FIN,2/6/20,1
-France,FRA,2/6/20,6
-Georgia,GEO,2/6/20,0
-Germany,DEU,2/6/20,12
-Greece,GRC,2/6/20,0
-Hong Kong,HKG,2/6/20,24
-Iceland,ISL,2/6/20,0
-India,IND,2/6/20,3
-Indonesia,IDN,2/6/20,0
-"Iran, Islamic Republic of",IRN,2/6/20,0
-Iraq,IRQ,2/6/20,0
-Ireland,IRL,2/6/20,0
-Israel,ISR,2/6/20,0
-Italy,ITA,2/6/20,2
-Japan,JPN,2/6/20,45
-Kuwait,KWT,2/6/20,0
-Latvia,LVA,2/6/20,0
-Lebanon,LBN,2/6/20,0
-Lithuania,LTU,2/6/20,0
-Luxembourg,LUX,2/6/20,0
-Macao,MAC,2/6/20,10
-Malaysia,MYS,2/6/20,12
-Mexico,MEX,2/6/20,0
-Monaco,MCO,2/6/20,0
-Morocco,MAR,2/6/20,0
-Nepal,NPL,2/6/20,1
-Netherlands,NLD,2/6/20,0
-New Zealand,NZL,2/6/20,0
-Nigeria,NGA,2/6/20,0
-North Macedonia,MKD,2/6/20,0
-Norway,NOR,2/6/20,0
-Oman,OMN,2/6/20,0
-Pakistan,PAK,2/6/20,0
-Philippines,PHL,2/6/20,2
-Portugal,PRT,2/6/20,0
-Qatar,QAT,2/6/20,0
-Romania,ROU,2/6/20,0
-Russian Federation,RUS,2/6/20,2
-San Marino,SMR,2/6/20,0
-Saudi Arabia,SAU,2/6/20,0
-Senegal,SEN,2/6/20,0
-Singapore,SGP,2/6/20,28
-"Korea, Republic of",KOR,2/6/20,23
-Spain,ESP,2/6/20,1
-Sri Lanka,LKA,2/6/20,1
-Sweden,SWE,2/6/20,1
-Switzerland,CHE,2/6/20,0
-"Taiwan, Province of China",TWN,2/6/20,16
-Thailand,THA,2/6/20,25
-United Kingdom,GBR,2/6/20,2
-United States,USA,2/6/20,12
-United Arab Emirates,ARE,2/6/20,5
-Viet Nam,VNM,2/6/20,10
-Afghanistan,AFG,2/7/20,0
-Algeria,DZA,2/7/20,0
-Andorra,AND,2/7/20,0
-Armenia,ARM,2/7/20,0
-Australia,AUS,2/7/20,15
-Austria,AUT,2/7/20,0
-Azerbaijan,AZE,2/7/20,0
-Bahrain,BHR,2/7/20,0
-Belarus,BLR,2/7/20,0
-Belgium,BEL,2/7/20,1
-Brazil,BRA,2/7/20,0
-Cambodia,KHM,2/7/20,1
-Canada,CAN,2/7/20,7
-Croatia,HRV,2/7/20,0
-Czechia,CZE,2/7/20,0
-Denmark,DNK,2/7/20,0
-Dominican Republic,DOM,2/7/20,0
-Ecuador,ECU,2/7/20,0
-Egypt,EGY,2/7/20,0
-Estonia,EST,2/7/20,0
-Finland,FIN,2/7/20,1
-France,FRA,2/7/20,6
-Georgia,GEO,2/7/20,0
-Germany,DEU,2/7/20,13
-Greece,GRC,2/7/20,0
-Hong Kong,HKG,2/7/20,25
-Iceland,ISL,2/7/20,0
-India,IND,2/7/20,3
-Indonesia,IDN,2/7/20,0
-"Iran, Islamic Republic of",IRN,2/7/20,0
-Iraq,IRQ,2/7/20,0
-Ireland,IRL,2/7/20,0
-Israel,ISR,2/7/20,0
-Italy,ITA,2/7/20,3
-Japan,JPN,2/7/20,25
-Kuwait,KWT,2/7/20,0
-Latvia,LVA,2/7/20,0
-Lebanon,LBN,2/7/20,0
-Lithuania,LTU,2/7/20,0
-Luxembourg,LUX,2/7/20,0
-Macao,MAC,2/7/20,10
-Malaysia,MYS,2/7/20,12
-Mexico,MEX,2/7/20,0
-Monaco,MCO,2/7/20,0
-Morocco,MAR,2/7/20,0
-Nepal,NPL,2/7/20,1
-Netherlands,NLD,2/7/20,0
-New Zealand,NZL,2/7/20,0
-Nigeria,NGA,2/7/20,0
-North Macedonia,MKD,2/7/20,0
-Norway,NOR,2/7/20,0
-Oman,OMN,2/7/20,0
-Pakistan,PAK,2/7/20,0
-Philippines,PHL,2/7/20,3
-Portugal,PRT,2/7/20,0
-Qatar,QAT,2/7/20,0
-Romania,ROU,2/7/20,0
-Russian Federation,RUS,2/7/20,2
-San Marino,SMR,2/7/20,0
-Saudi Arabia,SAU,2/7/20,0
-Senegal,SEN,2/7/20,0
-Singapore,SGP,2/7/20,30
-"Korea, Republic of",KOR,2/7/20,24
-Spain,ESP,2/7/20,1
-Sri Lanka,LKA,2/7/20,1
-Sweden,SWE,2/7/20,1
-Switzerland,CHE,2/7/20,0
-"Taiwan, Province of China",TWN,2/7/20,16
-Thailand,THA,2/7/20,25
-United Kingdom,GBR,2/7/20,3
-United States,USA,2/7/20,12
-United Arab Emirates,ARE,2/7/20,5
-Viet Nam,VNM,2/7/20,10
-Afghanistan,AFG,2/8/20,0
-Algeria,DZA,2/8/20,0
-Andorra,AND,2/8/20,0
-Armenia,ARM,2/8/20,0
-Australia,AUS,2/8/20,15
-Austria,AUT,2/8/20,0
-Azerbaijan,AZE,2/8/20,0
-Bahrain,BHR,2/8/20,0
-Belarus,BLR,2/8/20,0
-Belgium,BEL,2/8/20,1
-Brazil,BRA,2/8/20,0
-Cambodia,KHM,2/8/20,1
-Canada,CAN,2/8/20,7
-Croatia,HRV,2/8/20,0
-Czechia,CZE,2/8/20,0
-Denmark,DNK,2/8/20,0
-Dominican Republic,DOM,2/8/20,0
-Ecuador,ECU,2/8/20,0
-Egypt,EGY,2/8/20,0
-Estonia,EST,2/8/20,0
-Finland,FIN,2/8/20,1
-France,FRA,2/8/20,11
-Georgia,GEO,2/8/20,0
-Germany,DEU,2/8/20,13
-Greece,GRC,2/8/20,0
-Hong Kong,HKG,2/8/20,26
-Iceland,ISL,2/8/20,0
-India,IND,2/8/20,3
-Indonesia,IDN,2/8/20,0
-"Iran, Islamic Republic of",IRN,2/8/20,0
-Iraq,IRQ,2/8/20,0
-Ireland,IRL,2/8/20,0
-Israel,ISR,2/8/20,0
-Italy,ITA,2/8/20,3
-Japan,JPN,2/8/20,25
-Kuwait,KWT,2/8/20,0
-Latvia,LVA,2/8/20,0
-Lebanon,LBN,2/8/20,0
-Lithuania,LTU,2/8/20,0
-Luxembourg,LUX,2/8/20,0
-Macao,MAC,2/8/20,10
-Malaysia,MYS,2/8/20,16
-Mexico,MEX,2/8/20,0
-Monaco,MCO,2/8/20,0
-Morocco,MAR,2/8/20,0
-Nepal,NPL,2/8/20,1
-Netherlands,NLD,2/8/20,0
-New Zealand,NZL,2/8/20,0
-Nigeria,NGA,2/8/20,0
-North Macedonia,MKD,2/8/20,0
-Norway,NOR,2/8/20,0
-Oman,OMN,2/8/20,0
-Pakistan,PAK,2/8/20,0
-Philippines,PHL,2/8/20,3
-Portugal,PRT,2/8/20,0
-Qatar,QAT,2/8/20,0
-Romania,ROU,2/8/20,0
-Russian Federation,RUS,2/8/20,2
-San Marino,SMR,2/8/20,0
-Saudi Arabia,SAU,2/8/20,0
-Senegal,SEN,2/8/20,0
-Singapore,SGP,2/8/20,33
-"Korea, Republic of",KOR,2/8/20,24
-Spain,ESP,2/8/20,1
-Sri Lanka,LKA,2/8/20,1
-Sweden,SWE,2/8/20,1
-Switzerland,CHE,2/8/20,0
-"Taiwan, Province of China",TWN,2/8/20,17
-Thailand,THA,2/8/20,32
-United Kingdom,GBR,2/8/20,3
-United States,USA,2/8/20,12
-United Arab Emirates,ARE,2/8/20,7
-Viet Nam,VNM,2/8/20,13
-Afghanistan,AFG,2/9/20,0
-Algeria,DZA,2/9/20,0
-Andorra,AND,2/9/20,0
-Armenia,ARM,2/9/20,0
-Australia,AUS,2/9/20,15
-Austria,AUT,2/9/20,0
-Azerbaijan,AZE,2/9/20,0
-Bahrain,BHR,2/9/20,0
-Belarus,BLR,2/9/20,0
-Belgium,BEL,2/9/20,1
-Brazil,BRA,2/9/20,0
-Cambodia,KHM,2/9/20,1
-Canada,CAN,2/9/20,7
-Croatia,HRV,2/9/20,0
-Czechia,CZE,2/9/20,0
-Denmark,DNK,2/9/20,0
-Dominican Republic,DOM,2/9/20,0
-Ecuador,ECU,2/9/20,0
-Egypt,EGY,2/9/20,0
-Estonia,EST,2/9/20,0
-Finland,FIN,2/9/20,1
-France,FRA,2/9/20,11
-Georgia,GEO,2/9/20,0
-Germany,DEU,2/9/20,14
-Greece,GRC,2/9/20,0
-Hong Kong,HKG,2/9/20,29
-Iceland,ISL,2/9/20,0
-India,IND,2/9/20,3
-Indonesia,IDN,2/9/20,0
-"Iran, Islamic Republic of",IRN,2/9/20,0
-Iraq,IRQ,2/9/20,0
-Ireland,IRL,2/9/20,0
-Israel,ISR,2/9/20,0
-Italy,ITA,2/9/20,3
-Japan,JPN,2/9/20,26
-Kuwait,KWT,2/9/20,0
-Latvia,LVA,2/9/20,0
-Lebanon,LBN,2/9/20,0
-Lithuania,LTU,2/9/20,0
-Luxembourg,LUX,2/9/20,0
-Macao,MAC,2/9/20,10
-Malaysia,MYS,2/9/20,16
-Mexico,MEX,2/9/20,0
-Monaco,MCO,2/9/20,0
-Morocco,MAR,2/9/20,0
-Nepal,NPL,2/9/20,1
-Netherlands,NLD,2/9/20,0
-New Zealand,NZL,2/9/20,0
-Nigeria,NGA,2/9/20,0
-North Macedonia,MKD,2/9/20,0
-Norway,NOR,2/9/20,0
-Oman,OMN,2/9/20,0
-Pakistan,PAK,2/9/20,0
-Philippines,PHL,2/9/20,3
-Portugal,PRT,2/9/20,0
-Qatar,QAT,2/9/20,0
-Romania,ROU,2/9/20,0
-Russian Federation,RUS,2/9/20,2
-San Marino,SMR,2/9/20,0
-Saudi Arabia,SAU,2/9/20,0
-Senegal,SEN,2/9/20,0
-Singapore,SGP,2/9/20,40
-"Korea, Republic of",KOR,2/9/20,25
-Spain,ESP,2/9/20,2
-Sri Lanka,LKA,2/9/20,1
-Sweden,SWE,2/9/20,1
-Switzerland,CHE,2/9/20,0
-"Taiwan, Province of China",TWN,2/9/20,18
-Thailand,THA,2/9/20,32
-United Kingdom,GBR,2/9/20,3
-United States,USA,2/9/20,12
-United Arab Emirates,ARE,2/9/20,7
-Viet Nam,VNM,2/9/20,13
-Afghanistan,AFG,2/10/20,0
-Algeria,DZA,2/10/20,0
-Andorra,AND,2/10/20,0
-Armenia,ARM,2/10/20,0
-Australia,AUS,2/10/20,15
-Austria,AUT,2/10/20,0
-Azerbaijan,AZE,2/10/20,0
-Bahrain,BHR,2/10/20,0
-Belarus,BLR,2/10/20,0
-Belgium,BEL,2/10/20,1
-Brazil,BRA,2/10/20,0
-Cambodia,KHM,2/10/20,1
-Canada,CAN,2/10/20,7
-Croatia,HRV,2/10/20,0
-Czechia,CZE,2/10/20,0
-Denmark,DNK,2/10/20,0
-Dominican Republic,DOM,2/10/20,0
-Ecuador,ECU,2/10/20,0
-Egypt,EGY,2/10/20,0
-Estonia,EST,2/10/20,0
-Finland,FIN,2/10/20,1
-France,FRA,2/10/20,11
-Georgia,GEO,2/10/20,0
-Germany,DEU,2/10/20,14
-Greece,GRC,2/10/20,0
-Hong Kong,HKG,2/10/20,38
-Iceland,ISL,2/10/20,0
-India,IND,2/10/20,3
-Indonesia,IDN,2/10/20,0
-"Iran, Islamic Republic of",IRN,2/10/20,0
-Iraq,IRQ,2/10/20,0
-Ireland,IRL,2/10/20,0
-Israel,ISR,2/10/20,0
-Italy,ITA,2/10/20,3
-Japan,JPN,2/10/20,26
-Kuwait,KWT,2/10/20,0
-Latvia,LVA,2/10/20,0
-Lebanon,LBN,2/10/20,0
-Lithuania,LTU,2/10/20,0
-Luxembourg,LUX,2/10/20,0
-Macao,MAC,2/10/20,10
-Malaysia,MYS,2/10/20,18
-Mexico,MEX,2/10/20,0
-Monaco,MCO,2/10/20,0
-Morocco,MAR,2/10/20,0
-Nepal,NPL,2/10/20,1
-Netherlands,NLD,2/10/20,0
-New Zealand,NZL,2/10/20,0
-Nigeria,NGA,2/10/20,0
-North Macedonia,MKD,2/10/20,0
-Norway,NOR,2/10/20,0
-Oman,OMN,2/10/20,0
-Pakistan,PAK,2/10/20,0
-Philippines,PHL,2/10/20,3
-Portugal,PRT,2/10/20,0
-Qatar,QAT,2/10/20,0
-Romania,ROU,2/10/20,0
-Russian Federation,RUS,2/10/20,2
-San Marino,SMR,2/10/20,0
-Saudi Arabia,SAU,2/10/20,0
-Senegal,SEN,2/10/20,0
-Singapore,SGP,2/10/20,45
-"Korea, Republic of",KOR,2/10/20,27
-Spain,ESP,2/10/20,2
-Sri Lanka,LKA,2/10/20,1
-Sweden,SWE,2/10/20,1
-Switzerland,CHE,2/10/20,0
-"Taiwan, Province of China",TWN,2/10/20,18
-Thailand,THA,2/10/20,32
-United Kingdom,GBR,2/10/20,8
-United States,USA,2/10/20,12
-United Arab Emirates,ARE,2/10/20,8
-Viet Nam,VNM,2/10/20,14
-Afghanistan,AFG,2/11/20,0
-Algeria,DZA,2/11/20,0
-Andorra,AND,2/11/20,0
-Armenia,ARM,2/11/20,0
-Australia,AUS,2/11/20,15
-Austria,AUT,2/11/20,0
-Azerbaijan,AZE,2/11/20,0
-Bahrain,BHR,2/11/20,0
-Belarus,BLR,2/11/20,0
-Belgium,BEL,2/11/20,1
-Brazil,BRA,2/11/20,0
-Cambodia,KHM,2/11/20,1
-Canada,CAN,2/11/20,7
-Croatia,HRV,2/11/20,0
-Czechia,CZE,2/11/20,0
-Denmark,DNK,2/11/20,0
-Dominican Republic,DOM,2/11/20,0
-Ecuador,ECU,2/11/20,0
-Egypt,EGY,2/11/20,0
-Estonia,EST,2/11/20,0
-Finland,FIN,2/11/20,1
-France,FRA,2/11/20,11
-Georgia,GEO,2/11/20,0
-Germany,DEU,2/11/20,16
-Greece,GRC,2/11/20,0
-Hong Kong,HKG,2/11/20,49
-Iceland,ISL,2/11/20,0
-India,IND,2/11/20,3
-Indonesia,IDN,2/11/20,0
-"Iran, Islamic Republic of",IRN,2/11/20,0
-Iraq,IRQ,2/11/20,0
-Ireland,IRL,2/11/20,0
-Israel,ISR,2/11/20,0
-Italy,ITA,2/11/20,3
-Japan,JPN,2/11/20,26
-Kuwait,KWT,2/11/20,0
-Latvia,LVA,2/11/20,0
-Lebanon,LBN,2/11/20,0
-Lithuania,LTU,2/11/20,0
-Luxembourg,LUX,2/11/20,0
-Macao,MAC,2/11/20,10
-Malaysia,MYS,2/11/20,18
-Mexico,MEX,2/11/20,0
-Monaco,MCO,2/11/20,0
-Morocco,MAR,2/11/20,0
-Nepal,NPL,2/11/20,1
-Netherlands,NLD,2/11/20,0
-New Zealand,NZL,2/11/20,0
-Nigeria,NGA,2/11/20,0
-North Macedonia,MKD,2/11/20,0
-Norway,NOR,2/11/20,0
-Oman,OMN,2/11/20,0
-Pakistan,PAK,2/11/20,0
-Philippines,PHL,2/11/20,3
-Portugal,PRT,2/11/20,0
-Qatar,QAT,2/11/20,0
-Romania,ROU,2/11/20,0
-Russian Federation,RUS,2/11/20,2
-San Marino,SMR,2/11/20,0
-Saudi Arabia,SAU,2/11/20,0
-Senegal,SEN,2/11/20,0
-Singapore,SGP,2/11/20,47
-"Korea, Republic of",KOR,2/11/20,28
-Spain,ESP,2/11/20,2
-Sri Lanka,LKA,2/11/20,1
-Sweden,SWE,2/11/20,1
-Switzerland,CHE,2/11/20,0
-"Taiwan, Province of China",TWN,2/11/20,18
-Thailand,THA,2/11/20,33
-United Kingdom,GBR,2/11/20,8
-United States,USA,2/11/20,13
-United Arab Emirates,ARE,2/11/20,8
-Viet Nam,VNM,2/11/20,15
-Afghanistan,AFG,2/12/20,0
-Algeria,DZA,2/12/20,0
-Andorra,AND,2/12/20,0
-Armenia,ARM,2/12/20,0
-Australia,AUS,2/12/20,15
-Austria,AUT,2/12/20,0
-Azerbaijan,AZE,2/12/20,0
-Bahrain,BHR,2/12/20,0
-Belarus,BLR,2/12/20,0
-Belgium,BEL,2/12/20,1
-Brazil,BRA,2/12/20,0
-Cambodia,KHM,2/12/20,1
-Canada,CAN,2/12/20,7
-Croatia,HRV,2/12/20,0
-Czechia,CZE,2/12/20,0
-Denmark,DNK,2/12/20,0
-Dominican Republic,DOM,2/12/20,0
-Ecuador,ECU,2/12/20,0
-Egypt,EGY,2/12/20,0
-Estonia,EST,2/12/20,0
-Finland,FIN,2/12/20,1
-France,FRA,2/12/20,11
-Georgia,GEO,2/12/20,0
-Germany,DEU,2/12/20,16
-Greece,GRC,2/12/20,0
-Hong Kong,HKG,2/12/20,50
-Iceland,ISL,2/12/20,0
-India,IND,2/12/20,3
-Indonesia,IDN,2/12/20,0
-"Iran, Islamic Republic of",IRN,2/12/20,0
-Iraq,IRQ,2/12/20,0
-Ireland,IRL,2/12/20,0
-Israel,ISR,2/12/20,0
-Italy,ITA,2/12/20,3
-Japan,JPN,2/12/20,28
-Kuwait,KWT,2/12/20,0
-Latvia,LVA,2/12/20,0
-Lebanon,LBN,2/12/20,0
-Lithuania,LTU,2/12/20,0
-Luxembourg,LUX,2/12/20,0
-Macao,MAC,2/12/20,10
-Malaysia,MYS,2/12/20,18
-Mexico,MEX,2/12/20,0
-Monaco,MCO,2/12/20,0
-Morocco,MAR,2/12/20,0
-Nepal,NPL,2/12/20,1
-Netherlands,NLD,2/12/20,0
-New Zealand,NZL,2/12/20,0
-Nigeria,NGA,2/12/20,0
-North Macedonia,MKD,2/12/20,0
-Norway,NOR,2/12/20,0
-Oman,OMN,2/12/20,0
-Pakistan,PAK,2/12/20,0
-Philippines,PHL,2/12/20,3
-Portugal,PRT,2/12/20,0
-Qatar,QAT,2/12/20,0
-Romania,ROU,2/12/20,0
-Russian Federation,RUS,2/12/20,2
-San Marino,SMR,2/12/20,0
-Saudi Arabia,SAU,2/12/20,0
-Senegal,SEN,2/12/20,0
-Singapore,SGP,2/12/20,50
-"Korea, Republic of",KOR,2/12/20,28
-Spain,ESP,2/12/20,2
-Sri Lanka,LKA,2/12/20,1
-Sweden,SWE,2/12/20,1
-Switzerland,CHE,2/12/20,0
-"Taiwan, Province of China",TWN,2/12/20,18
-Thailand,THA,2/12/20,33
-United Kingdom,GBR,2/12/20,9
-United States,USA,2/12/20,13
-United Arab Emirates,ARE,2/12/20,8
-Viet Nam,VNM,2/12/20,15
+Afghanistan,AFG,02-01-2020,0
+Algeria,DZA,02-01-2020,0
+Andorra,AND,02-01-2020,0
+Argentina,ARG,02-01-2020,0
+Armenia,ARM,02-01-2020,0
+Australia,AUS,02-01-2020,12
+Austria,AUT,02-01-2020,0
+Azerbaijan,AZE,02-01-2020,0
+Bahrain,BHR,02-01-2020,0
+Belarus,BLR,02-01-2020,0
+Belgium,BEL,02-01-2020,0
+Brazil,BRA,02-01-2020,0
+Cambodia,KHM,02-01-2020,1
+Canada,CAN,02-01-2020,4
+Chile,CHL,02-01-2020,0
+Croatia,HRV,02-01-2020,0
+Czechia,CZE,02-01-2020,0
+Denmark,DNK,02-01-2020,0
+Dominican Republic,DOM,02-01-2020,0
+Ecuador,ECU,02-01-2020,0
+Egypt,EGY,02-01-2020,0
+Estonia,EST,02-01-2020,0
+Faroe Islands,FRO,02-01-2020,0
+Finland,FIN,02-01-2020,1
+France,FRA,02-01-2020,6
+Georgia,GEO,02-01-2020,0
+Germany,DEU,02-01-2020,8
+Gibraltar,GIB,02-01-2020,0
+Greece,GRC,02-01-2020,0
+Hong Kong,HKG,02-01-2020,13
+Hungary,HUN,02-01-2020,0
+Iceland,ISL,02-01-2020,0
+India,IND,02-01-2020,1
+Indonesia,IDN,02-01-2020,0
+"Iran, Islamic Republic of",IRN,02-01-2020,0
+Iraq,IRQ,02-01-2020,0
+Ireland,IRL,02-01-2020,0
+Israel,ISR,02-01-2020,0
+Italy,ITA,02-01-2020,2
+Japan,JPN,02-01-2020,20
+Jordan,JOR,02-01-2020,0
+Kuwait,KWT,02-01-2020,0
+Latvia,LVA,02-01-2020,0
+Lebanon,LBN,02-01-2020,0
+Liechtenstein,LIE,02-01-2020,0
+Lithuania,LTU,02-01-2020,0
+Luxembourg,LUX,02-01-2020,0
+Macao,MAC,02-01-2020,7
+Malaysia,MYS,02-01-2020,8
+Mexico,MEX,02-01-2020,0
+Monaco,MCO,02-01-2020,0
+Morocco,MAR,02-01-2020,0
+Nepal,NPL,02-01-2020,1
+Netherlands,NLD,02-01-2020,0
+New Zealand,NZL,02-01-2020,0
+Nigeria,NGA,02-01-2020,0
+North Macedonia,MKD,02-01-2020,0
+Norway,NOR,02-01-2020,0
+Oman,OMN,02-01-2020,0
+Pakistan,PAK,02-01-2020,0
+Philippines,PHL,02-01-2020,1
+Poland,POL,02-01-2020,0
+Portugal,PRT,02-01-2020,0
+Qatar,QAT,02-01-2020,0
+Romania,ROU,02-01-2020,0
+Russian Federation,RUS,02-01-2020,2
+San Marino,SMR,02-01-2020,0
+Saudi Arabia,SAU,02-01-2020,0
+Senegal,SEN,02-01-2020,0
+Singapore,SGP,02-01-2020,16
+"Korea, Republic of",KOR,02-01-2020,12
+Spain,ESP,02-01-2020,1
+Sri Lanka,LKA,02-01-2020,1
+Sweden,SWE,02-01-2020,1
+Switzerland,CHE,02-01-2020,0
+"Taiwan, Province of China",TWN,02-01-2020,10
+Thailand,THA,02-01-2020,19
+Tunisia,TUN,02-01-2020,0
+United Kingdom,GBR,02-01-2020,2
+United States,USA,02-01-2020,8
+Ukraine,UKR,02-01-2020,0
+United Arab Emirates,ARE,02-01-2020,4
+Viet Nam,VNM,02-01-2020,6
+Afghanistan,AFG,02-02-2020,0
+Algeria,DZA,02-02-2020,0
+Andorra,AND,02-02-2020,0
+Argentina,ARG,02-02-2020,0
+Armenia,ARM,02-02-2020,0
+Australia,AUS,02-02-2020,12
+Austria,AUT,02-02-2020,0
+Azerbaijan,AZE,02-02-2020,0
+Bahrain,BHR,02-02-2020,0
+Belarus,BLR,02-02-2020,0
+Belgium,BEL,02-02-2020,0
+Brazil,BRA,02-02-2020,0
+Cambodia,KHM,02-02-2020,1
+Canada,CAN,02-02-2020,4
+Chile,CHL,02-02-2020,0
+Croatia,HRV,02-02-2020,0
+Czechia,CZE,02-02-2020,0
+Denmark,DNK,02-02-2020,0
+Dominican Republic,DOM,02-02-2020,0
+Ecuador,ECU,02-02-2020,0
+Egypt,EGY,02-02-2020,0
+Estonia,EST,02-02-2020,0
+Faroe Islands,FRO,02-02-2020,0
+Finland,FIN,02-02-2020,1
+France,FRA,02-02-2020,6
+Georgia,GEO,02-02-2020,0
+Germany,DEU,02-02-2020,10
+Gibraltar,GIB,02-02-2020,0
+Greece,GRC,02-02-2020,0
+Hong Kong,HKG,02-02-2020,15
+Hungary,HUN,02-02-2020,0
+Iceland,ISL,02-02-2020,0
+India,IND,02-02-2020,2
+Indonesia,IDN,02-02-2020,0
+"Iran, Islamic Republic of",IRN,02-02-2020,0
+Iraq,IRQ,02-02-2020,0
+Ireland,IRL,02-02-2020,0
+Israel,ISR,02-02-2020,0
+Italy,ITA,02-02-2020,2
+Japan,JPN,02-02-2020,20
+Jordan,JOR,02-02-2020,0
+Kuwait,KWT,02-02-2020,0
+Latvia,LVA,02-02-2020,0
+Lebanon,LBN,02-02-2020,0
+Liechtenstein,LIE,02-02-2020,0
+Lithuania,LTU,02-02-2020,0
+Luxembourg,LUX,02-02-2020,0
+Macao,MAC,02-02-2020,8
+Malaysia,MYS,02-02-2020,8
+Mexico,MEX,02-02-2020,0
+Monaco,MCO,02-02-2020,0
+Morocco,MAR,02-02-2020,0
+Nepal,NPL,02-02-2020,1
+Netherlands,NLD,02-02-2020,0
+New Zealand,NZL,02-02-2020,0
+Nigeria,NGA,02-02-2020,0
+North Macedonia,MKD,02-02-2020,0
+Norway,NOR,02-02-2020,0
+Oman,OMN,02-02-2020,0
+Pakistan,PAK,02-02-2020,0
+Philippines,PHL,02-02-2020,2
+Poland,POL,02-02-2020,0
+Portugal,PRT,02-02-2020,0
+Qatar,QAT,02-02-2020,0
+Romania,ROU,02-02-2020,0
+Russian Federation,RUS,02-02-2020,2
+San Marino,SMR,02-02-2020,0
+Saudi Arabia,SAU,02-02-2020,0
+Senegal,SEN,02-02-2020,0
+Singapore,SGP,02-02-2020,18
+"Korea, Republic of",KOR,02-02-2020,15
+Spain,ESP,02-02-2020,1
+Sri Lanka,LKA,02-02-2020,1
+Sweden,SWE,02-02-2020,1
+Switzerland,CHE,02-02-2020,0
+"Taiwan, Province of China",TWN,02-02-2020,10
+Thailand,THA,02-02-2020,19
+Tunisia,TUN,02-02-2020,0
+United Kingdom,GBR,02-02-2020,2
+United States,USA,02-02-2020,8
+Ukraine,UKR,02-02-2020,0
+United Arab Emirates,ARE,02-02-2020,5
+Viet Nam,VNM,02-02-2020,6
+Afghanistan,AFG,02-03-2020,0
+Algeria,DZA,02-03-2020,0
+Andorra,AND,02-03-2020,0
+Argentina,ARG,02-03-2020,0
+Armenia,ARM,02-03-2020,0
+Australia,AUS,02-03-2020,12
+Austria,AUT,02-03-2020,0
+Azerbaijan,AZE,02-03-2020,0
+Bahrain,BHR,02-03-2020,0
+Belarus,BLR,02-03-2020,0
+Belgium,BEL,02-03-2020,0
+Brazil,BRA,02-03-2020,0
+Cambodia,KHM,02-03-2020,1
+Canada,CAN,02-03-2020,4
+Chile,CHL,02-03-2020,0
+Croatia,HRV,02-03-2020,0
+Czechia,CZE,02-03-2020,0
+Denmark,DNK,02-03-2020,0
+Dominican Republic,DOM,02-03-2020,0
+Ecuador,ECU,02-03-2020,0
+Egypt,EGY,02-03-2020,0
+Estonia,EST,02-03-2020,0
+Faroe Islands,FRO,02-03-2020,0
+Finland,FIN,02-03-2020,1
+France,FRA,02-03-2020,6
+Georgia,GEO,02-03-2020,0
+Germany,DEU,02-03-2020,12
+Gibraltar,GIB,02-03-2020,0
+Greece,GRC,02-03-2020,0
+Hong Kong,HKG,02-03-2020,15
+Hungary,HUN,02-03-2020,0
+Iceland,ISL,02-03-2020,0
+India,IND,02-03-2020,3
+Indonesia,IDN,02-03-2020,0
+"Iran, Islamic Republic of",IRN,02-03-2020,0
+Iraq,IRQ,02-03-2020,0
+Ireland,IRL,02-03-2020,0
+Israel,ISR,02-03-2020,0
+Italy,ITA,02-03-2020,2
+Japan,JPN,02-03-2020,20
+Jordan,JOR,02-03-2020,0
+Kuwait,KWT,02-03-2020,0
+Latvia,LVA,02-03-2020,0
+Lebanon,LBN,02-03-2020,0
+Liechtenstein,LIE,02-03-2020,0
+Lithuania,LTU,02-03-2020,0
+Luxembourg,LUX,02-03-2020,0
+Macao,MAC,02-03-2020,8
+Malaysia,MYS,02-03-2020,8
+Mexico,MEX,02-03-2020,0
+Monaco,MCO,02-03-2020,0
+Morocco,MAR,02-03-2020,0
+Nepal,NPL,02-03-2020,1
+Netherlands,NLD,02-03-2020,0
+New Zealand,NZL,02-03-2020,0
+Nigeria,NGA,02-03-2020,0
+North Macedonia,MKD,02-03-2020,0
+Norway,NOR,02-03-2020,0
+Oman,OMN,02-03-2020,0
+Pakistan,PAK,02-03-2020,0
+Philippines,PHL,02-03-2020,2
+Poland,POL,02-03-2020,0
+Portugal,PRT,02-03-2020,0
+Qatar,QAT,02-03-2020,0
+Romania,ROU,02-03-2020,0
+Russian Federation,RUS,02-03-2020,2
+San Marino,SMR,02-03-2020,0
+Saudi Arabia,SAU,02-03-2020,0
+Senegal,SEN,02-03-2020,0
+Singapore,SGP,02-03-2020,18
+"Korea, Republic of",KOR,02-03-2020,15
+Spain,ESP,02-03-2020,1
+Sri Lanka,LKA,02-03-2020,1
+Sweden,SWE,02-03-2020,1
+Switzerland,CHE,02-03-2020,0
+"Taiwan, Province of China",TWN,02-03-2020,10
+Thailand,THA,02-03-2020,19
+Tunisia,TUN,02-03-2020,0
+United Kingdom,GBR,02-03-2020,2
+United States,USA,02-03-2020,11
+Ukraine,UKR,02-03-2020,0
+United Arab Emirates,ARE,02-03-2020,5
+Viet Nam,VNM,02-03-2020,8
+Afghanistan,AFG,02-04-2020,0
+Algeria,DZA,02-04-2020,0
+Andorra,AND,02-04-2020,0
+Argentina,ARG,02-04-2020,0
+Armenia,ARM,02-04-2020,0
+Australia,AUS,02-04-2020,13
+Austria,AUT,02-04-2020,0
+Azerbaijan,AZE,02-04-2020,0
+Bahrain,BHR,02-04-2020,0
+Belarus,BLR,02-04-2020,0
+Belgium,BEL,02-04-2020,1
+Brazil,BRA,02-04-2020,0
+Cambodia,KHM,02-04-2020,1
+Canada,CAN,02-04-2020,4
+Chile,CHL,02-04-2020,0
+Croatia,HRV,02-04-2020,0
+Czechia,CZE,02-04-2020,0
+Denmark,DNK,02-04-2020,0
+Dominican Republic,DOM,02-04-2020,0
+Ecuador,ECU,02-04-2020,0
+Egypt,EGY,02-04-2020,0
+Estonia,EST,02-04-2020,0
+Faroe Islands,FRO,02-04-2020,0
+Finland,FIN,02-04-2020,1
+France,FRA,02-04-2020,6
+Georgia,GEO,02-04-2020,0
+Germany,DEU,02-04-2020,12
+Gibraltar,GIB,02-04-2020,0
+Greece,GRC,02-04-2020,0
+Hong Kong,HKG,02-04-2020,17
+Hungary,HUN,02-04-2020,0
+Iceland,ISL,02-04-2020,0
+India,IND,02-04-2020,3
+Indonesia,IDN,02-04-2020,0
+"Iran, Islamic Republic of",IRN,02-04-2020,0
+Iraq,IRQ,02-04-2020,0
+Ireland,IRL,02-04-2020,0
+Israel,ISR,02-04-2020,0
+Italy,ITA,02-04-2020,2
+Japan,JPN,02-04-2020,22
+Jordan,JOR,02-04-2020,0
+Kuwait,KWT,02-04-2020,0
+Latvia,LVA,02-04-2020,0
+Lebanon,LBN,02-04-2020,0
+Liechtenstein,LIE,02-04-2020,0
+Lithuania,LTU,02-04-2020,0
+Luxembourg,LUX,02-04-2020,0
+Macao,MAC,02-04-2020,10
+Malaysia,MYS,02-04-2020,10
+Mexico,MEX,02-04-2020,0
+Monaco,MCO,02-04-2020,0
+Morocco,MAR,02-04-2020,0
+Nepal,NPL,02-04-2020,1
+Netherlands,NLD,02-04-2020,0
+New Zealand,NZL,02-04-2020,0
+Nigeria,NGA,02-04-2020,0
+North Macedonia,MKD,02-04-2020,0
+Norway,NOR,02-04-2020,0
+Oman,OMN,02-04-2020,0
+Pakistan,PAK,02-04-2020,0
+Philippines,PHL,02-04-2020,2
+Poland,POL,02-04-2020,0
+Portugal,PRT,02-04-2020,0
+Qatar,QAT,02-04-2020,0
+Romania,ROU,02-04-2020,0
+Russian Federation,RUS,02-04-2020,2
+San Marino,SMR,02-04-2020,0
+Saudi Arabia,SAU,02-04-2020,0
+Senegal,SEN,02-04-2020,0
+Singapore,SGP,02-04-2020,24
+"Korea, Republic of",KOR,02-04-2020,16
+Spain,ESP,02-04-2020,1
+Sri Lanka,LKA,02-04-2020,1
+Sweden,SWE,02-04-2020,1
+Switzerland,CHE,02-04-2020,0
+"Taiwan, Province of China",TWN,02-04-2020,11
+Thailand,THA,02-04-2020,25
+Tunisia,TUN,02-04-2020,0
+United Kingdom,GBR,02-04-2020,2
+United States,USA,02-04-2020,11
+Ukraine,UKR,02-04-2020,0
+United Arab Emirates,ARE,02-04-2020,5
+Viet Nam,VNM,02-04-2020,8
+Afghanistan,AFG,02-05-2020,0
+Algeria,DZA,02-05-2020,0
+Andorra,AND,02-05-2020,0
+Argentina,ARG,02-05-2020,0
+Armenia,ARM,02-05-2020,0
+Australia,AUS,02-05-2020,13
+Austria,AUT,02-05-2020,0
+Azerbaijan,AZE,02-05-2020,0
+Bahrain,BHR,02-05-2020,0
+Belarus,BLR,02-05-2020,0
+Belgium,BEL,02-05-2020,1
+Brazil,BRA,02-05-2020,0
+Cambodia,KHM,02-05-2020,1
+Canada,CAN,02-05-2020,5
+Chile,CHL,02-05-2020,0
+Croatia,HRV,02-05-2020,0
+Czechia,CZE,02-05-2020,0
+Denmark,DNK,02-05-2020,0
+Dominican Republic,DOM,02-05-2020,0
+Ecuador,ECU,02-05-2020,0
+Egypt,EGY,02-05-2020,0
+Estonia,EST,02-05-2020,0
+Faroe Islands,FRO,02-05-2020,0
+Finland,FIN,02-05-2020,1
+France,FRA,02-05-2020,6
+Georgia,GEO,02-05-2020,0
+Germany,DEU,02-05-2020,12
+Gibraltar,GIB,02-05-2020,0
+Greece,GRC,02-05-2020,0
+Hong Kong,HKG,02-05-2020,21
+Hungary,HUN,02-05-2020,0
+Iceland,ISL,02-05-2020,0
+India,IND,02-05-2020,3
+Indonesia,IDN,02-05-2020,0
+"Iran, Islamic Republic of",IRN,02-05-2020,0
+Iraq,IRQ,02-05-2020,0
+Ireland,IRL,02-05-2020,0
+Israel,ISR,02-05-2020,0
+Italy,ITA,02-05-2020,2
+Japan,JPN,02-05-2020,22
+Jordan,JOR,02-05-2020,0
+Kuwait,KWT,02-05-2020,0
+Latvia,LVA,02-05-2020,0
+Lebanon,LBN,02-05-2020,0
+Liechtenstein,LIE,02-05-2020,0
+Lithuania,LTU,02-05-2020,0
+Luxembourg,LUX,02-05-2020,0
+Macao,MAC,02-05-2020,10
+Malaysia,MYS,02-05-2020,12
+Mexico,MEX,02-05-2020,0
+Monaco,MCO,02-05-2020,0
+Morocco,MAR,02-05-2020,0
+Nepal,NPL,02-05-2020,1
+Netherlands,NLD,02-05-2020,0
+New Zealand,NZL,02-05-2020,0
+Nigeria,NGA,02-05-2020,0
+North Macedonia,MKD,02-05-2020,0
+Norway,NOR,02-05-2020,0
+Oman,OMN,02-05-2020,0
+Pakistan,PAK,02-05-2020,0
+Philippines,PHL,02-05-2020,2
+Poland,POL,02-05-2020,0
+Portugal,PRT,02-05-2020,0
+Qatar,QAT,02-05-2020,0
+Romania,ROU,02-05-2020,0
+Russian Federation,RUS,02-05-2020,2
+San Marino,SMR,02-05-2020,0
+Saudi Arabia,SAU,02-05-2020,0
+Senegal,SEN,02-05-2020,0
+Singapore,SGP,02-05-2020,28
+"Korea, Republic of",KOR,02-05-2020,19
+Spain,ESP,02-05-2020,1
+Sri Lanka,LKA,02-05-2020,1
+Sweden,SWE,02-05-2020,1
+Switzerland,CHE,02-05-2020,0
+"Taiwan, Province of China",TWN,02-05-2020,11
+Thailand,THA,02-05-2020,25
+Tunisia,TUN,02-05-2020,0
+United Kingdom,GBR,02-05-2020,2
+United States,USA,02-05-2020,12
+Ukraine,UKR,02-05-2020,0
+United Arab Emirates,ARE,02-05-2020,5
+Viet Nam,VNM,02-05-2020,8
+Afghanistan,AFG,02-06-2020,0
+Algeria,DZA,02-06-2020,0
+Andorra,AND,02-06-2020,0
+Argentina,ARG,02-06-2020,0
+Armenia,ARM,02-06-2020,0
+Australia,AUS,02-06-2020,14
+Austria,AUT,02-06-2020,0
+Azerbaijan,AZE,02-06-2020,0
+Bahrain,BHR,02-06-2020,0
+Belarus,BLR,02-06-2020,0
+Belgium,BEL,02-06-2020,1
+Brazil,BRA,02-06-2020,0
+Cambodia,KHM,02-06-2020,1
+Canada,CAN,02-06-2020,5
+Chile,CHL,02-06-2020,0
+Croatia,HRV,02-06-2020,0
+Czechia,CZE,02-06-2020,0
+Denmark,DNK,02-06-2020,0
+Dominican Republic,DOM,02-06-2020,0
+Ecuador,ECU,02-06-2020,0
+Egypt,EGY,02-06-2020,0
+Estonia,EST,02-06-2020,0
+Faroe Islands,FRO,02-06-2020,0
+Finland,FIN,02-06-2020,1
+France,FRA,02-06-2020,6
+Georgia,GEO,02-06-2020,0
+Germany,DEU,02-06-2020,12
+Gibraltar,GIB,02-06-2020,0
+Greece,GRC,02-06-2020,0
+Hong Kong,HKG,02-06-2020,24
+Hungary,HUN,02-06-2020,0
+Iceland,ISL,02-06-2020,0
+India,IND,02-06-2020,3
+Indonesia,IDN,02-06-2020,0
+"Iran, Islamic Republic of",IRN,02-06-2020,0
+Iraq,IRQ,02-06-2020,0
+Ireland,IRL,02-06-2020,0
+Israel,ISR,02-06-2020,0
+Italy,ITA,02-06-2020,2
+Japan,JPN,02-06-2020,45
+Jordan,JOR,02-06-2020,0
+Kuwait,KWT,02-06-2020,0
+Latvia,LVA,02-06-2020,0
+Lebanon,LBN,02-06-2020,0
+Liechtenstein,LIE,02-06-2020,0
+Lithuania,LTU,02-06-2020,0
+Luxembourg,LUX,02-06-2020,0
+Macao,MAC,02-06-2020,10
+Malaysia,MYS,02-06-2020,12
+Mexico,MEX,02-06-2020,0
+Monaco,MCO,02-06-2020,0
+Morocco,MAR,02-06-2020,0
+Nepal,NPL,02-06-2020,1
+Netherlands,NLD,02-06-2020,0
+New Zealand,NZL,02-06-2020,0
+Nigeria,NGA,02-06-2020,0
+North Macedonia,MKD,02-06-2020,0
+Norway,NOR,02-06-2020,0
+Oman,OMN,02-06-2020,0
+Pakistan,PAK,02-06-2020,0
+Philippines,PHL,02-06-2020,2
+Poland,POL,02-06-2020,0
+Portugal,PRT,02-06-2020,0
+Qatar,QAT,02-06-2020,0
+Romania,ROU,02-06-2020,0
+Russian Federation,RUS,02-06-2020,2
+San Marino,SMR,02-06-2020,0
+Saudi Arabia,SAU,02-06-2020,0
+Senegal,SEN,02-06-2020,0
+Singapore,SGP,02-06-2020,28
+"Korea, Republic of",KOR,02-06-2020,23
+Spain,ESP,02-06-2020,1
+Sri Lanka,LKA,02-06-2020,1
+Sweden,SWE,02-06-2020,1
+Switzerland,CHE,02-06-2020,0
+"Taiwan, Province of China",TWN,02-06-2020,16
+Thailand,THA,02-06-2020,25
+Tunisia,TUN,02-06-2020,0
+United Kingdom,GBR,02-06-2020,2
+United States,USA,02-06-2020,12
+Ukraine,UKR,02-06-2020,0
+United Arab Emirates,ARE,02-06-2020,5
+Viet Nam,VNM,02-06-2020,10
+Afghanistan,AFG,02-07-2020,0
+Algeria,DZA,02-07-2020,0
+Andorra,AND,02-07-2020,0
+Argentina,ARG,02-07-2020,0
+Armenia,ARM,02-07-2020,0
+Australia,AUS,02-07-2020,15
+Austria,AUT,02-07-2020,0
+Azerbaijan,AZE,02-07-2020,0
+Bahrain,BHR,02-07-2020,0
+Belarus,BLR,02-07-2020,0
+Belgium,BEL,02-07-2020,1
+Brazil,BRA,02-07-2020,0
+Cambodia,KHM,02-07-2020,1
+Canada,CAN,02-07-2020,7
+Chile,CHL,02-07-2020,0
+Croatia,HRV,02-07-2020,0
+Czechia,CZE,02-07-2020,0
+Denmark,DNK,02-07-2020,0
+Dominican Republic,DOM,02-07-2020,0
+Ecuador,ECU,02-07-2020,0
+Egypt,EGY,02-07-2020,0
+Estonia,EST,02-07-2020,0
+Faroe Islands,FRO,02-07-2020,0
+Finland,FIN,02-07-2020,1
+France,FRA,02-07-2020,6
+Georgia,GEO,02-07-2020,0
+Germany,DEU,02-07-2020,13
+Gibraltar,GIB,02-07-2020,0
+Greece,GRC,02-07-2020,0
+Hong Kong,HKG,02-07-2020,25
+Hungary,HUN,02-07-2020,0
+Iceland,ISL,02-07-2020,0
+India,IND,02-07-2020,3
+Indonesia,IDN,02-07-2020,0
+"Iran, Islamic Republic of",IRN,02-07-2020,0
+Iraq,IRQ,02-07-2020,0
+Ireland,IRL,02-07-2020,0
+Israel,ISR,02-07-2020,0
+Italy,ITA,02-07-2020,3
+Japan,JPN,02-07-2020,25
+Jordan,JOR,02-07-2020,0
+Kuwait,KWT,02-07-2020,0
+Latvia,LVA,02-07-2020,0
+Lebanon,LBN,02-07-2020,0
+Liechtenstein,LIE,02-07-2020,0
+Lithuania,LTU,02-07-2020,0
+Luxembourg,LUX,02-07-2020,0
+Macao,MAC,02-07-2020,10
+Malaysia,MYS,02-07-2020,12
+Mexico,MEX,02-07-2020,0
+Monaco,MCO,02-07-2020,0
+Morocco,MAR,02-07-2020,0
+Nepal,NPL,02-07-2020,1
+Netherlands,NLD,02-07-2020,0
+New Zealand,NZL,02-07-2020,0
+Nigeria,NGA,02-07-2020,0
+North Macedonia,MKD,02-07-2020,0
+Norway,NOR,02-07-2020,0
+Oman,OMN,02-07-2020,0
+Pakistan,PAK,02-07-2020,0
+Philippines,PHL,02-07-2020,3
+Poland,POL,02-07-2020,0
+Portugal,PRT,02-07-2020,0
+Qatar,QAT,02-07-2020,0
+Romania,ROU,02-07-2020,0
+Russian Federation,RUS,02-07-2020,2
+San Marino,SMR,02-07-2020,0
+Saudi Arabia,SAU,02-07-2020,0
+Senegal,SEN,02-07-2020,0
+Singapore,SGP,02-07-2020,30
+"Korea, Republic of",KOR,02-07-2020,24
+Spain,ESP,02-07-2020,1
+Sri Lanka,LKA,02-07-2020,1
+Sweden,SWE,02-07-2020,1
+Switzerland,CHE,02-07-2020,0
+"Taiwan, Province of China",TWN,02-07-2020,16
+Thailand,THA,02-07-2020,25
+Tunisia,TUN,02-07-2020,0
+United Kingdom,GBR,02-07-2020,3
+United States,USA,02-07-2020,12
+Ukraine,UKR,02-07-2020,0
+United Arab Emirates,ARE,02-07-2020,5
+Viet Nam,VNM,02-07-2020,10
+Afghanistan,AFG,02-08-2020,0
+Algeria,DZA,02-08-2020,0
+Andorra,AND,02-08-2020,0
+Argentina,ARG,02-08-2020,0
+Armenia,ARM,02-08-2020,0
+Australia,AUS,02-08-2020,15
+Austria,AUT,02-08-2020,0
+Azerbaijan,AZE,02-08-2020,0
+Bahrain,BHR,02-08-2020,0
+Belarus,BLR,02-08-2020,0
+Belgium,BEL,02-08-2020,1
+Brazil,BRA,02-08-2020,0
+Cambodia,KHM,02-08-2020,1
+Canada,CAN,02-08-2020,7
+Chile,CHL,02-08-2020,0
+Croatia,HRV,02-08-2020,0
+Czechia,CZE,02-08-2020,0
+Denmark,DNK,02-08-2020,0
+Dominican Republic,DOM,02-08-2020,0
+Ecuador,ECU,02-08-2020,0
+Egypt,EGY,02-08-2020,0
+Estonia,EST,02-08-2020,0
+Faroe Islands,FRO,02-08-2020,0
+Finland,FIN,02-08-2020,1
+France,FRA,02-08-2020,11
+Georgia,GEO,02-08-2020,0
+Germany,DEU,02-08-2020,13
+Gibraltar,GIB,02-08-2020,0
+Greece,GRC,02-08-2020,0
+Hong Kong,HKG,02-08-2020,26
+Hungary,HUN,02-08-2020,0
+Iceland,ISL,02-08-2020,0
+India,IND,02-08-2020,3
+Indonesia,IDN,02-08-2020,0
+"Iran, Islamic Republic of",IRN,02-08-2020,0
+Iraq,IRQ,02-08-2020,0
+Ireland,IRL,02-08-2020,0
+Israel,ISR,02-08-2020,0
+Italy,ITA,02-08-2020,3
+Japan,JPN,02-08-2020,25
+Jordan,JOR,02-08-2020,0
+Kuwait,KWT,02-08-2020,0
+Latvia,LVA,02-08-2020,0
+Lebanon,LBN,02-08-2020,0
+Liechtenstein,LIE,02-08-2020,0
+Lithuania,LTU,02-08-2020,0
+Luxembourg,LUX,02-08-2020,0
+Macao,MAC,02-08-2020,10
+Malaysia,MYS,02-08-2020,16
+Mexico,MEX,02-08-2020,0
+Monaco,MCO,02-08-2020,0
+Morocco,MAR,02-08-2020,0
+Nepal,NPL,02-08-2020,1
+Netherlands,NLD,02-08-2020,0
+New Zealand,NZL,02-08-2020,0
+Nigeria,NGA,02-08-2020,0
+North Macedonia,MKD,02-08-2020,0
+Norway,NOR,02-08-2020,0
+Oman,OMN,02-08-2020,0
+Pakistan,PAK,02-08-2020,0
+Philippines,PHL,02-08-2020,3
+Poland,POL,02-08-2020,0
+Portugal,PRT,02-08-2020,0
+Qatar,QAT,02-08-2020,0
+Romania,ROU,02-08-2020,0
+Russian Federation,RUS,02-08-2020,2
+San Marino,SMR,02-08-2020,0
+Saudi Arabia,SAU,02-08-2020,0
+Senegal,SEN,02-08-2020,0
+Singapore,SGP,02-08-2020,33
+"Korea, Republic of",KOR,02-08-2020,24
+Spain,ESP,02-08-2020,1
+Sri Lanka,LKA,02-08-2020,1
+Sweden,SWE,02-08-2020,1
+Switzerland,CHE,02-08-2020,0
+"Taiwan, Province of China",TWN,02-08-2020,17
+Thailand,THA,02-08-2020,32
+Tunisia,TUN,02-08-2020,0
+United Kingdom,GBR,02-08-2020,3
+United States,USA,02-08-2020,12
+Ukraine,UKR,02-08-2020,0
+United Arab Emirates,ARE,02-08-2020,7
+Viet Nam,VNM,02-08-2020,13
+Afghanistan,AFG,02-09-2020,0
+Algeria,DZA,02-09-2020,0
+Andorra,AND,02-09-2020,0
+Argentina,ARG,02-09-2020,0
+Armenia,ARM,02-09-2020,0
+Australia,AUS,02-09-2020,15
+Austria,AUT,02-09-2020,0
+Azerbaijan,AZE,02-09-2020,0
+Bahrain,BHR,02-09-2020,0
+Belarus,BLR,02-09-2020,0
+Belgium,BEL,02-09-2020,1
+Brazil,BRA,02-09-2020,0
+Cambodia,KHM,02-09-2020,1
+Canada,CAN,02-09-2020,7
+Chile,CHL,02-09-2020,0
+Croatia,HRV,02-09-2020,0
+Czechia,CZE,02-09-2020,0
+Denmark,DNK,02-09-2020,0
+Dominican Republic,DOM,02-09-2020,0
+Ecuador,ECU,02-09-2020,0
+Egypt,EGY,02-09-2020,0
+Estonia,EST,02-09-2020,0
+Faroe Islands,FRO,02-09-2020,0
+Finland,FIN,02-09-2020,1
+France,FRA,02-09-2020,11
+Georgia,GEO,02-09-2020,0
+Germany,DEU,02-09-2020,14
+Gibraltar,GIB,02-09-2020,0
+Greece,GRC,02-09-2020,0
+Hong Kong,HKG,02-09-2020,29
+Hungary,HUN,02-09-2020,0
+Iceland,ISL,02-09-2020,0
+India,IND,02-09-2020,3
+Indonesia,IDN,02-09-2020,0
+"Iran, Islamic Republic of",IRN,02-09-2020,0
+Iraq,IRQ,02-09-2020,0
+Ireland,IRL,02-09-2020,0
+Israel,ISR,02-09-2020,0
+Italy,ITA,02-09-2020,3
+Japan,JPN,02-09-2020,26
+Jordan,JOR,02-09-2020,0
+Kuwait,KWT,02-09-2020,0
+Latvia,LVA,02-09-2020,0
+Lebanon,LBN,02-09-2020,0
+Liechtenstein,LIE,02-09-2020,0
+Lithuania,LTU,02-09-2020,0
+Luxembourg,LUX,02-09-2020,0
+Macao,MAC,02-09-2020,10
+Malaysia,MYS,02-09-2020,16
+Mexico,MEX,02-09-2020,0
+Monaco,MCO,02-09-2020,0
+Morocco,MAR,02-09-2020,0
+Nepal,NPL,02-09-2020,1
+Netherlands,NLD,02-09-2020,0
+New Zealand,NZL,02-09-2020,0
+Nigeria,NGA,02-09-2020,0
+North Macedonia,MKD,02-09-2020,0
+Norway,NOR,02-09-2020,0
+Oman,OMN,02-09-2020,0
+Pakistan,PAK,02-09-2020,0
+Philippines,PHL,02-09-2020,3
+Poland,POL,02-09-2020,0
+Portugal,PRT,02-09-2020,0
+Qatar,QAT,02-09-2020,0
+Romania,ROU,02-09-2020,0
+Russian Federation,RUS,02-09-2020,2
+San Marino,SMR,02-09-2020,0
+Saudi Arabia,SAU,02-09-2020,0
+Senegal,SEN,02-09-2020,0
+Singapore,SGP,02-09-2020,40
+"Korea, Republic of",KOR,02-09-2020,25
+Spain,ESP,02-09-2020,2
+Sri Lanka,LKA,02-09-2020,1
+Sweden,SWE,02-09-2020,1
+Switzerland,CHE,02-09-2020,0
+"Taiwan, Province of China",TWN,02-09-2020,18
+Thailand,THA,02-09-2020,32
+Tunisia,TUN,02-09-2020,0
+United Kingdom,GBR,02-09-2020,3
+United States,USA,02-09-2020,12
+Ukraine,UKR,02-09-2020,0
+United Arab Emirates,ARE,02-09-2020,7
+Viet Nam,VNM,02-09-2020,13
+Afghanistan,AFG,02-10-2020,0
+Algeria,DZA,02-10-2020,0
+Andorra,AND,02-10-2020,0
+Argentina,ARG,02-10-2020,0
+Armenia,ARM,02-10-2020,0
+Australia,AUS,02-10-2020,15
+Austria,AUT,02-10-2020,0
+Azerbaijan,AZE,02-10-2020,0
+Bahrain,BHR,02-10-2020,0
+Belarus,BLR,02-10-2020,0
+Belgium,BEL,02-10-2020,1
+Brazil,BRA,02-10-2020,0
+Cambodia,KHM,02-10-2020,1
+Canada,CAN,02-10-2020,7
+Chile,CHL,02-10-2020,0
+Croatia,HRV,02-10-2020,0
+Czechia,CZE,02-10-2020,0
+Denmark,DNK,02-10-2020,0
+Dominican Republic,DOM,02-10-2020,0
+Ecuador,ECU,02-10-2020,0
+Egypt,EGY,02-10-2020,0
+Estonia,EST,02-10-2020,0
+Faroe Islands,FRO,02-10-2020,0
+Finland,FIN,02-10-2020,1
+France,FRA,02-10-2020,11
+Georgia,GEO,02-10-2020,0
+Germany,DEU,02-10-2020,14
+Gibraltar,GIB,02-10-2020,0
+Greece,GRC,02-10-2020,0
+Hong Kong,HKG,02-10-2020,38
+Hungary,HUN,02-10-2020,0
+Iceland,ISL,02-10-2020,0
+India,IND,02-10-2020,3
+Indonesia,IDN,02-10-2020,0
+"Iran, Islamic Republic of",IRN,02-10-2020,0
+Iraq,IRQ,02-10-2020,0
+Ireland,IRL,02-10-2020,0
+Israel,ISR,02-10-2020,0
+Italy,ITA,02-10-2020,3
+Japan,JPN,02-10-2020,26
+Jordan,JOR,02-10-2020,0
+Kuwait,KWT,02-10-2020,0
+Latvia,LVA,02-10-2020,0
+Lebanon,LBN,02-10-2020,0
+Liechtenstein,LIE,02-10-2020,0
+Lithuania,LTU,02-10-2020,0
+Luxembourg,LUX,02-10-2020,0
+Macao,MAC,02-10-2020,10
+Malaysia,MYS,02-10-2020,18
+Mexico,MEX,02-10-2020,0
+Monaco,MCO,02-10-2020,0
+Morocco,MAR,02-10-2020,0
+Nepal,NPL,02-10-2020,1
+Netherlands,NLD,02-10-2020,0
+New Zealand,NZL,02-10-2020,0
+Nigeria,NGA,02-10-2020,0
+North Macedonia,MKD,02-10-2020,0
+Norway,NOR,02-10-2020,0
+Oman,OMN,02-10-2020,0
+Pakistan,PAK,02-10-2020,0
+Philippines,PHL,02-10-2020,3
+Poland,POL,02-10-2020,0
+Portugal,PRT,02-10-2020,0
+Qatar,QAT,02-10-2020,0
+Romania,ROU,02-10-2020,0
+Russian Federation,RUS,02-10-2020,2
+San Marino,SMR,02-10-2020,0
+Saudi Arabia,SAU,02-10-2020,0
+Senegal,SEN,02-10-2020,0
+Singapore,SGP,02-10-2020,45
+"Korea, Republic of",KOR,02-10-2020,27
+Spain,ESP,02-10-2020,2
+Sri Lanka,LKA,02-10-2020,1
+Sweden,SWE,02-10-2020,1
+Switzerland,CHE,02-10-2020,0
+"Taiwan, Province of China",TWN,02-10-2020,18
+Thailand,THA,02-10-2020,32
+Tunisia,TUN,02-10-2020,0
+United Kingdom,GBR,02-10-2020,8
+United States,USA,02-10-2020,12
+Ukraine,UKR,02-10-2020,0
+United Arab Emirates,ARE,02-10-2020,8
+Viet Nam,VNM,02-10-2020,14
+Afghanistan,AFG,02-11-2020,0
+Algeria,DZA,02-11-2020,0
+Andorra,AND,02-11-2020,0
+Argentina,ARG,02-11-2020,0
+Armenia,ARM,02-11-2020,0
+Australia,AUS,02-11-2020,15
+Austria,AUT,02-11-2020,0
+Azerbaijan,AZE,02-11-2020,0
+Bahrain,BHR,02-11-2020,0
+Belarus,BLR,02-11-2020,0
+Belgium,BEL,02-11-2020,1
+Brazil,BRA,02-11-2020,0
+Cambodia,KHM,02-11-2020,1
+Canada,CAN,02-11-2020,7
+Chile,CHL,02-11-2020,0
+Croatia,HRV,02-11-2020,0
+Czechia,CZE,02-11-2020,0
+Denmark,DNK,02-11-2020,0
+Dominican Republic,DOM,02-11-2020,0
+Ecuador,ECU,02-11-2020,0
+Egypt,EGY,02-11-2020,0
+Estonia,EST,02-11-2020,0
+Faroe Islands,FRO,02-11-2020,0
+Finland,FIN,02-11-2020,1
+France,FRA,02-11-2020,11
+Georgia,GEO,02-11-2020,0
+Germany,DEU,02-11-2020,16
+Gibraltar,GIB,02-11-2020,0
+Greece,GRC,02-11-2020,0
+Hong Kong,HKG,02-11-2020,49
+Hungary,HUN,02-11-2020,0
+Iceland,ISL,02-11-2020,0
+India,IND,02-11-2020,3
+Indonesia,IDN,02-11-2020,0
+"Iran, Islamic Republic of",IRN,02-11-2020,0
+Iraq,IRQ,02-11-2020,0
+Ireland,IRL,02-11-2020,0
+Israel,ISR,02-11-2020,0
+Italy,ITA,02-11-2020,3
+Japan,JPN,02-11-2020,26
+Jordan,JOR,02-11-2020,0
+Kuwait,KWT,02-11-2020,0
+Latvia,LVA,02-11-2020,0
+Lebanon,LBN,02-11-2020,0
+Liechtenstein,LIE,02-11-2020,0
+Lithuania,LTU,02-11-2020,0
+Luxembourg,LUX,02-11-2020,0
+Macao,MAC,02-11-2020,10
+Malaysia,MYS,02-11-2020,18
+Mexico,MEX,02-11-2020,0
+Monaco,MCO,02-11-2020,0
+Morocco,MAR,02-11-2020,0
+Nepal,NPL,02-11-2020,1
+Netherlands,NLD,02-11-2020,0
+New Zealand,NZL,02-11-2020,0
+Nigeria,NGA,02-11-2020,0
+North Macedonia,MKD,02-11-2020,0
+Norway,NOR,02-11-2020,0
+Oman,OMN,02-11-2020,0
+Pakistan,PAK,02-11-2020,0
+Philippines,PHL,02-11-2020,3
+Poland,POL,02-11-2020,0
+Portugal,PRT,02-11-2020,0
+Qatar,QAT,02-11-2020,0
+Romania,ROU,02-11-2020,0
+Russian Federation,RUS,02-11-2020,2
+San Marino,SMR,02-11-2020,0
+Saudi Arabia,SAU,02-11-2020,0
+Senegal,SEN,02-11-2020,0
+Singapore,SGP,02-11-2020,47
+"Korea, Republic of",KOR,02-11-2020,28
+Spain,ESP,02-11-2020,2
+Sri Lanka,LKA,02-11-2020,1
+Sweden,SWE,02-11-2020,1
+Switzerland,CHE,02-11-2020,0
+"Taiwan, Province of China",TWN,02-11-2020,18
+Thailand,THA,02-11-2020,33
+Tunisia,TUN,02-11-2020,0
+United Kingdom,GBR,02-11-2020,8
+United States,USA,02-11-2020,13
+Ukraine,UKR,02-11-2020,0
+United Arab Emirates,ARE,02-11-2020,8
+Viet Nam,VNM,02-11-2020,15
+Afghanistan,AFG,02-12-2020,0
+Algeria,DZA,02-12-2020,0
+Andorra,AND,02-12-2020,0
+Argentina,ARG,02-12-2020,0
+Armenia,ARM,02-12-2020,0
+Australia,AUS,02-12-2020,15
+Austria,AUT,02-12-2020,0
+Azerbaijan,AZE,02-12-2020,0
+Bahrain,BHR,02-12-2020,0
+Belarus,BLR,02-12-2020,0
+Belgium,BEL,02-12-2020,1
+Brazil,BRA,02-12-2020,0
+Cambodia,KHM,02-12-2020,1
+Canada,CAN,02-12-2020,7
+Chile,CHL,02-12-2020,0
+Croatia,HRV,02-12-2020,0
+Czechia,CZE,02-12-2020,0
+Denmark,DNK,02-12-2020,0
+Dominican Republic,DOM,02-12-2020,0
+Ecuador,ECU,02-12-2020,0
+Egypt,EGY,02-12-2020,0
+Estonia,EST,02-12-2020,0
+Faroe Islands,FRO,02-12-2020,0
+Finland,FIN,02-12-2020,1
+France,FRA,02-12-2020,11
+Georgia,GEO,02-12-2020,0
+Germany,DEU,02-12-2020,16
+Gibraltar,GIB,02-12-2020,0
+Greece,GRC,02-12-2020,0
+Hong Kong,HKG,02-12-2020,50
+Hungary,HUN,02-12-2020,0
+Iceland,ISL,02-12-2020,0
+India,IND,02-12-2020,3
+Indonesia,IDN,02-12-2020,0
+"Iran, Islamic Republic of",IRN,02-12-2020,0
+Iraq,IRQ,02-12-2020,0
+Ireland,IRL,02-12-2020,0
+Israel,ISR,02-12-2020,0
+Italy,ITA,02-12-2020,3
+Japan,JPN,02-12-2020,28
+Jordan,JOR,02-12-2020,0
+Kuwait,KWT,02-12-2020,0
+Latvia,LVA,02-12-2020,0
+Lebanon,LBN,02-12-2020,0
+Liechtenstein,LIE,02-12-2020,0
+Lithuania,LTU,02-12-2020,0
+Luxembourg,LUX,02-12-2020,0
+Macao,MAC,02-12-2020,10
+Malaysia,MYS,02-12-2020,18
+Mexico,MEX,02-12-2020,0
+Monaco,MCO,02-12-2020,0
+Morocco,MAR,02-12-2020,0
+Nepal,NPL,02-12-2020,1
+Netherlands,NLD,02-12-2020,0
+New Zealand,NZL,02-12-2020,0
+Nigeria,NGA,02-12-2020,0
+North Macedonia,MKD,02-12-2020,0
+Norway,NOR,02-12-2020,0
+Oman,OMN,02-12-2020,0
+Pakistan,PAK,02-12-2020,0
+Philippines,PHL,02-12-2020,3
+Poland,POL,02-12-2020,0
+Portugal,PRT,02-12-2020,0
+Qatar,QAT,02-12-2020,0
+Romania,ROU,02-12-2020,0
+Russian Federation,RUS,02-12-2020,2
+San Marino,SMR,02-12-2020,0
+Saudi Arabia,SAU,02-12-2020,0
+Senegal,SEN,02-12-2020,0
+Singapore,SGP,02-12-2020,50
+"Korea, Republic of",KOR,02-12-2020,28
+Spain,ESP,02-12-2020,2
+Sri Lanka,LKA,02-12-2020,1
+Sweden,SWE,02-12-2020,1
+Switzerland,CHE,02-12-2020,0
+"Taiwan, Province of China",TWN,02-12-2020,18
+Thailand,THA,02-12-2020,33
+Tunisia,TUN,02-12-2020,0
+United Kingdom,GBR,02-12-2020,9
+United States,USA,02-12-2020,13
+Ukraine,UKR,02-12-2020,0
+United Arab Emirates,ARE,02-12-2020,8
+Viet Nam,VNM,02-12-2020,15
 Afghanistan,AFG,2/13/20,0
 Algeria,DZA,2/13/20,0
 Andorra,AND,2/13/20,0
+Argentina,ARG,2/13/20,0
 Armenia,ARM,2/13/20,0
 Australia,AUS,2/13/20,15
 Austria,AUT,2/13/20,0
@@ -1618,6 +1839,7 @@ Belgium,BEL,2/13/20,1
 Brazil,BRA,2/13/20,0
 Cambodia,KHM,2/13/20,1
 Canada,CAN,2/13/20,7
+Chile,CHL,2/13/20,0
 Croatia,HRV,2/13/20,0
 Czechia,CZE,2/13/20,0
 Denmark,DNK,2/13/20,0
@@ -1625,12 +1847,15 @@ Dominican Republic,DOM,2/13/20,0
 Ecuador,ECU,2/13/20,0
 Egypt,EGY,2/13/20,0
 Estonia,EST,2/13/20,0
+Faroe Islands,FRO,2/13/20,0
 Finland,FIN,2/13/20,1
 France,FRA,2/13/20,11
 Georgia,GEO,2/13/20,0
 Germany,DEU,2/13/20,16
+Gibraltar,GIB,2/13/20,0
 Greece,GRC,2/13/20,0
 Hong Kong,HKG,2/13/20,53
+Hungary,HUN,2/13/20,0
 Iceland,ISL,2/13/20,0
 India,IND,2/13/20,3
 Indonesia,IDN,2/13/20,0
@@ -1640,9 +1865,11 @@ Ireland,IRL,2/13/20,0
 Israel,ISR,2/13/20,0
 Italy,ITA,2/13/20,3
 Japan,JPN,2/13/20,28
+Jordan,JOR,2/13/20,0
 Kuwait,KWT,2/13/20,0
 Latvia,LVA,2/13/20,0
 Lebanon,LBN,2/13/20,0
+Liechtenstein,LIE,2/13/20,0
 Lithuania,LTU,2/13/20,0
 Luxembourg,LUX,2/13/20,0
 Macao,MAC,2/13/20,10
@@ -1659,6 +1886,7 @@ Norway,NOR,2/13/20,0
 Oman,OMN,2/13/20,0
 Pakistan,PAK,2/13/20,0
 Philippines,PHL,2/13/20,3
+Poland,POL,2/13/20,0
 Portugal,PRT,2/13/20,0
 Qatar,QAT,2/13/20,0
 Romania,ROU,2/13/20,0
@@ -1674,13 +1902,16 @@ Sweden,SWE,2/13/20,1
 Switzerland,CHE,2/13/20,0
 "Taiwan, Province of China",TWN,2/13/20,18
 Thailand,THA,2/13/20,33
+Tunisia,TUN,2/13/20,0
 United Kingdom,GBR,2/13/20,9
 United States,USA,2/13/20,15
+Ukraine,UKR,2/13/20,0
 United Arab Emirates,ARE,2/13/20,8
 Viet Nam,VNM,2/13/20,16
 Afghanistan,AFG,2/14/20,0
 Algeria,DZA,2/14/20,0
 Andorra,AND,2/14/20,0
+Argentina,ARG,2/14/20,0
 Armenia,ARM,2/14/20,0
 Australia,AUS,2/14/20,15
 Austria,AUT,2/14/20,0
@@ -1691,6 +1922,7 @@ Belgium,BEL,2/14/20,1
 Brazil,BRA,2/14/20,0
 Cambodia,KHM,2/14/20,1
 Canada,CAN,2/14/20,7
+Chile,CHL,2/14/20,0
 Croatia,HRV,2/14/20,0
 Czechia,CZE,2/14/20,0
 Denmark,DNK,2/14/20,0
@@ -1698,12 +1930,15 @@ Dominican Republic,DOM,2/14/20,0
 Ecuador,ECU,2/14/20,0
 Egypt,EGY,2/14/20,1
 Estonia,EST,2/14/20,0
+Faroe Islands,FRO,2/14/20,0
 Finland,FIN,2/14/20,1
 France,FRA,2/14/20,11
 Georgia,GEO,2/14/20,0
 Germany,DEU,2/14/20,16
+Gibraltar,GIB,2/14/20,0
 Greece,GRC,2/14/20,0
 Hong Kong,HKG,2/14/20,56
+Hungary,HUN,2/14/20,0
 Iceland,ISL,2/14/20,0
 India,IND,2/14/20,3
 Indonesia,IDN,2/14/20,0
@@ -1713,9 +1948,11 @@ Ireland,IRL,2/14/20,0
 Israel,ISR,2/14/20,0
 Italy,ITA,2/14/20,3
 Japan,JPN,2/14/20,29
+Jordan,JOR,2/14/20,0
 Kuwait,KWT,2/14/20,0
 Latvia,LVA,2/14/20,0
 Lebanon,LBN,2/14/20,0
+Liechtenstein,LIE,2/14/20,0
 Lithuania,LTU,2/14/20,0
 Luxembourg,LUX,2/14/20,0
 Macao,MAC,2/14/20,10
@@ -1732,6 +1969,7 @@ Norway,NOR,2/14/20,0
 Oman,OMN,2/14/20,0
 Pakistan,PAK,2/14/20,0
 Philippines,PHL,2/14/20,3
+Poland,POL,2/14/20,0
 Portugal,PRT,2/14/20,0
 Qatar,QAT,2/14/20,0
 Romania,ROU,2/14/20,0
@@ -1747,13 +1985,16 @@ Sweden,SWE,2/14/20,1
 Switzerland,CHE,2/14/20,0
 "Taiwan, Province of China",TWN,2/14/20,18
 Thailand,THA,2/14/20,33
+Tunisia,TUN,2/14/20,0
 United Kingdom,GBR,2/14/20,9
 United States,USA,2/14/20,15
+Ukraine,UKR,2/14/20,0
 United Arab Emirates,ARE,2/14/20,8
 Viet Nam,VNM,2/14/20,16
 Afghanistan,AFG,2/15/20,0
 Algeria,DZA,2/15/20,0
 Andorra,AND,2/15/20,0
+Argentina,ARG,2/15/20,0
 Armenia,ARM,2/15/20,0
 Australia,AUS,2/15/20,15
 Austria,AUT,2/15/20,0
@@ -1764,6 +2005,7 @@ Belgium,BEL,2/15/20,1
 Brazil,BRA,2/15/20,0
 Cambodia,KHM,2/15/20,1
 Canada,CAN,2/15/20,7
+Chile,CHL,2/15/20,0
 Croatia,HRV,2/15/20,0
 Czechia,CZE,2/15/20,0
 Denmark,DNK,2/15/20,0
@@ -1771,12 +2013,15 @@ Dominican Republic,DOM,2/15/20,0
 Ecuador,ECU,2/15/20,0
 Egypt,EGY,2/15/20,1
 Estonia,EST,2/15/20,0
+Faroe Islands,FRO,2/15/20,0
 Finland,FIN,2/15/20,1
 France,FRA,2/15/20,12
 Georgia,GEO,2/15/20,0
 Germany,DEU,2/15/20,16
+Gibraltar,GIB,2/15/20,0
 Greece,GRC,2/15/20,0
 Hong Kong,HKG,2/15/20,56
+Hungary,HUN,2/15/20,0
 Iceland,ISL,2/15/20,0
 India,IND,2/15/20,3
 Indonesia,IDN,2/15/20,0
@@ -1786,9 +2031,11 @@ Ireland,IRL,2/15/20,0
 Israel,ISR,2/15/20,0
 Italy,ITA,2/15/20,3
 Japan,JPN,2/15/20,43
+Jordan,JOR,2/15/20,0
 Kuwait,KWT,2/15/20,0
 Latvia,LVA,2/15/20,0
 Lebanon,LBN,2/15/20,0
+Liechtenstein,LIE,2/15/20,0
 Lithuania,LTU,2/15/20,0
 Luxembourg,LUX,2/15/20,0
 Macao,MAC,2/15/20,10
@@ -1805,6 +2052,7 @@ Norway,NOR,2/15/20,0
 Oman,OMN,2/15/20,0
 Pakistan,PAK,2/15/20,0
 Philippines,PHL,2/15/20,3
+Poland,POL,2/15/20,0
 Portugal,PRT,2/15/20,0
 Qatar,QAT,2/15/20,0
 Romania,ROU,2/15/20,0
@@ -1820,13 +2068,16 @@ Sweden,SWE,2/15/20,1
 Switzerland,CHE,2/15/20,0
 "Taiwan, Province of China",TWN,2/15/20,18
 Thailand,THA,2/15/20,33
+Tunisia,TUN,2/15/20,0
 United Kingdom,GBR,2/15/20,9
 United States,USA,2/15/20,15
+Ukraine,UKR,2/15/20,0
 United Arab Emirates,ARE,2/15/20,8
 Viet Nam,VNM,2/15/20,16
 Afghanistan,AFG,2/16/20,0
 Algeria,DZA,2/16/20,0
 Andorra,AND,2/16/20,0
+Argentina,ARG,2/16/20,0
 Armenia,ARM,2/16/20,0
 Australia,AUS,2/16/20,15
 Austria,AUT,2/16/20,0
@@ -1837,6 +2088,7 @@ Belgium,BEL,2/16/20,1
 Brazil,BRA,2/16/20,0
 Cambodia,KHM,2/16/20,1
 Canada,CAN,2/16/20,7
+Chile,CHL,2/16/20,0
 Croatia,HRV,2/16/20,0
 Czechia,CZE,2/16/20,0
 Denmark,DNK,2/16/20,0
@@ -1844,12 +2096,15 @@ Dominican Republic,DOM,2/16/20,0
 Ecuador,ECU,2/16/20,0
 Egypt,EGY,2/16/20,1
 Estonia,EST,2/16/20,0
+Faroe Islands,FRO,2/16/20,0
 Finland,FIN,2/16/20,1
 France,FRA,2/16/20,12
 Georgia,GEO,2/16/20,0
 Germany,DEU,2/16/20,16
+Gibraltar,GIB,2/16/20,0
 Greece,GRC,2/16/20,0
 Hong Kong,HKG,2/16/20,57
+Hungary,HUN,2/16/20,0
 Iceland,ISL,2/16/20,0
 India,IND,2/16/20,3
 Indonesia,IDN,2/16/20,0
@@ -1859,9 +2114,11 @@ Ireland,IRL,2/16/20,0
 Israel,ISR,2/16/20,0
 Italy,ITA,2/16/20,3
 Japan,JPN,2/16/20,59
+Jordan,JOR,2/16/20,0
 Kuwait,KWT,2/16/20,0
 Latvia,LVA,2/16/20,0
 Lebanon,LBN,2/16/20,0
+Liechtenstein,LIE,2/16/20,0
 Lithuania,LTU,2/16/20,0
 Luxembourg,LUX,2/16/20,0
 Macao,MAC,2/16/20,10
@@ -1878,6 +2135,7 @@ Norway,NOR,2/16/20,0
 Oman,OMN,2/16/20,0
 Pakistan,PAK,2/16/20,0
 Philippines,PHL,2/16/20,3
+Poland,POL,2/16/20,0
 Portugal,PRT,2/16/20,0
 Qatar,QAT,2/16/20,0
 Romania,ROU,2/16/20,0
@@ -1893,13 +2151,16 @@ Sweden,SWE,2/16/20,1
 Switzerland,CHE,2/16/20,0
 "Taiwan, Province of China",TWN,2/16/20,20
 Thailand,THA,2/16/20,34
+Tunisia,TUN,2/16/20,0
 United Kingdom,GBR,2/16/20,9
 United States,USA,2/16/20,15
+Ukraine,UKR,2/16/20,0
 United Arab Emirates,ARE,2/16/20,9
 Viet Nam,VNM,2/16/20,16
 Afghanistan,AFG,2/17/20,0
 Algeria,DZA,2/17/20,0
 Andorra,AND,2/17/20,0
+Argentina,ARG,2/17/20,0
 Armenia,ARM,2/17/20,0
 Australia,AUS,2/17/20,15
 Austria,AUT,2/17/20,0
@@ -1910,6 +2171,7 @@ Belgium,BEL,2/17/20,1
 Brazil,BRA,2/17/20,0
 Cambodia,KHM,2/17/20,1
 Canada,CAN,2/17/20,8
+Chile,CHL,2/17/20,0
 Croatia,HRV,2/17/20,0
 Czechia,CZE,2/17/20,0
 Denmark,DNK,2/17/20,0
@@ -1917,12 +2179,15 @@ Dominican Republic,DOM,2/17/20,0
 Ecuador,ECU,2/17/20,0
 Egypt,EGY,2/17/20,1
 Estonia,EST,2/17/20,0
+Faroe Islands,FRO,2/17/20,0
 Finland,FIN,2/17/20,1
 France,FRA,2/17/20,12
 Georgia,GEO,2/17/20,0
 Germany,DEU,2/17/20,16
+Gibraltar,GIB,2/17/20,0
 Greece,GRC,2/17/20,0
 Hong Kong,HKG,2/17/20,60
+Hungary,HUN,2/17/20,0
 Iceland,ISL,2/17/20,0
 India,IND,2/17/20,3
 Indonesia,IDN,2/17/20,0
@@ -1932,9 +2197,11 @@ Ireland,IRL,2/17/20,0
 Israel,ISR,2/17/20,0
 Italy,ITA,2/17/20,3
 Japan,JPN,2/17/20,66
+Jordan,JOR,2/17/20,0
 Kuwait,KWT,2/17/20,0
 Latvia,LVA,2/17/20,0
 Lebanon,LBN,2/17/20,0
+Liechtenstein,LIE,2/17/20,0
 Lithuania,LTU,2/17/20,0
 Luxembourg,LUX,2/17/20,0
 Macao,MAC,2/17/20,10
@@ -1951,6 +2218,7 @@ Norway,NOR,2/17/20,0
 Oman,OMN,2/17/20,0
 Pakistan,PAK,2/17/20,0
 Philippines,PHL,2/17/20,3
+Poland,POL,2/17/20,0
 Portugal,PRT,2/17/20,0
 Qatar,QAT,2/17/20,0
 Romania,ROU,2/17/20,0
@@ -1966,13 +2234,16 @@ Sweden,SWE,2/17/20,1
 Switzerland,CHE,2/17/20,0
 "Taiwan, Province of China",TWN,2/17/20,22
 Thailand,THA,2/17/20,35
+Tunisia,TUN,2/17/20,0
 United Kingdom,GBR,2/17/20,9
 United States,USA,2/17/20,15
+Ukraine,UKR,2/17/20,0
 United Arab Emirates,ARE,2/17/20,9
 Viet Nam,VNM,2/17/20,16
 Afghanistan,AFG,2/18/20,0
 Algeria,DZA,2/18/20,0
 Andorra,AND,2/18/20,0
+Argentina,ARG,2/18/20,0
 Armenia,ARM,2/18/20,0
 Australia,AUS,2/18/20,15
 Austria,AUT,2/18/20,0
@@ -1983,6 +2254,7 @@ Belgium,BEL,2/18/20,1
 Brazil,BRA,2/18/20,0
 Cambodia,KHM,2/18/20,1
 Canada,CAN,2/18/20,8
+Chile,CHL,2/18/20,0
 Croatia,HRV,2/18/20,0
 Czechia,CZE,2/18/20,0
 Denmark,DNK,2/18/20,0
@@ -1990,12 +2262,15 @@ Dominican Republic,DOM,2/18/20,0
 Ecuador,ECU,2/18/20,0
 Egypt,EGY,2/18/20,1
 Estonia,EST,2/18/20,0
+Faroe Islands,FRO,2/18/20,0
 Finland,FIN,2/18/20,1
 France,FRA,2/18/20,12
 Georgia,GEO,2/18/20,0
 Germany,DEU,2/18/20,16
+Gibraltar,GIB,2/18/20,0
 Greece,GRC,2/18/20,0
 Hong Kong,HKG,2/18/20,62
+Hungary,HUN,2/18/20,0
 Iceland,ISL,2/18/20,0
 India,IND,2/18/20,3
 Indonesia,IDN,2/18/20,0
@@ -2005,9 +2280,11 @@ Ireland,IRL,2/18/20,0
 Israel,ISR,2/18/20,0
 Italy,ITA,2/18/20,3
 Japan,JPN,2/18/20,74
+Jordan,JOR,2/18/20,0
 Kuwait,KWT,2/18/20,0
 Latvia,LVA,2/18/20,0
 Lebanon,LBN,2/18/20,0
+Liechtenstein,LIE,2/18/20,0
 Lithuania,LTU,2/18/20,0
 Luxembourg,LUX,2/18/20,0
 Macao,MAC,2/18/20,10
@@ -2024,6 +2301,7 @@ Norway,NOR,2/18/20,0
 Oman,OMN,2/18/20,0
 Pakistan,PAK,2/18/20,0
 Philippines,PHL,2/18/20,3
+Poland,POL,2/18/20,0
 Portugal,PRT,2/18/20,0
 Qatar,QAT,2/18/20,0
 Romania,ROU,2/18/20,0
@@ -2039,13 +2317,16 @@ Sweden,SWE,2/18/20,1
 Switzerland,CHE,2/18/20,0
 "Taiwan, Province of China",TWN,2/18/20,22
 Thailand,THA,2/18/20,35
+Tunisia,TUN,2/18/20,0
 United Kingdom,GBR,2/18/20,9
 United States,USA,2/18/20,15
+Ukraine,UKR,2/18/20,0
 United Arab Emirates,ARE,2/18/20,9
 Viet Nam,VNM,2/18/20,16
 Afghanistan,AFG,2/19/20,0
 Algeria,DZA,2/19/20,0
 Andorra,AND,2/19/20,0
+Argentina,ARG,2/19/20,0
 Armenia,ARM,2/19/20,0
 Australia,AUS,2/19/20,15
 Austria,AUT,2/19/20,0
@@ -2056,6 +2337,7 @@ Belgium,BEL,2/19/20,1
 Brazil,BRA,2/19/20,0
 Cambodia,KHM,2/19/20,1
 Canada,CAN,2/19/20,8
+Chile,CHL,2/19/20,0
 Croatia,HRV,2/19/20,0
 Czechia,CZE,2/19/20,0
 Denmark,DNK,2/19/20,0
@@ -2063,12 +2345,15 @@ Dominican Republic,DOM,2/19/20,0
 Ecuador,ECU,2/19/20,0
 Egypt,EGY,2/19/20,1
 Estonia,EST,2/19/20,0
+Faroe Islands,FRO,2/19/20,0
 Finland,FIN,2/19/20,1
 France,FRA,2/19/20,12
 Georgia,GEO,2/19/20,0
 Germany,DEU,2/19/20,16
+Gibraltar,GIB,2/19/20,0
 Greece,GRC,2/19/20,0
 Hong Kong,HKG,2/19/20,63
+Hungary,HUN,2/19/20,0
 Iceland,ISL,2/19/20,0
 India,IND,2/19/20,3
 Indonesia,IDN,2/19/20,0
@@ -2078,9 +2363,11 @@ Ireland,IRL,2/19/20,0
 Israel,ISR,2/19/20,0
 Italy,ITA,2/19/20,3
 Japan,JPN,2/19/20,84
+Jordan,JOR,2/19/20,0
 Kuwait,KWT,2/19/20,0
 Latvia,LVA,2/19/20,0
 Lebanon,LBN,2/19/20,0
+Liechtenstein,LIE,2/19/20,0
 Lithuania,LTU,2/19/20,0
 Luxembourg,LUX,2/19/20,0
 Macao,MAC,2/19/20,10
@@ -2097,6 +2384,7 @@ Norway,NOR,2/19/20,0
 Oman,OMN,2/19/20,0
 Pakistan,PAK,2/19/20,0
 Philippines,PHL,2/19/20,3
+Poland,POL,2/19/20,0
 Portugal,PRT,2/19/20,0
 Qatar,QAT,2/19/20,0
 Romania,ROU,2/19/20,0
@@ -2112,13 +2400,16 @@ Sweden,SWE,2/19/20,1
 Switzerland,CHE,2/19/20,0
 "Taiwan, Province of China",TWN,2/19/20,23
 Thailand,THA,2/19/20,35
+Tunisia,TUN,2/19/20,0
 United Kingdom,GBR,2/19/20,9
 United States,USA,2/19/20,15
+Ukraine,UKR,2/19/20,0
 United Arab Emirates,ARE,2/19/20,9
 Viet Nam,VNM,2/19/20,16
 Afghanistan,AFG,2/20/20,0
 Algeria,DZA,2/20/20,0
 Andorra,AND,2/20/20,0
+Argentina,ARG,2/20/20,0
 Armenia,ARM,2/20/20,0
 Australia,AUS,2/20/20,15
 Austria,AUT,2/20/20,0
@@ -2129,6 +2420,7 @@ Belgium,BEL,2/20/20,1
 Brazil,BRA,2/20/20,0
 Cambodia,KHM,2/20/20,1
 Canada,CAN,2/20/20,8
+Chile,CHL,2/20/20,0
 Croatia,HRV,2/20/20,0
 Czechia,CZE,2/20/20,0
 Denmark,DNK,2/20/20,0
@@ -2136,12 +2428,15 @@ Dominican Republic,DOM,2/20/20,0
 Ecuador,ECU,2/20/20,0
 Egypt,EGY,2/20/20,1
 Estonia,EST,2/20/20,0
+Faroe Islands,FRO,2/20/20,0
 Finland,FIN,2/20/20,1
 France,FRA,2/20/20,12
 Georgia,GEO,2/20/20,0
 Germany,DEU,2/20/20,16
+Gibraltar,GIB,2/20/20,0
 Greece,GRC,2/20/20,0
 Hong Kong,HKG,2/20/20,68
+Hungary,HUN,2/20/20,0
 Iceland,ISL,2/20/20,0
 India,IND,2/20/20,3
 Indonesia,IDN,2/20/20,0
@@ -2151,9 +2446,11 @@ Ireland,IRL,2/20/20,0
 Israel,ISR,2/20/20,0
 Italy,ITA,2/20/20,3
 Japan,JPN,2/20/20,94
+Jordan,JOR,2/20/20,0
 Kuwait,KWT,2/20/20,0
 Latvia,LVA,2/20/20,0
 Lebanon,LBN,2/20/20,0
+Liechtenstein,LIE,2/20/20,0
 Lithuania,LTU,2/20/20,0
 Luxembourg,LUX,2/20/20,0
 Macao,MAC,2/20/20,10
@@ -2170,6 +2467,7 @@ Norway,NOR,2/20/20,0
 Oman,OMN,2/20/20,0
 Pakistan,PAK,2/20/20,0
 Philippines,PHL,2/20/20,3
+Poland,POL,2/20/20,0
 Portugal,PRT,2/20/20,0
 Qatar,QAT,2/20/20,0
 Romania,ROU,2/20/20,0
@@ -2185,13 +2483,16 @@ Sweden,SWE,2/20/20,1
 Switzerland,CHE,2/20/20,0
 "Taiwan, Province of China",TWN,2/20/20,24
 Thailand,THA,2/20/20,35
+Tunisia,TUN,2/20/20,0
 United Kingdom,GBR,2/20/20,9
 United States,USA,2/20/20,15
+Ukraine,UKR,2/20/20,0
 United Arab Emirates,ARE,2/20/20,9
 Viet Nam,VNM,2/20/20,16
 Afghanistan,AFG,2/21/20,0
 Algeria,DZA,2/21/20,0
 Andorra,AND,2/21/20,0
+Argentina,ARG,2/21/20,0
 Armenia,ARM,2/21/20,0
 Australia,AUS,2/21/20,19
 Austria,AUT,2/21/20,0
@@ -2202,6 +2503,7 @@ Belgium,BEL,2/21/20,1
 Brazil,BRA,2/21/20,0
 Cambodia,KHM,2/21/20,1
 Canada,CAN,2/21/20,9
+Chile,CHL,2/21/20,0
 Croatia,HRV,2/21/20,0
 Czechia,CZE,2/21/20,0
 Denmark,DNK,2/21/20,0
@@ -2209,12 +2511,15 @@ Dominican Republic,DOM,2/21/20,0
 Ecuador,ECU,2/21/20,0
 Egypt,EGY,2/21/20,1
 Estonia,EST,2/21/20,0
+Faroe Islands,FRO,2/21/20,0
 Finland,FIN,2/21/20,1
 France,FRA,2/21/20,12
 Georgia,GEO,2/21/20,0
 Germany,DEU,2/21/20,16
+Gibraltar,GIB,2/21/20,0
 Greece,GRC,2/21/20,0
 Hong Kong,HKG,2/21/20,68
+Hungary,HUN,2/21/20,0
 Iceland,ISL,2/21/20,0
 India,IND,2/21/20,3
 Indonesia,IDN,2/21/20,0
@@ -2224,9 +2529,11 @@ Ireland,IRL,2/21/20,0
 Israel,ISR,2/21/20,1
 Italy,ITA,2/21/20,20
 Japan,JPN,2/21/20,105
+Jordan,JOR,2/21/20,0
 Kuwait,KWT,2/21/20,0
 Latvia,LVA,2/21/20,0
 Lebanon,LBN,2/21/20,1
+Liechtenstein,LIE,2/21/20,0
 Lithuania,LTU,2/21/20,0
 Luxembourg,LUX,2/21/20,0
 Macao,MAC,2/21/20,10
@@ -2243,6 +2550,7 @@ Norway,NOR,2/21/20,0
 Oman,OMN,2/21/20,0
 Pakistan,PAK,2/21/20,0
 Philippines,PHL,2/21/20,3
+Poland,POL,2/21/20,0
 Portugal,PRT,2/21/20,0
 Qatar,QAT,2/21/20,0
 Romania,ROU,2/21/20,0
@@ -2258,13 +2566,16 @@ Sweden,SWE,2/21/20,1
 Switzerland,CHE,2/21/20,0
 "Taiwan, Province of China",TWN,2/21/20,26
 Thailand,THA,2/21/20,35
+Tunisia,TUN,2/21/20,0
 United Kingdom,GBR,2/21/20,9
 United States,USA,2/21/20,35
+Ukraine,UKR,2/21/20,0
 United Arab Emirates,ARE,2/21/20,9
 Viet Nam,VNM,2/21/20,16
 Afghanistan,AFG,2/22/20,0
 Algeria,DZA,2/22/20,0
 Andorra,AND,2/22/20,0
+Argentina,ARG,2/22/20,0
 Armenia,ARM,2/22/20,0
 Australia,AUS,2/22/20,22
 Austria,AUT,2/22/20,0
@@ -2275,6 +2586,7 @@ Belgium,BEL,2/22/20,1
 Brazil,BRA,2/22/20,0
 Cambodia,KHM,2/22/20,1
 Canada,CAN,2/22/20,9
+Chile,CHL,2/22/20,0
 Croatia,HRV,2/22/20,0
 Czechia,CZE,2/22/20,0
 Denmark,DNK,2/22/20,0
@@ -2282,12 +2594,15 @@ Dominican Republic,DOM,2/22/20,0
 Ecuador,ECU,2/22/20,0
 Egypt,EGY,2/22/20,1
 Estonia,EST,2/22/20,0
+Faroe Islands,FRO,2/22/20,0
 Finland,FIN,2/22/20,1
 France,FRA,2/22/20,12
 Georgia,GEO,2/22/20,0
 Germany,DEU,2/22/20,16
+Gibraltar,GIB,2/22/20,0
 Greece,GRC,2/22/20,0
 Hong Kong,HKG,2/22/20,69
+Hungary,HUN,2/22/20,0
 Iceland,ISL,2/22/20,0
 India,IND,2/22/20,3
 Indonesia,IDN,2/22/20,0
@@ -2297,9 +2612,11 @@ Ireland,IRL,2/22/20,0
 Israel,ISR,2/22/20,1
 Italy,ITA,2/22/20,62
 Japan,JPN,2/22/20,122
+Jordan,JOR,2/22/20,0
 Kuwait,KWT,2/22/20,0
 Latvia,LVA,2/22/20,0
 Lebanon,LBN,2/22/20,1
+Liechtenstein,LIE,2/22/20,0
 Lithuania,LTU,2/22/20,0
 Luxembourg,LUX,2/22/20,0
 Macao,MAC,2/22/20,10
@@ -2316,6 +2633,7 @@ Norway,NOR,2/22/20,0
 Oman,OMN,2/22/20,0
 Pakistan,PAK,2/22/20,0
 Philippines,PHL,2/22/20,3
+Poland,POL,2/22/20,0
 Portugal,PRT,2/22/20,0
 Qatar,QAT,2/22/20,0
 Romania,ROU,2/22/20,0
@@ -2331,13 +2649,16 @@ Sweden,SWE,2/22/20,1
 Switzerland,CHE,2/22/20,0
 "Taiwan, Province of China",TWN,2/22/20,26
 Thailand,THA,2/22/20,35
+Tunisia,TUN,2/22/20,0
 United Kingdom,GBR,2/22/20,9
 United States,USA,2/22/20,35
+Ukraine,UKR,2/22/20,0
 United Arab Emirates,ARE,2/22/20,13
 Viet Nam,VNM,2/22/20,16
 Afghanistan,AFG,2/23/20,0
 Algeria,DZA,2/23/20,0
 Andorra,AND,2/23/20,0
+Argentina,ARG,2/23/20,0
 Armenia,ARM,2/23/20,0
 Australia,AUS,2/23/20,22
 Austria,AUT,2/23/20,0
@@ -2348,6 +2669,7 @@ Belgium,BEL,2/23/20,1
 Brazil,BRA,2/23/20,0
 Cambodia,KHM,2/23/20,1
 Canada,CAN,2/23/20,9
+Chile,CHL,2/23/20,0
 Croatia,HRV,2/23/20,0
 Czechia,CZE,2/23/20,0
 Denmark,DNK,2/23/20,0
@@ -2355,12 +2677,15 @@ Dominican Republic,DOM,2/23/20,0
 Ecuador,ECU,2/23/20,0
 Egypt,EGY,2/23/20,1
 Estonia,EST,2/23/20,0
+Faroe Islands,FRO,2/23/20,0
 Finland,FIN,2/23/20,1
 France,FRA,2/23/20,12
 Georgia,GEO,2/23/20,0
 Germany,DEU,2/23/20,16
+Gibraltar,GIB,2/23/20,0
 Greece,GRC,2/23/20,0
 Hong Kong,HKG,2/23/20,74
+Hungary,HUN,2/23/20,0
 Iceland,ISL,2/23/20,0
 India,IND,2/23/20,3
 Indonesia,IDN,2/23/20,0
@@ -2370,9 +2695,11 @@ Ireland,IRL,2/23/20,0
 Israel,ISR,2/23/20,1
 Italy,ITA,2/23/20,155
 Japan,JPN,2/23/20,147
+Jordan,JOR,2/23/20,0
 Kuwait,KWT,2/23/20,0
 Latvia,LVA,2/23/20,0
 Lebanon,LBN,2/23/20,1
+Liechtenstein,LIE,2/23/20,0
 Lithuania,LTU,2/23/20,0
 Luxembourg,LUX,2/23/20,0
 Macao,MAC,2/23/20,10
@@ -2389,6 +2716,7 @@ Norway,NOR,2/23/20,0
 Oman,OMN,2/23/20,0
 Pakistan,PAK,2/23/20,0
 Philippines,PHL,2/23/20,3
+Poland,POL,2/23/20,0
 Portugal,PRT,2/23/20,0
 Qatar,QAT,2/23/20,0
 Romania,ROU,2/23/20,0
@@ -2404,13 +2732,16 @@ Sweden,SWE,2/23/20,1
 Switzerland,CHE,2/23/20,0
 "Taiwan, Province of China",TWN,2/23/20,28
 Thailand,THA,2/23/20,35
+Tunisia,TUN,2/23/20,0
 United Kingdom,GBR,2/23/20,9
 United States,USA,2/23/20,35
+Ukraine,UKR,2/23/20,0
 United Arab Emirates,ARE,2/23/20,13
 Viet Nam,VNM,2/23/20,16
 Afghanistan,AFG,2/24/20,1
 Algeria,DZA,2/24/20,0
 Andorra,AND,2/24/20,0
+Argentina,ARG,2/24/20,0
 Armenia,ARM,2/24/20,0
 Australia,AUS,2/24/20,22
 Austria,AUT,2/24/20,0
@@ -2421,6 +2752,7 @@ Belgium,BEL,2/24/20,1
 Brazil,BRA,2/24/20,0
 Cambodia,KHM,2/24/20,1
 Canada,CAN,2/24/20,10
+Chile,CHL,2/24/20,0
 Croatia,HRV,2/24/20,0
 Czechia,CZE,2/24/20,0
 Denmark,DNK,2/24/20,0
@@ -2428,12 +2760,15 @@ Dominican Republic,DOM,2/24/20,0
 Ecuador,ECU,2/24/20,0
 Egypt,EGY,2/24/20,1
 Estonia,EST,2/24/20,0
+Faroe Islands,FRO,2/24/20,0
 Finland,FIN,2/24/20,1
 France,FRA,2/24/20,12
 Georgia,GEO,2/24/20,0
 Germany,DEU,2/24/20,16
+Gibraltar,GIB,2/24/20,0
 Greece,GRC,2/24/20,0
 Hong Kong,HKG,2/24/20,79
+Hungary,HUN,2/24/20,0
 Iceland,ISL,2/24/20,0
 India,IND,2/24/20,3
 Indonesia,IDN,2/24/20,0
@@ -2443,9 +2778,11 @@ Ireland,IRL,2/24/20,0
 Israel,ISR,2/24/20,1
 Italy,ITA,2/24/20,229
 Japan,JPN,2/24/20,159
+Jordan,JOR,2/24/20,0
 Kuwait,KWT,2/24/20,1
 Latvia,LVA,2/24/20,0
 Lebanon,LBN,2/24/20,1
+Liechtenstein,LIE,2/24/20,0
 Lithuania,LTU,2/24/20,0
 Luxembourg,LUX,2/24/20,0
 Macao,MAC,2/24/20,10
@@ -2462,6 +2799,7 @@ Norway,NOR,2/24/20,0
 Oman,OMN,2/24/20,2
 Pakistan,PAK,2/24/20,0
 Philippines,PHL,2/24/20,3
+Poland,POL,2/24/20,0
 Portugal,PRT,2/24/20,0
 Qatar,QAT,2/24/20,0
 Romania,ROU,2/24/20,0
@@ -2477,13 +2815,16 @@ Sweden,SWE,2/24/20,1
 Switzerland,CHE,2/24/20,0
 "Taiwan, Province of China",TWN,2/24/20,30
 Thailand,THA,2/24/20,35
+Tunisia,TUN,2/24/20,0
 United Kingdom,GBR,2/24/20,13
 United States,USA,2/24/20,53
+Ukraine,UKR,2/24/20,0
 United Arab Emirates,ARE,2/24/20,13
 Viet Nam,VNM,2/24/20,16
 Afghanistan,AFG,2/25/20,1
 Algeria,DZA,2/25/20,1
 Andorra,AND,2/25/20,0
+Argentina,ARG,2/25/20,0
 Armenia,ARM,2/25/20,0
 Australia,AUS,2/25/20,22
 Austria,AUT,2/25/20,2
@@ -2494,6 +2835,7 @@ Belgium,BEL,2/25/20,1
 Brazil,BRA,2/25/20,0
 Cambodia,KHM,2/25/20,1
 Canada,CAN,2/25/20,11
+Chile,CHL,2/25/20,0
 Croatia,HRV,2/25/20,1
 Czechia,CZE,2/25/20,0
 Denmark,DNK,2/25/20,0
@@ -2501,12 +2843,15 @@ Dominican Republic,DOM,2/25/20,0
 Ecuador,ECU,2/25/20,0
 Egypt,EGY,2/25/20,1
 Estonia,EST,2/25/20,0
+Faroe Islands,FRO,2/25/20,0
 Finland,FIN,2/25/20,1
 France,FRA,2/25/20,14
 Georgia,GEO,2/25/20,0
 Germany,DEU,2/25/20,17
+Gibraltar,GIB,2/25/20,0
 Greece,GRC,2/25/20,0
 Hong Kong,HKG,2/25/20,84
+Hungary,HUN,2/25/20,0
 Iceland,ISL,2/25/20,0
 India,IND,2/25/20,3
 Indonesia,IDN,2/25/20,0
@@ -2516,9 +2861,11 @@ Ireland,IRL,2/25/20,0
 Israel,ISR,2/25/20,1
 Italy,ITA,2/25/20,322
 Japan,JPN,2/25/20,170
+Jordan,JOR,2/25/20,0
 Kuwait,KWT,2/25/20,11
 Latvia,LVA,2/25/20,0
 Lebanon,LBN,2/25/20,1
+Liechtenstein,LIE,2/25/20,0
 Lithuania,LTU,2/25/20,0
 Luxembourg,LUX,2/25/20,0
 Macao,MAC,2/25/20,10
@@ -2535,6 +2882,7 @@ Norway,NOR,2/25/20,0
 Oman,OMN,2/25/20,2
 Pakistan,PAK,2/25/20,0
 Philippines,PHL,2/25/20,3
+Poland,POL,2/25/20,0
 Portugal,PRT,2/25/20,0
 Qatar,QAT,2/25/20,0
 Romania,ROU,2/25/20,0
@@ -2550,13 +2898,16 @@ Sweden,SWE,2/25/20,1
 Switzerland,CHE,2/25/20,1
 "Taiwan, Province of China",TWN,2/25/20,31
 Thailand,THA,2/25/20,37
+Tunisia,TUN,2/25/20,0
 United Kingdom,GBR,2/25/20,13
 United States,USA,2/25/20,53
+Ukraine,UKR,2/25/20,0
 United Arab Emirates,ARE,2/25/20,13
 Viet Nam,VNM,2/25/20,16
 Afghanistan,AFG,2/26/20,1
 Algeria,DZA,2/26/20,1
 Andorra,AND,2/26/20,0
+Argentina,ARG,2/26/20,0
 Armenia,ARM,2/26/20,0
 Australia,AUS,2/26/20,22
 Austria,AUT,2/26/20,2
@@ -2567,6 +2918,7 @@ Belgium,BEL,2/26/20,1
 Brazil,BRA,2/26/20,1
 Cambodia,KHM,2/26/20,1
 Canada,CAN,2/26/20,11
+Chile,CHL,2/26/20,0
 Croatia,HRV,2/26/20,3
 Czechia,CZE,2/26/20,0
 Denmark,DNK,2/26/20,0
@@ -2574,12 +2926,15 @@ Dominican Republic,DOM,2/26/20,0
 Ecuador,ECU,2/26/20,0
 Egypt,EGY,2/26/20,1
 Estonia,EST,2/26/20,0
+Faroe Islands,FRO,2/26/20,0
 Finland,FIN,2/26/20,2
 France,FRA,2/26/20,18
 Georgia,GEO,2/26/20,1
 Germany,DEU,2/26/20,27
+Gibraltar,GIB,2/26/20,0
 Greece,GRC,2/26/20,1
 Hong Kong,HKG,2/26/20,91
+Hungary,HUN,2/26/20,0
 Iceland,ISL,2/26/20,0
 India,IND,2/26/20,3
 Indonesia,IDN,2/26/20,0
@@ -2589,9 +2944,11 @@ Ireland,IRL,2/26/20,0
 Israel,ISR,2/26/20,2
 Italy,ITA,2/26/20,453
 Japan,JPN,2/26/20,189
+Jordan,JOR,2/26/20,0
 Kuwait,KWT,2/26/20,26
 Latvia,LVA,2/26/20,0
 Lebanon,LBN,2/26/20,2
+Liechtenstein,LIE,2/26/20,0
 Lithuania,LTU,2/26/20,0
 Luxembourg,LUX,2/26/20,0
 Macao,MAC,2/26/20,10
@@ -2608,6 +2965,7 @@ Norway,NOR,2/26/20,1
 Oman,OMN,2/26/20,4
 Pakistan,PAK,2/26/20,2
 Philippines,PHL,2/26/20,3
+Poland,POL,2/26/20,0
 Portugal,PRT,2/26/20,0
 Qatar,QAT,2/26/20,0
 Romania,ROU,2/26/20,1
@@ -2623,13 +2981,16 @@ Sweden,SWE,2/26/20,2
 Switzerland,CHE,2/26/20,1
 "Taiwan, Province of China",TWN,2/26/20,32
 Thailand,THA,2/26/20,40
+Tunisia,TUN,2/26/20,0
 United Kingdom,GBR,2/26/20,13
 United States,USA,2/26/20,59
+Ukraine,UKR,2/26/20,0
 United Arab Emirates,ARE,2/26/20,13
 Viet Nam,VNM,2/26/20,16
 Afghanistan,AFG,2/27/20,1
 Algeria,DZA,2/27/20,1
 Andorra,AND,2/27/20,0
+Argentina,ARG,2/27/20,0
 Armenia,ARM,2/27/20,0
 Australia,AUS,2/27/20,23
 Austria,AUT,2/27/20,3
@@ -2640,6 +3001,7 @@ Belgium,BEL,2/27/20,1
 Brazil,BRA,2/27/20,1
 Cambodia,KHM,2/27/20,1
 Canada,CAN,2/27/20,13
+Chile,CHL,2/27/20,0
 Croatia,HRV,2/27/20,3
 Czechia,CZE,2/27/20,0
 Denmark,DNK,2/27/20,1
@@ -2647,12 +3009,15 @@ Dominican Republic,DOM,2/27/20,0
 Ecuador,ECU,2/27/20,0
 Egypt,EGY,2/27/20,1
 Estonia,EST,2/27/20,1
+Faroe Islands,FRO,2/27/20,0
 Finland,FIN,2/27/20,2
 France,FRA,2/27/20,38
 Georgia,GEO,2/27/20,1
 Germany,DEU,2/27/20,46
+Gibraltar,GIB,2/27/20,0
 Greece,GRC,2/27/20,3
 Hong Kong,HKG,2/27/20,92
+Hungary,HUN,2/27/20,0
 Iceland,ISL,2/27/20,0
 India,IND,2/27/20,3
 Indonesia,IDN,2/27/20,0
@@ -2662,9 +3027,11 @@ Ireland,IRL,2/27/20,0
 Israel,ISR,2/27/20,3
 Italy,ITA,2/27/20,655
 Japan,JPN,2/27/20,214
+Jordan,JOR,2/27/20,0
 Kuwait,KWT,2/27/20,43
 Latvia,LVA,2/27/20,0
 Lebanon,LBN,2/27/20,2
+Liechtenstein,LIE,2/27/20,0
 Lithuania,LTU,2/27/20,0
 Luxembourg,LUX,2/27/20,0
 Macao,MAC,2/27/20,10
@@ -2681,6 +3048,7 @@ Norway,NOR,2/27/20,1
 Oman,OMN,2/27/20,4
 Pakistan,PAK,2/27/20,2
 Philippines,PHL,2/27/20,3
+Poland,POL,2/27/20,0
 Portugal,PRT,2/27/20,0
 Qatar,QAT,2/27/20,0
 Romania,ROU,2/27/20,1
@@ -2696,13 +3064,16 @@ Sweden,SWE,2/27/20,7
 Switzerland,CHE,2/27/20,8
 "Taiwan, Province of China",TWN,2/27/20,32
 Thailand,THA,2/27/20,40
+Tunisia,TUN,2/27/20,0
 United Kingdom,GBR,2/27/20,15
 United States,USA,2/27/20,60
+Ukraine,UKR,2/27/20,0
 United Arab Emirates,ARE,2/27/20,13
 Viet Nam,VNM,2/27/20,16
 Afghanistan,AFG,2/28/20,1
 Algeria,DZA,2/28/20,1
 Andorra,AND,2/28/20,0
+Argentina,ARG,2/28/20,0
 Armenia,ARM,2/28/20,0
 Australia,AUS,2/28/20,23
 Austria,AUT,2/28/20,3
@@ -2713,6 +3084,7 @@ Belgium,BEL,2/28/20,1
 Brazil,BRA,2/28/20,1
 Cambodia,KHM,2/28/20,1
 Canada,CAN,2/28/20,14
+Chile,CHL,2/28/20,0
 Croatia,HRV,2/28/20,5
 Czechia,CZE,2/28/20,0
 Denmark,DNK,2/28/20,1
@@ -2720,12 +3092,15 @@ Dominican Republic,DOM,2/28/20,0
 Ecuador,ECU,2/28/20,0
 Egypt,EGY,2/28/20,1
 Estonia,EST,2/28/20,1
+Faroe Islands,FRO,2/28/20,0
 Finland,FIN,2/28/20,2
 France,FRA,2/28/20,57
 Georgia,GEO,2/28/20,1
 Germany,DEU,2/28/20,48
+Gibraltar,GIB,2/28/20,0
 Greece,GRC,2/28/20,4
 Hong Kong,HKG,2/28/20,94
+Hungary,HUN,2/28/20,0
 Iceland,ISL,2/28/20,1
 India,IND,2/28/20,3
 Indonesia,IDN,2/28/20,0
@@ -2735,9 +3110,11 @@ Ireland,IRL,2/28/20,0
 Israel,ISR,2/28/20,4
 Italy,ITA,2/28/20,888
 Japan,JPN,2/28/20,228
+Jordan,JOR,2/28/20,0
 Kuwait,KWT,2/28/20,45
 Latvia,LVA,2/28/20,0
 Lebanon,LBN,2/28/20,2
+Liechtenstein,LIE,2/28/20,0
 Lithuania,LTU,2/28/20,1
 Luxembourg,LUX,2/28/20,0
 Macao,MAC,2/28/20,10
@@ -2754,6 +3131,7 @@ Norway,NOR,2/28/20,6
 Oman,OMN,2/28/20,4
 Pakistan,PAK,2/28/20,2
 Philippines,PHL,2/28/20,3
+Poland,POL,2/28/20,0
 Portugal,PRT,2/28/20,0
 Qatar,QAT,2/28/20,0
 Romania,ROU,2/28/20,3
@@ -2769,13 +3147,16 @@ Sweden,SWE,2/28/20,7
 Switzerland,CHE,2/28/20,8
 "Taiwan, Province of China",TWN,2/28/20,34
 Thailand,THA,2/28/20,41
+Tunisia,TUN,2/28/20,0
 United Kingdom,GBR,2/28/20,20
 United States,USA,2/28/20,62
+Ukraine,UKR,2/28/20,0
 United Arab Emirates,ARE,2/28/20,19
 Viet Nam,VNM,2/28/20,16
 Afghanistan,AFG,2/29/20,1
 Algeria,DZA,2/29/20,1
 Andorra,AND,2/29/20,0
+Argentina,ARG,2/29/20,0
 Armenia,ARM,2/29/20,0
 Australia,AUS,2/29/20,25
 Austria,AUT,2/29/20,9
@@ -2786,6 +3167,7 @@ Belgium,BEL,2/29/20,1
 Brazil,BRA,2/29/20,2
 Cambodia,KHM,2/29/20,1
 Canada,CAN,2/29/20,20
+Chile,CHL,2/29/20,0
 Croatia,HRV,2/29/20,6
 Czechia,CZE,2/29/20,0
 Denmark,DNK,2/29/20,3
@@ -2793,12 +3175,15 @@ Dominican Republic,DOM,2/29/20,0
 Ecuador,ECU,2/29/20,0
 Egypt,EGY,2/29/20,1
 Estonia,EST,2/29/20,1
+Faroe Islands,FRO,2/29/20,0
 Finland,FIN,2/29/20,3
 France,FRA,2/29/20,100
 Georgia,GEO,2/29/20,1
 Germany,DEU,2/29/20,79
+Gibraltar,GIB,2/29/20,0
 Greece,GRC,2/29/20,4
 Hong Kong,HKG,2/29/20,95
+Hungary,HUN,2/29/20,0
 Iceland,ISL,2/29/20,1
 India,IND,2/29/20,3
 Indonesia,IDN,2/29/20,0
@@ -2808,9 +3193,11 @@ Ireland,IRL,2/29/20,1
 Israel,ISR,2/29/20,7
 Italy,ITA,2/29/20,1128
 Japan,JPN,2/29/20,241
+Jordan,JOR,2/29/20,0
 Kuwait,KWT,2/29/20,45
 Latvia,LVA,2/29/20,0
 Lebanon,LBN,2/29/20,4
+Liechtenstein,LIE,2/29/20,0
 Lithuania,LTU,2/29/20,1
 Luxembourg,LUX,2/29/20,1
 Macao,MAC,2/29/20,10
@@ -2827,6 +3214,7 @@ Norway,NOR,2/29/20,15
 Oman,OMN,2/29/20,6
 Pakistan,PAK,2/29/20,4
 Philippines,PHL,2/29/20,3
+Poland,POL,2/29/20,0
 Portugal,PRT,2/29/20,0
 Qatar,QAT,2/29/20,1
 Romania,ROU,2/29/20,3
@@ -2842,153 +3230,341 @@ Sweden,SWE,2/29/20,12
 Switzerland,CHE,2/29/20,18
 "Taiwan, Province of China",TWN,2/29/20,39
 Thailand,THA,2/29/20,42
+Tunisia,TUN,2/29/20,0
 United Kingdom,GBR,2/29/20,23
 United States,USA,2/29/20,70
+Ukraine,UKR,2/29/20,0
 United Arab Emirates,ARE,2/29/20,21
 Viet Nam,VNM,2/29/20,16
-Afghanistan,AFG,3/1/20,1
-Algeria,DZA,3/1/20,1
-Andorra,AND,3/1/20,0
-Armenia,ARM,3/1/20,1
-Australia,AUS,3/1/20,27
-Austria,AUT,3/1/20,14
-Azerbaijan,AZE,3/1/20,3
-Bahrain,BHR,3/1/20,47
-Belarus,BLR,3/1/20,1
-Belgium,BEL,3/1/20,2
-Brazil,BRA,3/1/20,2
-Cambodia,KHM,3/1/20,1
-Canada,CAN,3/1/20,24
-Croatia,HRV,3/1/20,7
-Czechia,CZE,3/1/20,3
-Denmark,DNK,3/1/20,4
-Dominican Republic,DOM,3/1/20,1
-Ecuador,ECU,3/1/20,6
-Egypt,EGY,3/1/20,2
-Estonia,EST,3/1/20,1
-Finland,FIN,3/1/20,6
-France,FRA,3/1/20,130
-Georgia,GEO,3/1/20,3
-Germany,DEU,3/1/20,130
-Greece,GRC,3/1/20,7
-Hong Kong,HKG,3/1/20,96
-Iceland,ISL,3/1/20,3
-India,IND,3/1/20,3
-Indonesia,IDN,3/1/20,0
-"Iran, Islamic Republic of",IRN,3/1/20,978
-Iraq,IRQ,3/1/20,19
-Ireland,IRL,3/1/20,1
-Israel,ISR,3/1/20,10
-Italy,ITA,3/1/20,1694
-Japan,JPN,3/1/20,256
-Kuwait,KWT,3/1/20,45
-Latvia,LVA,3/1/20,0
-Lebanon,LBN,3/1/20,10
-Lithuania,LTU,3/1/20,1
-Luxembourg,LUX,3/1/20,1
-Macao,MAC,3/1/20,10
-Malaysia,MYS,3/1/20,29
-Mexico,MEX,3/1/20,5
-Monaco,MCO,3/1/20,1
-Morocco,MAR,3/1/20,0
-Nepal,NPL,3/1/20,1
-Netherlands,NLD,3/1/20,10
-New Zealand,NZL,3/1/20,1
-Nigeria,NGA,3/1/20,1
-North Macedonia,MKD,3/1/20,1
-Norway,NOR,3/1/20,19
-Oman,OMN,3/1/20,6
-Pakistan,PAK,3/1/20,4
-Philippines,PHL,3/1/20,3
-Portugal,PRT,3/1/20,0
-Qatar,QAT,3/1/20,3
-Romania,ROU,3/1/20,3
-Russian Federation,RUS,3/1/20,2
-San Marino,SMR,3/1/20,1
-Saudi Arabia,SAU,3/1/20,0
-Senegal,SEN,3/1/20,0
-Singapore,SGP,3/1/20,106
-"Korea, Republic of",KOR,3/1/20,3736
-Spain,ESP,3/1/20,84
-Sri Lanka,LKA,3/1/20,1
-Sweden,SWE,3/1/20,14
-Switzerland,CHE,3/1/20,27
-"Taiwan, Province of China",TWN,3/1/20,40
-Thailand,THA,3/1/20,42
-United Kingdom,GBR,3/1/20,36
-United States,USA,3/1/20,76
-United Arab Emirates,ARE,3/1/20,21
-Viet Nam,VNM,3/1/20,16
-Afghanistan,AFG,3/2/20,1
-Algeria,DZA,3/2/20,3
-Andorra,AND,3/2/20,1
-Armenia,ARM,3/2/20,1
-Australia,AUS,3/2/20,30
-Austria,AUT,3/2/20,18
-Azerbaijan,AZE,3/2/20,3
-Bahrain,BHR,3/2/20,49
-Belarus,BLR,3/2/20,1
-Belgium,BEL,3/2/20,8
-Brazil,BRA,3/2/20,2
-Cambodia,KHM,3/2/20,1
-Canada,CAN,3/2/20,27
-Croatia,HRV,3/2/20,7
-Czechia,CZE,3/2/20,3
-Denmark,DNK,3/2/20,4
-Dominican Republic,DOM,3/2/20,1
-Ecuador,ECU,3/2/20,6
-Egypt,EGY,3/2/20,2
-Estonia,EST,3/2/20,1
-Finland,FIN,3/2/20,6
-France,FRA,3/2/20,191
-Georgia,GEO,3/2/20,3
-Germany,DEU,3/2/20,159
-Greece,GRC,3/2/20,7
-Hong Kong,HKG,3/2/20,100
-Iceland,ISL,3/2/20,6
-India,IND,3/2/20,5
-Indonesia,IDN,3/2/20,2
-"Iran, Islamic Republic of",IRN,3/2/20,1501
-Iraq,IRQ,3/2/20,26
-Ireland,IRL,3/2/20,1
-Israel,ISR,3/2/20,10
-Italy,ITA,3/2/20,2036
-Japan,JPN,3/2/20,274
-Kuwait,KWT,3/2/20,56
-Latvia,LVA,3/2/20,1
-Lebanon,LBN,3/2/20,13
-Lithuania,LTU,3/2/20,1
-Luxembourg,LUX,3/2/20,1
-Macao,MAC,3/2/20,10
-Malaysia,MYS,3/2/20,29
-Mexico,MEX,3/2/20,5
-Monaco,MCO,3/2/20,1
-Morocco,MAR,3/2/20,1
-Nepal,NPL,3/2/20,1
-Netherlands,NLD,3/2/20,18
-New Zealand,NZL,3/2/20,1
-Nigeria,NGA,3/2/20,1
-North Macedonia,MKD,3/2/20,1
-Norway,NOR,3/2/20,25
-Oman,OMN,3/2/20,6
-Pakistan,PAK,3/2/20,4
-Philippines,PHL,3/2/20,3
-Portugal,PRT,3/2/20,2
-Qatar,QAT,3/2/20,3
-Romania,ROU,3/2/20,3
-Russian Federation,RUS,3/2/20,3
-San Marino,SMR,3/2/20,8
-Saudi Arabia,SAU,3/2/20,1
-Senegal,SEN,3/2/20,1
-Singapore,SGP,3/2/20,108
-"Korea, Republic of",KOR,3/2/20,4335
-Spain,ESP,3/2/20,120
-Sri Lanka,LKA,3/2/20,1
-Sweden,SWE,3/2/20,15
-Switzerland,CHE,3/2/20,42
-"Taiwan, Province of China",TWN,3/2/20,41
-Thailand,THA,3/2/20,43
-United Kingdom,GBR,3/2/20,40
-United States,USA,3/2/20,101
-United Arab Emirates,ARE,3/2/20,21
-Viet Nam,VNM,3/2/20,16
+Afghanistan,AFG,03-01-2020,1
+Algeria,DZA,03-01-2020,1
+Andorra,AND,03-01-2020,0
+Argentina,ARG,03-01-2020,0
+Armenia,ARM,03-01-2020,1
+Australia,AUS,03-01-2020,27
+Austria,AUT,03-01-2020,14
+Azerbaijan,AZE,03-01-2020,3
+Bahrain,BHR,03-01-2020,47
+Belarus,BLR,03-01-2020,1
+Belgium,BEL,03-01-2020,2
+Brazil,BRA,03-01-2020,2
+Cambodia,KHM,03-01-2020,1
+Canada,CAN,03-01-2020,24
+Chile,CHL,03-01-2020,0
+Croatia,HRV,03-01-2020,7
+Czechia,CZE,03-01-2020,3
+Denmark,DNK,03-01-2020,4
+Dominican Republic,DOM,03-01-2020,1
+Ecuador,ECU,03-01-2020,6
+Egypt,EGY,03-01-2020,2
+Estonia,EST,03-01-2020,1
+Faroe Islands,FRO,03-01-2020,0
+Finland,FIN,03-01-2020,6
+France,FRA,03-01-2020,130
+Georgia,GEO,03-01-2020,3
+Germany,DEU,03-01-2020,130
+Gibraltar,GIB,03-01-2020,0
+Greece,GRC,03-01-2020,7
+Hong Kong,HKG,03-01-2020,96
+Hungary,HUN,03-01-2020,0
+Iceland,ISL,03-01-2020,3
+India,IND,03-01-2020,3
+Indonesia,IDN,03-01-2020,0
+"Iran, Islamic Republic of",IRN,03-01-2020,978
+Iraq,IRQ,03-01-2020,19
+Ireland,IRL,03-01-2020,1
+Israel,ISR,03-01-2020,10
+Italy,ITA,03-01-2020,1694
+Japan,JPN,03-01-2020,256
+Jordan,JOR,03-01-2020,0
+Kuwait,KWT,03-01-2020,45
+Latvia,LVA,03-01-2020,0
+Lebanon,LBN,03-01-2020,10
+Liechtenstein,LIE,03-01-2020,0
+Lithuania,LTU,03-01-2020,1
+Luxembourg,LUX,03-01-2020,1
+Macao,MAC,03-01-2020,10
+Malaysia,MYS,03-01-2020,29
+Mexico,MEX,03-01-2020,5
+Monaco,MCO,03-01-2020,1
+Morocco,MAR,03-01-2020,0
+Nepal,NPL,03-01-2020,1
+Netherlands,NLD,03-01-2020,10
+New Zealand,NZL,03-01-2020,1
+Nigeria,NGA,03-01-2020,1
+North Macedonia,MKD,03-01-2020,1
+Norway,NOR,03-01-2020,19
+Oman,OMN,03-01-2020,6
+Pakistan,PAK,03-01-2020,4
+Philippines,PHL,03-01-2020,3
+Poland,POL,03-01-2020,0
+Portugal,PRT,03-01-2020,0
+Qatar,QAT,03-01-2020,3
+Romania,ROU,03-01-2020,3
+Russian Federation,RUS,03-01-2020,2
+San Marino,SMR,03-01-2020,1
+Saudi Arabia,SAU,03-01-2020,0
+Senegal,SEN,03-01-2020,0
+Singapore,SGP,03-01-2020,106
+"Korea, Republic of",KOR,03-01-2020,3736
+Spain,ESP,03-01-2020,84
+Sri Lanka,LKA,03-01-2020,1
+Sweden,SWE,03-01-2020,14
+Switzerland,CHE,03-01-2020,27
+"Taiwan, Province of China",TWN,03-01-2020,40
+Thailand,THA,03-01-2020,42
+Tunisia,TUN,03-01-2020,0
+United Kingdom,GBR,03-01-2020,36
+United States,USA,03-01-2020,76
+Ukraine,UKR,03-01-2020,0
+United Arab Emirates,ARE,03-01-2020,21
+Viet Nam,VNM,03-01-2020,16
+Afghanistan,AFG,03-02-2020,1
+Algeria,DZA,03-02-2020,3
+Andorra,AND,03-02-2020,1
+Argentina,ARG,03-02-2020,0
+Armenia,ARM,03-02-2020,1
+Australia,AUS,03-02-2020,30
+Austria,AUT,03-02-2020,18
+Azerbaijan,AZE,03-02-2020,3
+Bahrain,BHR,03-02-2020,49
+Belarus,BLR,03-02-2020,1
+Belgium,BEL,03-02-2020,8
+Brazil,BRA,03-02-2020,2
+Cambodia,KHM,03-02-2020,1
+Canada,CAN,03-02-2020,27
+Chile,CHL,03-02-2020,0
+Croatia,HRV,03-02-2020,7
+Czechia,CZE,03-02-2020,3
+Denmark,DNK,03-02-2020,4
+Dominican Republic,DOM,03-02-2020,1
+Ecuador,ECU,03-02-2020,6
+Egypt,EGY,03-02-2020,2
+Estonia,EST,03-02-2020,1
+Faroe Islands,FRO,03-02-2020,0
+Finland,FIN,03-02-2020,6
+France,FRA,03-02-2020,191
+Georgia,GEO,03-02-2020,3
+Germany,DEU,03-02-2020,159
+Gibraltar,GIB,03-02-2020,0
+Greece,GRC,03-02-2020,7
+Hong Kong,HKG,03-02-2020,100
+Hungary,HUN,03-02-2020,0
+Iceland,ISL,03-02-2020,6
+India,IND,03-02-2020,5
+Indonesia,IDN,03-02-2020,2
+"Iran, Islamic Republic of",IRN,03-02-2020,1501
+Iraq,IRQ,03-02-2020,26
+Ireland,IRL,03-02-2020,1
+Israel,ISR,03-02-2020,10
+Italy,ITA,03-02-2020,2036
+Japan,JPN,03-02-2020,274
+Jordan,JOR,03-02-2020,0
+Kuwait,KWT,03-02-2020,56
+Latvia,LVA,03-02-2020,1
+Lebanon,LBN,03-02-2020,13
+Liechtenstein,LIE,03-02-2020,0
+Lithuania,LTU,03-02-2020,1
+Luxembourg,LUX,03-02-2020,1
+Macao,MAC,03-02-2020,10
+Malaysia,MYS,03-02-2020,29
+Mexico,MEX,03-02-2020,5
+Monaco,MCO,03-02-2020,1
+Morocco,MAR,03-02-2020,1
+Nepal,NPL,03-02-2020,1
+Netherlands,NLD,03-02-2020,18
+New Zealand,NZL,03-02-2020,1
+Nigeria,NGA,03-02-2020,1
+North Macedonia,MKD,03-02-2020,1
+Norway,NOR,03-02-2020,25
+Oman,OMN,03-02-2020,6
+Pakistan,PAK,03-02-2020,4
+Philippines,PHL,03-02-2020,3
+Poland,POL,03-02-2020,0
+Portugal,PRT,03-02-2020,2
+Qatar,QAT,03-02-2020,3
+Romania,ROU,03-02-2020,3
+Russian Federation,RUS,03-02-2020,3
+San Marino,SMR,03-02-2020,8
+Saudi Arabia,SAU,03-02-2020,1
+Senegal,SEN,03-02-2020,1
+Singapore,SGP,03-02-2020,108
+"Korea, Republic of",KOR,03-02-2020,4335
+Spain,ESP,03-02-2020,120
+Sri Lanka,LKA,03-02-2020,1
+Sweden,SWE,03-02-2020,15
+Switzerland,CHE,03-02-2020,42
+"Taiwan, Province of China",TWN,03-02-2020,41
+Thailand,THA,03-02-2020,43
+Tunisia,TUN,03-02-2020,0
+United Kingdom,GBR,03-02-2020,40
+United States,USA,03-02-2020,101
+Ukraine,UKR,03-02-2020,0
+United Arab Emirates,ARE,03-02-2020,21
+Viet Nam,VNM,03-02-2020,16
+Afghanistan,AFG,03-03-2020,1
+Algeria,DZA,03-03-2020,5
+Andorra,AND,03-03-2020,1
+Argentina,ARG,03-03-2020,1
+Armenia,ARM,03-03-2020,1
+Australia,AUS,03-03-2020,39
+Austria,AUT,03-03-2020,21
+Azerbaijan,AZE,03-03-2020,3
+Bahrain,BHR,03-03-2020,49
+Belarus,BLR,03-03-2020,1
+Belgium,BEL,03-03-2020,13
+Brazil,BRA,03-03-2020,2
+Cambodia,KHM,03-03-2020,1
+Canada,CAN,03-03-2020,30
+Chile,CHL,03-03-2020,1
+Croatia,HRV,03-03-2020,9
+Czechia,CZE,03-03-2020,5
+Denmark,DNK,03-03-2020,6
+Dominican Republic,DOM,03-03-2020,1
+Ecuador,ECU,03-03-2020,7
+Egypt,EGY,03-03-2020,2
+Estonia,EST,03-03-2020,2
+Faroe Islands,FRO,03-03-2020,0
+Finland,FIN,03-03-2020,6
+France,FRA,03-03-2020,204
+Georgia,GEO,03-03-2020,3
+Germany,DEU,03-03-2020,196
+Gibraltar,GIB,03-03-2020,0
+Greece,GRC,03-03-2020,7
+Hong Kong,HKG,03-03-2020,100
+Hungary,HUN,03-03-2020,0
+Iceland,ISL,03-03-2020,11
+India,IND,03-03-2020,5
+Indonesia,IDN,03-03-2020,2
+"Iran, Islamic Republic of",IRN,03-03-2020,2336
+Iraq,IRQ,03-03-2020,32
+Ireland,IRL,03-03-2020,2
+Israel,ISR,03-03-2020,12
+Italy,ITA,03-03-2020,2502
+Japan,JPN,03-03-2020,293
+Jordan,JOR,03-03-2020,1
+Kuwait,KWT,03-03-2020,56
+Latvia,LVA,03-03-2020,1
+Lebanon,LBN,03-03-2020,13
+Liechtenstein,LIE,03-03-2020,0
+Lithuania,LTU,03-03-2020,1
+Luxembourg,LUX,03-03-2020,1
+Macao,MAC,03-03-2020,10
+Malaysia,MYS,03-03-2020,36
+Mexico,MEX,03-03-2020,5
+Monaco,MCO,03-03-2020,1
+Morocco,MAR,03-03-2020,1
+Nepal,NPL,03-03-2020,1
+Netherlands,NLD,03-03-2020,24
+New Zealand,NZL,03-03-2020,1
+Nigeria,NGA,03-03-2020,1
+North Macedonia,MKD,03-03-2020,1
+Norway,NOR,03-03-2020,32
+Oman,OMN,03-03-2020,12
+Pakistan,PAK,03-03-2020,5
+Philippines,PHL,03-03-2020,3
+Poland,POL,03-03-2020,0
+Portugal,PRT,03-03-2020,2
+Qatar,QAT,03-03-2020,7
+Romania,ROU,03-03-2020,3
+Russian Federation,RUS,03-03-2020,3
+San Marino,SMR,03-03-2020,10
+Saudi Arabia,SAU,03-03-2020,1
+Senegal,SEN,03-03-2020,2
+Singapore,SGP,03-03-2020,110
+"Korea, Republic of",KOR,03-03-2020,5186
+Spain,ESP,03-03-2020,165
+Sri Lanka,LKA,03-03-2020,1
+Sweden,SWE,03-03-2020,21
+Switzerland,CHE,03-03-2020,56
+"Taiwan, Province of China",TWN,03-03-2020,42
+Thailand,THA,03-03-2020,43
+Tunisia,TUN,03-03-2020,0
+United Kingdom,GBR,03-03-2020,51
+United States,USA,03-03-2020,122
+Ukraine,UKR,03-03-2020,1
+United Arab Emirates,ARE,03-03-2020,27
+Viet Nam,VNM,03-03-2020,16
+Afghanistan,AFG,03-04-2020,1
+Algeria,DZA,03-04-2020,12
+Andorra,AND,03-04-2020,1
+Argentina,ARG,03-04-2020,1
+Armenia,ARM,03-04-2020,1
+Australia,AUS,03-04-2020,52
+Austria,AUT,03-04-2020,29
+Azerbaijan,AZE,03-04-2020,3
+Bahrain,BHR,03-04-2020,52
+Belarus,BLR,03-04-2020,6
+Belgium,BEL,03-04-2020,23
+Brazil,BRA,03-04-2020,4
+Cambodia,KHM,03-04-2020,1
+Canada,CAN,03-04-2020,33
+Chile,CHL,03-04-2020,1
+Croatia,HRV,03-04-2020,10
+Czechia,CZE,03-04-2020,8
+Denmark,DNK,03-04-2020,10
+Dominican Republic,DOM,03-04-2020,1
+Ecuador,ECU,03-04-2020,10
+Egypt,EGY,03-04-2020,2
+Estonia,EST,03-04-2020,2
+Faroe Islands,FRO,03-04-2020,1
+Finland,FIN,03-04-2020,6
+France,FRA,03-04-2020,285
+Georgia,GEO,03-04-2020,3
+Germany,DEU,03-04-2020,262
+Gibraltar,GIB,03-04-2020,1
+Greece,GRC,03-04-2020,9
+Hong Kong,HKG,03-04-2020,105
+Hungary,HUN,03-04-2020,2
+Iceland,ISL,03-04-2020,26
+India,IND,03-04-2020,28
+Indonesia,IDN,03-04-2020,2
+"Iran, Islamic Republic of",IRN,03-04-2020,2922
+Iraq,IRQ,03-04-2020,35
+Ireland,IRL,03-04-2020,6
+Israel,ISR,03-04-2020,15
+Italy,ITA,03-04-2020,3089
+Japan,JPN,03-04-2020,331
+Jordan,JOR,03-04-2020,1
+Kuwait,KWT,03-04-2020,56
+Latvia,LVA,03-04-2020,1
+Lebanon,LBN,03-04-2020,13
+Liechtenstein,LIE,03-04-2020,1
+Lithuania,LTU,03-04-2020,1
+Luxembourg,LUX,03-04-2020,1
+Macao,MAC,03-04-2020,10
+Malaysia,MYS,03-04-2020,50
+Mexico,MEX,03-04-2020,5
+Monaco,MCO,03-04-2020,1
+Morocco,MAR,03-04-2020,1
+Nepal,NPL,03-04-2020,1
+Netherlands,NLD,03-04-2020,38
+New Zealand,NZL,03-04-2020,3
+Nigeria,NGA,03-04-2020,1
+North Macedonia,MKD,03-04-2020,1
+Norway,NOR,03-04-2020,56
+Oman,OMN,03-04-2020,15
+Pakistan,PAK,03-04-2020,5
+Philippines,PHL,03-04-2020,3
+Poland,POL,03-04-2020,1
+Portugal,PRT,03-04-2020,5
+Qatar,QAT,03-04-2020,8
+Romania,ROU,03-04-2020,4
+Russian Federation,RUS,03-04-2020,3
+San Marino,SMR,03-04-2020,16
+Saudi Arabia,SAU,03-04-2020,1
+Senegal,SEN,03-04-2020,4
+Singapore,SGP,03-04-2020,110
+"Korea, Republic of",KOR,03-04-2020,5621
+Spain,ESP,03-04-2020,222
+Sri Lanka,LKA,03-04-2020,1
+Sweden,SWE,03-04-2020,35
+Switzerland,CHE,03-04-2020,90
+"Taiwan, Province of China",TWN,03-04-2020,42
+Thailand,THA,03-04-2020,43
+Tunisia,TUN,03-04-2020,1
+United Kingdom,GBR,03-04-2020,85
+United States,USA,03-04-2020,153
+Ukraine,UKR,03-04-2020,1
+United Arab Emirates,ARE,03-04-2020,27
+Viet Nam,VNM,03-04-2020,16
