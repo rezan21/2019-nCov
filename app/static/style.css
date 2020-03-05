@@ -79,3 +79,56 @@ body {
     color: red;
     transition: all ease 0.5s;
 }
+
+
+
+@media only screen and (max-device-width: 950px),
+screen and (max-width: 950px) {
+    .header-content {
+        padding: 2px 5px;
+        color: white;
+        /* position: relative; */
+    
+    
+    }
+    
+    .right-header {
+    
+        float: none;
+    }
+
+    #page-container {
+        position: relative;
+        min-height: 100vh;
+        max-width: 2000px;
+        margin: 0 auto;
+        padding: 50px 10px;
+    }
+
+    .charts-grid {
+        margin-top: 10px;
+        display: grid;
+        grid-template-columns: none;
+        grid-template-rows: auto;
+        grid-gap: 30px;
+    
+    
+    
+    }
+
+    .left-grid{
+        display: grid;
+        /* grid-template-columns: 1fr; */
+        grid-template-rows: auto;
+        grid-gap: 30px;
+    
+    }
+    .right-grid{
+        display: grid;
+        /* grid-template-columns: 1fr; */
+        grid-template-rows: auto;
+        grid-gap: 30px;
+    
+    }
+
+}
