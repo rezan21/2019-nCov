@@ -1,5 +1,6 @@
 Country,Country_Code,Time_Stamp,Cases
 Afghanistan,AFG,1/22/20,0
+Albania,ALB,1/22/20,0
 Algeria,DZA,1/22/20,0
 Andorra,AND,1/22/20,0
 Argentina,ARG,1/22/20,0
@@ -8,11 +9,13 @@ Australia,AUS,1/22/20,0
 Austria,AUT,1/22/20,0
 Azerbaijan,AZE,1/22/20,0
 Bahrain,BHR,1/22/20,0
+Bangladesh,BGD,1/22/20,0
 Belarus,BLR,1/22/20,0
 Belgium,BEL,1/22/20,0
 Bhutan,BTN,1/22/20,0
 Bosnia and Herzegovina,BIH,1/22/20,0
 Brazil,BRA,1/22/20,0
+Bulgaria,BGR,1/22/20,0
 Cambodia,KHM,1/22/20,0
 Cameroon,CMR,1/22/20,0
 Canada,CAN,1/22/20,0
@@ -20,6 +23,7 @@ Chile,CHL,1/22/20,0
 Colombia,COL,1/22/20,0
 Costa Rica,CRI,1/22/20,0
 Croatia,HRV,1/22/20,0
+Cyprus,CYP,1/22/20,0
 Czechia,CZE,1/22/20,0
 Denmark,DNK,1/22/20,0
 Dominican Republic,DOM,1/22/20,0
@@ -54,6 +58,7 @@ Lithuania,LTU,1/22/20,0
 Luxembourg,LUX,1/22/20,0
 Macao,MAC,1/22/20,1
 Malaysia,MYS,1/22/20,0
+Maldives,MDV,1/22/20,0
 Malta,MLT,1/22/20,0
 Martinique,MTQ,1/22/20,0
 Mexico,MEX,1/22/20,0
@@ -67,6 +72,7 @@ North Macedonia,MKD,1/22/20,0
 Norway,NOR,1/22/20,0
 Oman,OMN,1/22/20,0
 Pakistan,PAK,1/22/20,0
+Paraguay,PRY,1/22/20,0
 Peru,PER,1/22/20,0
 Philippines,PHL,1/22/20,0
 Poland,POL,1/22/20,0
@@ -97,6 +103,7 @@ Ukraine,UKR,1/22/20,0
 United Arab Emirates,ARE,1/22/20,0
 Viet Nam,VNM,1/22/20,0
 Afghanistan,AFG,1/23/20,0
+Albania,ALB,1/23/20,0
 Algeria,DZA,1/23/20,0
 Andorra,AND,1/23/20,0
 Argentina,ARG,1/23/20,0
@@ -105,11 +112,13 @@ Australia,AUS,1/23/20,0
 Austria,AUT,1/23/20,0
 Azerbaijan,AZE,1/23/20,0
 Bahrain,BHR,1/23/20,0
+Bangladesh,BGD,1/23/20,0
 Belarus,BLR,1/23/20,0
 Belgium,BEL,1/23/20,0
 Bhutan,BTN,1/23/20,0
 Bosnia and Herzegovina,BIH,1/23/20,0
 Brazil,BRA,1/23/20,0
+Bulgaria,BGR,1/23/20,0
 Cambodia,KHM,1/23/20,0
 Cameroon,CMR,1/23/20,0
 Canada,CAN,1/23/20,0
@@ -117,6 +126,7 @@ Chile,CHL,1/23/20,0
 Colombia,COL,1/23/20,0
 Costa Rica,CRI,1/23/20,0
 Croatia,HRV,1/23/20,0
+Cyprus,CYP,1/23/20,0
 Czechia,CZE,1/23/20,0
 Denmark,DNK,1/23/20,0
 Dominican Republic,DOM,1/23/20,0
@@ -151,6 +161,7 @@ Lithuania,LTU,1/23/20,0
 Luxembourg,LUX,1/23/20,0
 Macao,MAC,1/23/20,2
 Malaysia,MYS,1/23/20,0
+Maldives,MDV,1/23/20,0
 Malta,MLT,1/23/20,0
 Martinique,MTQ,1/23/20,0
 Mexico,MEX,1/23/20,0
@@ -164,6 +175,7 @@ North Macedonia,MKD,1/23/20,0
 Norway,NOR,1/23/20,0
 Oman,OMN,1/23/20,0
 Pakistan,PAK,1/23/20,0
+Paraguay,PRY,1/23/20,0
 Peru,PER,1/23/20,0
 Philippines,PHL,1/23/20,0
 Poland,POL,1/23/20,0
@@ -194,6 +206,7 @@ Ukraine,UKR,1/23/20,0
 United Arab Emirates,ARE,1/23/20,0
 Viet Nam,VNM,1/23/20,2
 Afghanistan,AFG,1/24/20,0
+Albania,ALB,1/24/20,0
 Algeria,DZA,1/24/20,0
 Andorra,AND,1/24/20,0
 Argentina,ARG,1/24/20,0
@@ -202,11 +215,13 @@ Australia,AUS,1/24/20,0
 Austria,AUT,1/24/20,0
 Azerbaijan,AZE,1/24/20,0
 Bahrain,BHR,1/24/20,0
+Bangladesh,BGD,1/24/20,0
 Belarus,BLR,1/24/20,0
 Belgium,BEL,1/24/20,0
 Bhutan,BTN,1/24/20,0
 Bosnia and Herzegovina,BIH,1/24/20,0
 Brazil,BRA,1/24/20,0
+Bulgaria,BGR,1/24/20,0
 Cambodia,KHM,1/24/20,0
 Cameroon,CMR,1/24/20,0
 Canada,CAN,1/24/20,0
@@ -214,6 +229,7 @@ Chile,CHL,1/24/20,0
 Colombia,COL,1/24/20,0
 Costa Rica,CRI,1/24/20,0
 Croatia,HRV,1/24/20,0
+Cyprus,CYP,1/24/20,0
 Czechia,CZE,1/24/20,0
 Denmark,DNK,1/24/20,0
 Dominican Republic,DOM,1/24/20,0
@@ -248,6 +264,7 @@ Lithuania,LTU,1/24/20,0
 Luxembourg,LUX,1/24/20,0
 Macao,MAC,1/24/20,2
 Malaysia,MYS,1/24/20,0
+Maldives,MDV,1/24/20,0
 Malta,MLT,1/24/20,0
 Martinique,MTQ,1/24/20,0
 Mexico,MEX,1/24/20,0
@@ -261,6 +278,7 @@ North Macedonia,MKD,1/24/20,0
 Norway,NOR,1/24/20,0
 Oman,OMN,1/24/20,0
 Pakistan,PAK,1/24/20,0
+Paraguay,PRY,1/24/20,0
 Peru,PER,1/24/20,0
 Philippines,PHL,1/24/20,0
 Poland,POL,1/24/20,0
@@ -291,6 +309,7 @@ Ukraine,UKR,1/24/20,0
 United Arab Emirates,ARE,1/24/20,0
 Viet Nam,VNM,1/24/20,2
 Afghanistan,AFG,1/25/20,0
+Albania,ALB,1/25/20,0
 Algeria,DZA,1/25/20,0
 Andorra,AND,1/25/20,0
 Argentina,ARG,1/25/20,0
@@ -299,11 +318,13 @@ Australia,AUS,1/25/20,0
 Austria,AUT,1/25/20,0
 Azerbaijan,AZE,1/25/20,0
 Bahrain,BHR,1/25/20,0
+Bangladesh,BGD,1/25/20,0
 Belarus,BLR,1/25/20,0
 Belgium,BEL,1/25/20,0
 Bhutan,BTN,1/25/20,0
 Bosnia and Herzegovina,BIH,1/25/20,0
 Brazil,BRA,1/25/20,0
+Bulgaria,BGR,1/25/20,0
 Cambodia,KHM,1/25/20,0
 Cameroon,CMR,1/25/20,0
 Canada,CAN,1/25/20,0
@@ -311,6 +332,7 @@ Chile,CHL,1/25/20,0
 Colombia,COL,1/25/20,0
 Costa Rica,CRI,1/25/20,0
 Croatia,HRV,1/25/20,0
+Cyprus,CYP,1/25/20,0
 Czechia,CZE,1/25/20,0
 Denmark,DNK,1/25/20,0
 Dominican Republic,DOM,1/25/20,0
@@ -345,6 +367,7 @@ Lithuania,LTU,1/25/20,0
 Luxembourg,LUX,1/25/20,0
 Macao,MAC,1/25/20,2
 Malaysia,MYS,1/25/20,3
+Maldives,MDV,1/25/20,0
 Malta,MLT,1/25/20,0
 Martinique,MTQ,1/25/20,0
 Mexico,MEX,1/25/20,0
@@ -358,6 +381,7 @@ North Macedonia,MKD,1/25/20,0
 Norway,NOR,1/25/20,0
 Oman,OMN,1/25/20,0
 Pakistan,PAK,1/25/20,0
+Paraguay,PRY,1/25/20,0
 Peru,PER,1/25/20,0
 Philippines,PHL,1/25/20,0
 Poland,POL,1/25/20,0
@@ -388,6 +412,7 @@ Ukraine,UKR,1/25/20,0
 United Arab Emirates,ARE,1/25/20,0
 Viet Nam,VNM,1/25/20,2
 Afghanistan,AFG,1/26/20,0
+Albania,ALB,1/26/20,0
 Algeria,DZA,1/26/20,0
 Andorra,AND,1/26/20,0
 Argentina,ARG,1/26/20,0
@@ -396,11 +421,13 @@ Australia,AUS,1/26/20,4
 Austria,AUT,1/26/20,0
 Azerbaijan,AZE,1/26/20,0
 Bahrain,BHR,1/26/20,0
+Bangladesh,BGD,1/26/20,0
 Belarus,BLR,1/26/20,0
 Belgium,BEL,1/26/20,0
 Bhutan,BTN,1/26/20,0
 Bosnia and Herzegovina,BIH,1/26/20,0
 Brazil,BRA,1/26/20,0
+Bulgaria,BGR,1/26/20,0
 Cambodia,KHM,1/26/20,0
 Cameroon,CMR,1/26/20,0
 Canada,CAN,1/26/20,1
@@ -408,6 +435,7 @@ Chile,CHL,1/26/20,0
 Colombia,COL,1/26/20,0
 Costa Rica,CRI,1/26/20,0
 Croatia,HRV,1/26/20,0
+Cyprus,CYP,1/26/20,0
 Czechia,CZE,1/26/20,0
 Denmark,DNK,1/26/20,0
 Dominican Republic,DOM,1/26/20,0
@@ -442,6 +470,7 @@ Lithuania,LTU,1/26/20,0
 Luxembourg,LUX,1/26/20,0
 Macao,MAC,1/26/20,5
 Malaysia,MYS,1/26/20,4
+Maldives,MDV,1/26/20,0
 Malta,MLT,1/26/20,0
 Martinique,MTQ,1/26/20,0
 Mexico,MEX,1/26/20,0
@@ -455,6 +484,7 @@ North Macedonia,MKD,1/26/20,0
 Norway,NOR,1/26/20,0
 Oman,OMN,1/26/20,0
 Pakistan,PAK,1/26/20,0
+Paraguay,PRY,1/26/20,0
 Peru,PER,1/26/20,0
 Philippines,PHL,1/26/20,0
 Poland,POL,1/26/20,0
@@ -485,6 +515,7 @@ Ukraine,UKR,1/26/20,0
 United Arab Emirates,ARE,1/26/20,0
 Viet Nam,VNM,1/26/20,2
 Afghanistan,AFG,1/27/20,0
+Albania,ALB,1/27/20,0
 Algeria,DZA,1/27/20,0
 Andorra,AND,1/27/20,0
 Argentina,ARG,1/27/20,0
@@ -493,11 +524,13 @@ Australia,AUS,1/27/20,5
 Austria,AUT,1/27/20,0
 Azerbaijan,AZE,1/27/20,0
 Bahrain,BHR,1/27/20,0
+Bangladesh,BGD,1/27/20,0
 Belarus,BLR,1/27/20,0
 Belgium,BEL,1/27/20,0
 Bhutan,BTN,1/27/20,0
 Bosnia and Herzegovina,BIH,1/27/20,0
 Brazil,BRA,1/27/20,0
+Bulgaria,BGR,1/27/20,0
 Cambodia,KHM,1/27/20,1
 Cameroon,CMR,1/27/20,0
 Canada,CAN,1/27/20,1
@@ -505,6 +538,7 @@ Chile,CHL,1/27/20,0
 Colombia,COL,1/27/20,0
 Costa Rica,CRI,1/27/20,0
 Croatia,HRV,1/27/20,0
+Cyprus,CYP,1/27/20,0
 Czechia,CZE,1/27/20,0
 Denmark,DNK,1/27/20,0
 Dominican Republic,DOM,1/27/20,0
@@ -539,6 +573,7 @@ Lithuania,LTU,1/27/20,0
 Luxembourg,LUX,1/27/20,0
 Macao,MAC,1/27/20,6
 Malaysia,MYS,1/27/20,4
+Maldives,MDV,1/27/20,0
 Malta,MLT,1/27/20,0
 Martinique,MTQ,1/27/20,0
 Mexico,MEX,1/27/20,0
@@ -552,6 +587,7 @@ North Macedonia,MKD,1/27/20,0
 Norway,NOR,1/27/20,0
 Oman,OMN,1/27/20,0
 Pakistan,PAK,1/27/20,0
+Paraguay,PRY,1/27/20,0
 Peru,PER,1/27/20,0
 Philippines,PHL,1/27/20,0
 Poland,POL,1/27/20,0
@@ -582,6 +618,7 @@ Ukraine,UKR,1/27/20,0
 United Arab Emirates,ARE,1/27/20,0
 Viet Nam,VNM,1/27/20,2
 Afghanistan,AFG,1/28/20,0
+Albania,ALB,1/28/20,0
 Algeria,DZA,1/28/20,0
 Andorra,AND,1/28/20,0
 Argentina,ARG,1/28/20,0
@@ -590,11 +627,13 @@ Australia,AUS,1/28/20,5
 Austria,AUT,1/28/20,0
 Azerbaijan,AZE,1/28/20,0
 Bahrain,BHR,1/28/20,0
+Bangladesh,BGD,1/28/20,0
 Belarus,BLR,1/28/20,0
 Belgium,BEL,1/28/20,0
 Bhutan,BTN,1/28/20,0
 Bosnia and Herzegovina,BIH,1/28/20,0
 Brazil,BRA,1/28/20,0
+Bulgaria,BGR,1/28/20,0
 Cambodia,KHM,1/28/20,1
 Cameroon,CMR,1/28/20,0
 Canada,CAN,1/28/20,2
@@ -602,6 +641,7 @@ Chile,CHL,1/28/20,0
 Colombia,COL,1/28/20,0
 Costa Rica,CRI,1/28/20,0
 Croatia,HRV,1/28/20,0
+Cyprus,CYP,1/28/20,0
 Czechia,CZE,1/28/20,0
 Denmark,DNK,1/28/20,0
 Dominican Republic,DOM,1/28/20,0
@@ -636,6 +676,7 @@ Lithuania,LTU,1/28/20,0
 Luxembourg,LUX,1/28/20,0
 Macao,MAC,1/28/20,7
 Malaysia,MYS,1/28/20,4
+Maldives,MDV,1/28/20,0
 Malta,MLT,1/28/20,0
 Martinique,MTQ,1/28/20,0
 Mexico,MEX,1/28/20,0
@@ -649,6 +690,7 @@ North Macedonia,MKD,1/28/20,0
 Norway,NOR,1/28/20,0
 Oman,OMN,1/28/20,0
 Pakistan,PAK,1/28/20,0
+Paraguay,PRY,1/28/20,0
 Peru,PER,1/28/20,0
 Philippines,PHL,1/28/20,0
 Poland,POL,1/28/20,0
@@ -679,6 +721,7 @@ Ukraine,UKR,1/28/20,0
 United Arab Emirates,ARE,1/28/20,0
 Viet Nam,VNM,1/28/20,2
 Afghanistan,AFG,1/29/20,0
+Albania,ALB,1/29/20,0
 Algeria,DZA,1/29/20,0
 Andorra,AND,1/29/20,0
 Argentina,ARG,1/29/20,0
@@ -687,11 +730,13 @@ Australia,AUS,1/29/20,6
 Austria,AUT,1/29/20,0
 Azerbaijan,AZE,1/29/20,0
 Bahrain,BHR,1/29/20,0
+Bangladesh,BGD,1/29/20,0
 Belarus,BLR,1/29/20,0
 Belgium,BEL,1/29/20,0
 Bhutan,BTN,1/29/20,0
 Bosnia and Herzegovina,BIH,1/29/20,0
 Brazil,BRA,1/29/20,0
+Bulgaria,BGR,1/29/20,0
 Cambodia,KHM,1/29/20,1
 Cameroon,CMR,1/29/20,0
 Canada,CAN,1/29/20,2
@@ -699,6 +744,7 @@ Chile,CHL,1/29/20,0
 Colombia,COL,1/29/20,0
 Costa Rica,CRI,1/29/20,0
 Croatia,HRV,1/29/20,0
+Cyprus,CYP,1/29/20,0
 Czechia,CZE,1/29/20,0
 Denmark,DNK,1/29/20,0
 Dominican Republic,DOM,1/29/20,0
@@ -733,6 +779,7 @@ Lithuania,LTU,1/29/20,0
 Luxembourg,LUX,1/29/20,0
 Macao,MAC,1/29/20,7
 Malaysia,MYS,1/29/20,7
+Maldives,MDV,1/29/20,0
 Malta,MLT,1/29/20,0
 Martinique,MTQ,1/29/20,0
 Mexico,MEX,1/29/20,0
@@ -746,6 +793,7 @@ North Macedonia,MKD,1/29/20,0
 Norway,NOR,1/29/20,0
 Oman,OMN,1/29/20,0
 Pakistan,PAK,1/29/20,0
+Paraguay,PRY,1/29/20,0
 Peru,PER,1/29/20,0
 Philippines,PHL,1/29/20,0
 Poland,POL,1/29/20,0
@@ -776,6 +824,7 @@ Ukraine,UKR,1/29/20,0
 United Arab Emirates,ARE,1/29/20,4
 Viet Nam,VNM,1/29/20,2
 Afghanistan,AFG,1/30/20,0
+Albania,ALB,1/30/20,0
 Algeria,DZA,1/30/20,0
 Andorra,AND,1/30/20,0
 Argentina,ARG,1/30/20,0
@@ -784,11 +833,13 @@ Australia,AUS,1/30/20,9
 Austria,AUT,1/30/20,0
 Azerbaijan,AZE,1/30/20,0
 Bahrain,BHR,1/30/20,0
+Bangladesh,BGD,1/30/20,0
 Belarus,BLR,1/30/20,0
 Belgium,BEL,1/30/20,0
 Bhutan,BTN,1/30/20,0
 Bosnia and Herzegovina,BIH,1/30/20,0
 Brazil,BRA,1/30/20,0
+Bulgaria,BGR,1/30/20,0
 Cambodia,KHM,1/30/20,1
 Cameroon,CMR,1/30/20,0
 Canada,CAN,1/30/20,2
@@ -796,6 +847,7 @@ Chile,CHL,1/30/20,0
 Colombia,COL,1/30/20,0
 Costa Rica,CRI,1/30/20,0
 Croatia,HRV,1/30/20,0
+Cyprus,CYP,1/30/20,0
 Czechia,CZE,1/30/20,0
 Denmark,DNK,1/30/20,0
 Dominican Republic,DOM,1/30/20,0
@@ -830,6 +882,7 @@ Lithuania,LTU,1/30/20,0
 Luxembourg,LUX,1/30/20,0
 Macao,MAC,1/30/20,7
 Malaysia,MYS,1/30/20,8
+Maldives,MDV,1/30/20,0
 Malta,MLT,1/30/20,0
 Martinique,MTQ,1/30/20,0
 Mexico,MEX,1/30/20,0
@@ -843,6 +896,7 @@ North Macedonia,MKD,1/30/20,0
 Norway,NOR,1/30/20,0
 Oman,OMN,1/30/20,0
 Pakistan,PAK,1/30/20,0
+Paraguay,PRY,1/30/20,0
 Peru,PER,1/30/20,0
 Philippines,PHL,1/30/20,1
 Poland,POL,1/30/20,0
@@ -873,6 +927,7 @@ Ukraine,UKR,1/30/20,0
 United Arab Emirates,ARE,1/30/20,4
 Viet Nam,VNM,1/30/20,2
 Afghanistan,AFG,1/31/20,0
+Albania,ALB,1/31/20,0
 Algeria,DZA,1/31/20,0
 Andorra,AND,1/31/20,0
 Argentina,ARG,1/31/20,0
@@ -881,11 +936,13 @@ Australia,AUS,1/31/20,9
 Austria,AUT,1/31/20,0
 Azerbaijan,AZE,1/31/20,0
 Bahrain,BHR,1/31/20,0
+Bangladesh,BGD,1/31/20,0
 Belarus,BLR,1/31/20,0
 Belgium,BEL,1/31/20,0
 Bhutan,BTN,1/31/20,0
 Bosnia and Herzegovina,BIH,1/31/20,0
 Brazil,BRA,1/31/20,0
+Bulgaria,BGR,1/31/20,0
 Cambodia,KHM,1/31/20,1
 Cameroon,CMR,1/31/20,0
 Canada,CAN,1/31/20,4
@@ -893,6 +950,7 @@ Chile,CHL,1/31/20,0
 Colombia,COL,1/31/20,0
 Costa Rica,CRI,1/31/20,0
 Croatia,HRV,1/31/20,0
+Cyprus,CYP,1/31/20,0
 Czechia,CZE,1/31/20,0
 Denmark,DNK,1/31/20,0
 Dominican Republic,DOM,1/31/20,0
@@ -927,6 +985,7 @@ Lithuania,LTU,1/31/20,0
 Luxembourg,LUX,1/31/20,0
 Macao,MAC,1/31/20,7
 Malaysia,MYS,1/31/20,8
+Maldives,MDV,1/31/20,0
 Malta,MLT,1/31/20,0
 Martinique,MTQ,1/31/20,0
 Mexico,MEX,1/31/20,0
@@ -940,6 +999,7 @@ North Macedonia,MKD,1/31/20,0
 Norway,NOR,1/31/20,0
 Oman,OMN,1/31/20,0
 Pakistan,PAK,1/31/20,0
+Paraguay,PRY,1/31/20,0
 Peru,PER,1/31/20,0
 Philippines,PHL,1/31/20,1
 Poland,POL,1/31/20,0
@@ -970,6 +1030,7 @@ Ukraine,UKR,1/31/20,0
 United Arab Emirates,ARE,1/31/20,4
 Viet Nam,VNM,1/31/20,2
 Afghanistan,AFG,2/1/20,0
+Albania,ALB,2/1/20,0
 Algeria,DZA,2/1/20,0
 Andorra,AND,2/1/20,0
 Argentina,ARG,2/1/20,0
@@ -978,11 +1039,13 @@ Australia,AUS,2/1/20,12
 Austria,AUT,2/1/20,0
 Azerbaijan,AZE,2/1/20,0
 Bahrain,BHR,2/1/20,0
+Bangladesh,BGD,2/1/20,0
 Belarus,BLR,2/1/20,0
 Belgium,BEL,2/1/20,0
 Bhutan,BTN,2/1/20,0
 Bosnia and Herzegovina,BIH,2/1/20,0
 Brazil,BRA,2/1/20,0
+Bulgaria,BGR,2/1/20,0
 Cambodia,KHM,2/1/20,1
 Cameroon,CMR,2/1/20,0
 Canada,CAN,2/1/20,4
@@ -990,6 +1053,7 @@ Chile,CHL,2/1/20,0
 Colombia,COL,2/1/20,0
 Costa Rica,CRI,2/1/20,0
 Croatia,HRV,2/1/20,0
+Cyprus,CYP,2/1/20,0
 Czechia,CZE,2/1/20,0
 Denmark,DNK,2/1/20,0
 Dominican Republic,DOM,2/1/20,0
@@ -1024,6 +1088,7 @@ Lithuania,LTU,2/1/20,0
 Luxembourg,LUX,2/1/20,0
 Macao,MAC,2/1/20,7
 Malaysia,MYS,2/1/20,8
+Maldives,MDV,2/1/20,0
 Malta,MLT,2/1/20,0
 Martinique,MTQ,2/1/20,0
 Mexico,MEX,2/1/20,0
@@ -1037,6 +1102,7 @@ North Macedonia,MKD,2/1/20,0
 Norway,NOR,2/1/20,0
 Oman,OMN,2/1/20,0
 Pakistan,PAK,2/1/20,0
+Paraguay,PRY,2/1/20,0
 Peru,PER,2/1/20,0
 Philippines,PHL,2/1/20,1
 Poland,POL,2/1/20,0
@@ -1067,6 +1133,7 @@ Ukraine,UKR,2/1/20,0
 United Arab Emirates,ARE,2/1/20,4
 Viet Nam,VNM,2/1/20,6
 Afghanistan,AFG,2/2/20,0
+Albania,ALB,2/2/20,0
 Algeria,DZA,2/2/20,0
 Andorra,AND,2/2/20,0
 Argentina,ARG,2/2/20,0
@@ -1075,11 +1142,13 @@ Australia,AUS,2/2/20,12
 Austria,AUT,2/2/20,0
 Azerbaijan,AZE,2/2/20,0
 Bahrain,BHR,2/2/20,0
+Bangladesh,BGD,2/2/20,0
 Belarus,BLR,2/2/20,0
 Belgium,BEL,2/2/20,0
 Bhutan,BTN,2/2/20,0
 Bosnia and Herzegovina,BIH,2/2/20,0
 Brazil,BRA,2/2/20,0
+Bulgaria,BGR,2/2/20,0
 Cambodia,KHM,2/2/20,1
 Cameroon,CMR,2/2/20,0
 Canada,CAN,2/2/20,4
@@ -1087,6 +1156,7 @@ Chile,CHL,2/2/20,0
 Colombia,COL,2/2/20,0
 Costa Rica,CRI,2/2/20,0
 Croatia,HRV,2/2/20,0
+Cyprus,CYP,2/2/20,0
 Czechia,CZE,2/2/20,0
 Denmark,DNK,2/2/20,0
 Dominican Republic,DOM,2/2/20,0
@@ -1121,6 +1191,7 @@ Lithuania,LTU,2/2/20,0
 Luxembourg,LUX,2/2/20,0
 Macao,MAC,2/2/20,8
 Malaysia,MYS,2/2/20,8
+Maldives,MDV,2/2/20,0
 Malta,MLT,2/2/20,0
 Martinique,MTQ,2/2/20,0
 Mexico,MEX,2/2/20,0
@@ -1134,6 +1205,7 @@ North Macedonia,MKD,2/2/20,0
 Norway,NOR,2/2/20,0
 Oman,OMN,2/2/20,0
 Pakistan,PAK,2/2/20,0
+Paraguay,PRY,2/2/20,0
 Peru,PER,2/2/20,0
 Philippines,PHL,2/2/20,2
 Poland,POL,2/2/20,0
@@ -1164,6 +1236,7 @@ Ukraine,UKR,2/2/20,0
 United Arab Emirates,ARE,2/2/20,5
 Viet Nam,VNM,2/2/20,6
 Afghanistan,AFG,2/3/20,0
+Albania,ALB,2/3/20,0
 Algeria,DZA,2/3/20,0
 Andorra,AND,2/3/20,0
 Argentina,ARG,2/3/20,0
@@ -1172,11 +1245,13 @@ Australia,AUS,2/3/20,12
 Austria,AUT,2/3/20,0
 Azerbaijan,AZE,2/3/20,0
 Bahrain,BHR,2/3/20,0
+Bangladesh,BGD,2/3/20,0
 Belarus,BLR,2/3/20,0
 Belgium,BEL,2/3/20,0
 Bhutan,BTN,2/3/20,0
 Bosnia and Herzegovina,BIH,2/3/20,0
 Brazil,BRA,2/3/20,0
+Bulgaria,BGR,2/3/20,0
 Cambodia,KHM,2/3/20,1
 Cameroon,CMR,2/3/20,0
 Canada,CAN,2/3/20,4
@@ -1184,6 +1259,7 @@ Chile,CHL,2/3/20,0
 Colombia,COL,2/3/20,0
 Costa Rica,CRI,2/3/20,0
 Croatia,HRV,2/3/20,0
+Cyprus,CYP,2/3/20,0
 Czechia,CZE,2/3/20,0
 Denmark,DNK,2/3/20,0
 Dominican Republic,DOM,2/3/20,0
@@ -1218,6 +1294,7 @@ Lithuania,LTU,2/3/20,0
 Luxembourg,LUX,2/3/20,0
 Macao,MAC,2/3/20,8
 Malaysia,MYS,2/3/20,8
+Maldives,MDV,2/3/20,0
 Malta,MLT,2/3/20,0
 Martinique,MTQ,2/3/20,0
 Mexico,MEX,2/3/20,0
@@ -1231,6 +1308,7 @@ North Macedonia,MKD,2/3/20,0
 Norway,NOR,2/3/20,0
 Oman,OMN,2/3/20,0
 Pakistan,PAK,2/3/20,0
+Paraguay,PRY,2/3/20,0
 Peru,PER,2/3/20,0
 Philippines,PHL,2/3/20,2
 Poland,POL,2/3/20,0
@@ -1261,6 +1339,7 @@ Ukraine,UKR,2/3/20,0
 United Arab Emirates,ARE,2/3/20,5
 Viet Nam,VNM,2/3/20,8
 Afghanistan,AFG,2/4/20,0
+Albania,ALB,2/4/20,0
 Algeria,DZA,2/4/20,0
 Andorra,AND,2/4/20,0
 Argentina,ARG,2/4/20,0
@@ -1269,11 +1348,13 @@ Australia,AUS,2/4/20,13
 Austria,AUT,2/4/20,0
 Azerbaijan,AZE,2/4/20,0
 Bahrain,BHR,2/4/20,0
+Bangladesh,BGD,2/4/20,0
 Belarus,BLR,2/4/20,0
 Belgium,BEL,2/4/20,1
 Bhutan,BTN,2/4/20,0
 Bosnia and Herzegovina,BIH,2/4/20,0
 Brazil,BRA,2/4/20,0
+Bulgaria,BGR,2/4/20,0
 Cambodia,KHM,2/4/20,1
 Cameroon,CMR,2/4/20,0
 Canada,CAN,2/4/20,4
@@ -1281,6 +1362,7 @@ Chile,CHL,2/4/20,0
 Colombia,COL,2/4/20,0
 Costa Rica,CRI,2/4/20,0
 Croatia,HRV,2/4/20,0
+Cyprus,CYP,2/4/20,0
 Czechia,CZE,2/4/20,0
 Denmark,DNK,2/4/20,0
 Dominican Republic,DOM,2/4/20,0
@@ -1315,6 +1397,7 @@ Lithuania,LTU,2/4/20,0
 Luxembourg,LUX,2/4/20,0
 Macao,MAC,2/4/20,10
 Malaysia,MYS,2/4/20,10
+Maldives,MDV,2/4/20,0
 Malta,MLT,2/4/20,0
 Martinique,MTQ,2/4/20,0
 Mexico,MEX,2/4/20,0
@@ -1328,6 +1411,7 @@ North Macedonia,MKD,2/4/20,0
 Norway,NOR,2/4/20,0
 Oman,OMN,2/4/20,0
 Pakistan,PAK,2/4/20,0
+Paraguay,PRY,2/4/20,0
 Peru,PER,2/4/20,0
 Philippines,PHL,2/4/20,2
 Poland,POL,2/4/20,0
@@ -1358,6 +1442,7 @@ Ukraine,UKR,2/4/20,0
 United Arab Emirates,ARE,2/4/20,5
 Viet Nam,VNM,2/4/20,8
 Afghanistan,AFG,2/5/20,0
+Albania,ALB,2/5/20,0
 Algeria,DZA,2/5/20,0
 Andorra,AND,2/5/20,0
 Argentina,ARG,2/5/20,0
@@ -1366,11 +1451,13 @@ Australia,AUS,2/5/20,13
 Austria,AUT,2/5/20,0
 Azerbaijan,AZE,2/5/20,0
 Bahrain,BHR,2/5/20,0
+Bangladesh,BGD,2/5/20,0
 Belarus,BLR,2/5/20,0
 Belgium,BEL,2/5/20,1
 Bhutan,BTN,2/5/20,0
 Bosnia and Herzegovina,BIH,2/5/20,0
 Brazil,BRA,2/5/20,0
+Bulgaria,BGR,2/5/20,0
 Cambodia,KHM,2/5/20,1
 Cameroon,CMR,2/5/20,0
 Canada,CAN,2/5/20,5
@@ -1378,6 +1465,7 @@ Chile,CHL,2/5/20,0
 Colombia,COL,2/5/20,0
 Costa Rica,CRI,2/5/20,0
 Croatia,HRV,2/5/20,0
+Cyprus,CYP,2/5/20,0
 Czechia,CZE,2/5/20,0
 Denmark,DNK,2/5/20,0
 Dominican Republic,DOM,2/5/20,0
@@ -1412,6 +1500,7 @@ Lithuania,LTU,2/5/20,0
 Luxembourg,LUX,2/5/20,0
 Macao,MAC,2/5/20,10
 Malaysia,MYS,2/5/20,12
+Maldives,MDV,2/5/20,0
 Malta,MLT,2/5/20,0
 Martinique,MTQ,2/5/20,0
 Mexico,MEX,2/5/20,0
@@ -1425,6 +1514,7 @@ North Macedonia,MKD,2/5/20,0
 Norway,NOR,2/5/20,0
 Oman,OMN,2/5/20,0
 Pakistan,PAK,2/5/20,0
+Paraguay,PRY,2/5/20,0
 Peru,PER,2/5/20,0
 Philippines,PHL,2/5/20,2
 Poland,POL,2/5/20,0
@@ -1455,6 +1545,7 @@ Ukraine,UKR,2/5/20,0
 United Arab Emirates,ARE,2/5/20,5
 Viet Nam,VNM,2/5/20,8
 Afghanistan,AFG,2/6/20,0
+Albania,ALB,2/6/20,0
 Algeria,DZA,2/6/20,0
 Andorra,AND,2/6/20,0
 Argentina,ARG,2/6/20,0
@@ -1463,11 +1554,13 @@ Australia,AUS,2/6/20,14
 Austria,AUT,2/6/20,0
 Azerbaijan,AZE,2/6/20,0
 Bahrain,BHR,2/6/20,0
+Bangladesh,BGD,2/6/20,0
 Belarus,BLR,2/6/20,0
 Belgium,BEL,2/6/20,1
 Bhutan,BTN,2/6/20,0
 Bosnia and Herzegovina,BIH,2/6/20,0
 Brazil,BRA,2/6/20,0
+Bulgaria,BGR,2/6/20,0
 Cambodia,KHM,2/6/20,1
 Cameroon,CMR,2/6/20,0
 Canada,CAN,2/6/20,5
@@ -1475,6 +1568,7 @@ Chile,CHL,2/6/20,0
 Colombia,COL,2/6/20,0
 Costa Rica,CRI,2/6/20,0
 Croatia,HRV,2/6/20,0
+Cyprus,CYP,2/6/20,0
 Czechia,CZE,2/6/20,0
 Denmark,DNK,2/6/20,0
 Dominican Republic,DOM,2/6/20,0
@@ -1509,6 +1603,7 @@ Lithuania,LTU,2/6/20,0
 Luxembourg,LUX,2/6/20,0
 Macao,MAC,2/6/20,10
 Malaysia,MYS,2/6/20,12
+Maldives,MDV,2/6/20,0
 Malta,MLT,2/6/20,0
 Martinique,MTQ,2/6/20,0
 Mexico,MEX,2/6/20,0
@@ -1522,6 +1617,7 @@ North Macedonia,MKD,2/6/20,0
 Norway,NOR,2/6/20,0
 Oman,OMN,2/6/20,0
 Pakistan,PAK,2/6/20,0
+Paraguay,PRY,2/6/20,0
 Peru,PER,2/6/20,0
 Philippines,PHL,2/6/20,2
 Poland,POL,2/6/20,0
@@ -1552,6 +1648,7 @@ Ukraine,UKR,2/6/20,0
 United Arab Emirates,ARE,2/6/20,5
 Viet Nam,VNM,2/6/20,10
 Afghanistan,AFG,2/7/20,0
+Albania,ALB,2/7/20,0
 Algeria,DZA,2/7/20,0
 Andorra,AND,2/7/20,0
 Argentina,ARG,2/7/20,0
@@ -1560,11 +1657,13 @@ Australia,AUS,2/7/20,15
 Austria,AUT,2/7/20,0
 Azerbaijan,AZE,2/7/20,0
 Bahrain,BHR,2/7/20,0
+Bangladesh,BGD,2/7/20,0
 Belarus,BLR,2/7/20,0
 Belgium,BEL,2/7/20,1
 Bhutan,BTN,2/7/20,0
 Bosnia and Herzegovina,BIH,2/7/20,0
 Brazil,BRA,2/7/20,0
+Bulgaria,BGR,2/7/20,0
 Cambodia,KHM,2/7/20,1
 Cameroon,CMR,2/7/20,0
 Canada,CAN,2/7/20,7
@@ -1572,6 +1671,7 @@ Chile,CHL,2/7/20,0
 Colombia,COL,2/7/20,0
 Costa Rica,CRI,2/7/20,0
 Croatia,HRV,2/7/20,0
+Cyprus,CYP,2/7/20,0
 Czechia,CZE,2/7/20,0
 Denmark,DNK,2/7/20,0
 Dominican Republic,DOM,2/7/20,0
@@ -1606,6 +1706,7 @@ Lithuania,LTU,2/7/20,0
 Luxembourg,LUX,2/7/20,0
 Macao,MAC,2/7/20,10
 Malaysia,MYS,2/7/20,12
+Maldives,MDV,2/7/20,0
 Malta,MLT,2/7/20,0
 Martinique,MTQ,2/7/20,0
 Mexico,MEX,2/7/20,0
@@ -1619,6 +1720,7 @@ North Macedonia,MKD,2/7/20,0
 Norway,NOR,2/7/20,0
 Oman,OMN,2/7/20,0
 Pakistan,PAK,2/7/20,0
+Paraguay,PRY,2/7/20,0
 Peru,PER,2/7/20,0
 Philippines,PHL,2/7/20,3
 Poland,POL,2/7/20,0
@@ -1649,6 +1751,7 @@ Ukraine,UKR,2/7/20,0
 United Arab Emirates,ARE,2/7/20,5
 Viet Nam,VNM,2/7/20,10
 Afghanistan,AFG,2/8/20,0
+Albania,ALB,2/8/20,0
 Algeria,DZA,2/8/20,0
 Andorra,AND,2/8/20,0
 Argentina,ARG,2/8/20,0
@@ -1657,11 +1760,13 @@ Australia,AUS,2/8/20,15
 Austria,AUT,2/8/20,0
 Azerbaijan,AZE,2/8/20,0
 Bahrain,BHR,2/8/20,0
+Bangladesh,BGD,2/8/20,0
 Belarus,BLR,2/8/20,0
 Belgium,BEL,2/8/20,1
 Bhutan,BTN,2/8/20,0
 Bosnia and Herzegovina,BIH,2/8/20,0
 Brazil,BRA,2/8/20,0
+Bulgaria,BGR,2/8/20,0
 Cambodia,KHM,2/8/20,1
 Cameroon,CMR,2/8/20,0
 Canada,CAN,2/8/20,7
@@ -1669,6 +1774,7 @@ Chile,CHL,2/8/20,0
 Colombia,COL,2/8/20,0
 Costa Rica,CRI,2/8/20,0
 Croatia,HRV,2/8/20,0
+Cyprus,CYP,2/8/20,0
 Czechia,CZE,2/8/20,0
 Denmark,DNK,2/8/20,0
 Dominican Republic,DOM,2/8/20,0
@@ -1703,6 +1809,7 @@ Lithuania,LTU,2/8/20,0
 Luxembourg,LUX,2/8/20,0
 Macao,MAC,2/8/20,10
 Malaysia,MYS,2/8/20,16
+Maldives,MDV,2/8/20,0
 Malta,MLT,2/8/20,0
 Martinique,MTQ,2/8/20,0
 Mexico,MEX,2/8/20,0
@@ -1716,6 +1823,7 @@ North Macedonia,MKD,2/8/20,0
 Norway,NOR,2/8/20,0
 Oman,OMN,2/8/20,0
 Pakistan,PAK,2/8/20,0
+Paraguay,PRY,2/8/20,0
 Peru,PER,2/8/20,0
 Philippines,PHL,2/8/20,3
 Poland,POL,2/8/20,0
@@ -1746,6 +1854,7 @@ Ukraine,UKR,2/8/20,0
 United Arab Emirates,ARE,2/8/20,7
 Viet Nam,VNM,2/8/20,13
 Afghanistan,AFG,2/9/20,0
+Albania,ALB,2/9/20,0
 Algeria,DZA,2/9/20,0
 Andorra,AND,2/9/20,0
 Argentina,ARG,2/9/20,0
@@ -1754,11 +1863,13 @@ Australia,AUS,2/9/20,15
 Austria,AUT,2/9/20,0
 Azerbaijan,AZE,2/9/20,0
 Bahrain,BHR,2/9/20,0
+Bangladesh,BGD,2/9/20,0
 Belarus,BLR,2/9/20,0
 Belgium,BEL,2/9/20,1
 Bhutan,BTN,2/9/20,0
 Bosnia and Herzegovina,BIH,2/9/20,0
 Brazil,BRA,2/9/20,0
+Bulgaria,BGR,2/9/20,0
 Cambodia,KHM,2/9/20,1
 Cameroon,CMR,2/9/20,0
 Canada,CAN,2/9/20,7
@@ -1766,6 +1877,7 @@ Chile,CHL,2/9/20,0
 Colombia,COL,2/9/20,0
 Costa Rica,CRI,2/9/20,0
 Croatia,HRV,2/9/20,0
+Cyprus,CYP,2/9/20,0
 Czechia,CZE,2/9/20,0
 Denmark,DNK,2/9/20,0
 Dominican Republic,DOM,2/9/20,0
@@ -1800,6 +1912,7 @@ Lithuania,LTU,2/9/20,0
 Luxembourg,LUX,2/9/20,0
 Macao,MAC,2/9/20,10
 Malaysia,MYS,2/9/20,16
+Maldives,MDV,2/9/20,0
 Malta,MLT,2/9/20,0
 Martinique,MTQ,2/9/20,0
 Mexico,MEX,2/9/20,0
@@ -1813,6 +1926,7 @@ North Macedonia,MKD,2/9/20,0
 Norway,NOR,2/9/20,0
 Oman,OMN,2/9/20,0
 Pakistan,PAK,2/9/20,0
+Paraguay,PRY,2/9/20,0
 Peru,PER,2/9/20,0
 Philippines,PHL,2/9/20,3
 Poland,POL,2/9/20,0
@@ -1843,6 +1957,7 @@ Ukraine,UKR,2/9/20,0
 United Arab Emirates,ARE,2/9/20,7
 Viet Nam,VNM,2/9/20,13
 Afghanistan,AFG,2/10/20,0
+Albania,ALB,2/10/20,0
 Algeria,DZA,2/10/20,0
 Andorra,AND,2/10/20,0
 Argentina,ARG,2/10/20,0
@@ -1851,11 +1966,13 @@ Australia,AUS,2/10/20,15
 Austria,AUT,2/10/20,0
 Azerbaijan,AZE,2/10/20,0
 Bahrain,BHR,2/10/20,0
+Bangladesh,BGD,2/10/20,0
 Belarus,BLR,2/10/20,0
 Belgium,BEL,2/10/20,1
 Bhutan,BTN,2/10/20,0
 Bosnia and Herzegovina,BIH,2/10/20,0
 Brazil,BRA,2/10/20,0
+Bulgaria,BGR,2/10/20,0
 Cambodia,KHM,2/10/20,1
 Cameroon,CMR,2/10/20,0
 Canada,CAN,2/10/20,7
@@ -1863,6 +1980,7 @@ Chile,CHL,2/10/20,0
 Colombia,COL,2/10/20,0
 Costa Rica,CRI,2/10/20,0
 Croatia,HRV,2/10/20,0
+Cyprus,CYP,2/10/20,0
 Czechia,CZE,2/10/20,0
 Denmark,DNK,2/10/20,0
 Dominican Republic,DOM,2/10/20,0
@@ -1897,6 +2015,7 @@ Lithuania,LTU,2/10/20,0
 Luxembourg,LUX,2/10/20,0
 Macao,MAC,2/10/20,10
 Malaysia,MYS,2/10/20,18
+Maldives,MDV,2/10/20,0
 Malta,MLT,2/10/20,0
 Martinique,MTQ,2/10/20,0
 Mexico,MEX,2/10/20,0
@@ -1910,6 +2029,7 @@ North Macedonia,MKD,2/10/20,0
 Norway,NOR,2/10/20,0
 Oman,OMN,2/10/20,0
 Pakistan,PAK,2/10/20,0
+Paraguay,PRY,2/10/20,0
 Peru,PER,2/10/20,0
 Philippines,PHL,2/10/20,3
 Poland,POL,2/10/20,0
@@ -1940,6 +2060,7 @@ Ukraine,UKR,2/10/20,0
 United Arab Emirates,ARE,2/10/20,8
 Viet Nam,VNM,2/10/20,14
 Afghanistan,AFG,2/11/20,0
+Albania,ALB,2/11/20,0
 Algeria,DZA,2/11/20,0
 Andorra,AND,2/11/20,0
 Argentina,ARG,2/11/20,0
@@ -1948,11 +2069,13 @@ Australia,AUS,2/11/20,15
 Austria,AUT,2/11/20,0
 Azerbaijan,AZE,2/11/20,0
 Bahrain,BHR,2/11/20,0
+Bangladesh,BGD,2/11/20,0
 Belarus,BLR,2/11/20,0
 Belgium,BEL,2/11/20,1
 Bhutan,BTN,2/11/20,0
 Bosnia and Herzegovina,BIH,2/11/20,0
 Brazil,BRA,2/11/20,0
+Bulgaria,BGR,2/11/20,0
 Cambodia,KHM,2/11/20,1
 Cameroon,CMR,2/11/20,0
 Canada,CAN,2/11/20,7
@@ -1960,6 +2083,7 @@ Chile,CHL,2/11/20,0
 Colombia,COL,2/11/20,0
 Costa Rica,CRI,2/11/20,0
 Croatia,HRV,2/11/20,0
+Cyprus,CYP,2/11/20,0
 Czechia,CZE,2/11/20,0
 Denmark,DNK,2/11/20,0
 Dominican Republic,DOM,2/11/20,0
@@ -1994,6 +2118,7 @@ Lithuania,LTU,2/11/20,0
 Luxembourg,LUX,2/11/20,0
 Macao,MAC,2/11/20,10
 Malaysia,MYS,2/11/20,18
+Maldives,MDV,2/11/20,0
 Malta,MLT,2/11/20,0
 Martinique,MTQ,2/11/20,0
 Mexico,MEX,2/11/20,0
@@ -2007,6 +2132,7 @@ North Macedonia,MKD,2/11/20,0
 Norway,NOR,2/11/20,0
 Oman,OMN,2/11/20,0
 Pakistan,PAK,2/11/20,0
+Paraguay,PRY,2/11/20,0
 Peru,PER,2/11/20,0
 Philippines,PHL,2/11/20,3
 Poland,POL,2/11/20,0
@@ -2037,6 +2163,7 @@ Ukraine,UKR,2/11/20,0
 United Arab Emirates,ARE,2/11/20,8
 Viet Nam,VNM,2/11/20,15
 Afghanistan,AFG,2/12/20,0
+Albania,ALB,2/12/20,0
 Algeria,DZA,2/12/20,0
 Andorra,AND,2/12/20,0
 Argentina,ARG,2/12/20,0
@@ -2045,11 +2172,13 @@ Australia,AUS,2/12/20,15
 Austria,AUT,2/12/20,0
 Azerbaijan,AZE,2/12/20,0
 Bahrain,BHR,2/12/20,0
+Bangladesh,BGD,2/12/20,0
 Belarus,BLR,2/12/20,0
 Belgium,BEL,2/12/20,1
 Bhutan,BTN,2/12/20,0
 Bosnia and Herzegovina,BIH,2/12/20,0
 Brazil,BRA,2/12/20,0
+Bulgaria,BGR,2/12/20,0
 Cambodia,KHM,2/12/20,1
 Cameroon,CMR,2/12/20,0
 Canada,CAN,2/12/20,7
@@ -2057,6 +2186,7 @@ Chile,CHL,2/12/20,0
 Colombia,COL,2/12/20,0
 Costa Rica,CRI,2/12/20,0
 Croatia,HRV,2/12/20,0
+Cyprus,CYP,2/12/20,0
 Czechia,CZE,2/12/20,0
 Denmark,DNK,2/12/20,0
 Dominican Republic,DOM,2/12/20,0
@@ -2091,6 +2221,7 @@ Lithuania,LTU,2/12/20,0
 Luxembourg,LUX,2/12/20,0
 Macao,MAC,2/12/20,10
 Malaysia,MYS,2/12/20,18
+Maldives,MDV,2/12/20,0
 Malta,MLT,2/12/20,0
 Martinique,MTQ,2/12/20,0
 Mexico,MEX,2/12/20,0
@@ -2104,6 +2235,7 @@ North Macedonia,MKD,2/12/20,0
 Norway,NOR,2/12/20,0
 Oman,OMN,2/12/20,0
 Pakistan,PAK,2/12/20,0
+Paraguay,PRY,2/12/20,0
 Peru,PER,2/12/20,0
 Philippines,PHL,2/12/20,3
 Poland,POL,2/12/20,0
@@ -2134,6 +2266,7 @@ Ukraine,UKR,2/12/20,0
 United Arab Emirates,ARE,2/12/20,8
 Viet Nam,VNM,2/12/20,15
 Afghanistan,AFG,2/13/20,0
+Albania,ALB,2/13/20,0
 Algeria,DZA,2/13/20,0
 Andorra,AND,2/13/20,0
 Argentina,ARG,2/13/20,0
@@ -2142,11 +2275,13 @@ Australia,AUS,2/13/20,15
 Austria,AUT,2/13/20,0
 Azerbaijan,AZE,2/13/20,0
 Bahrain,BHR,2/13/20,0
+Bangladesh,BGD,2/13/20,0
 Belarus,BLR,2/13/20,0
 Belgium,BEL,2/13/20,1
 Bhutan,BTN,2/13/20,0
 Bosnia and Herzegovina,BIH,2/13/20,0
 Brazil,BRA,2/13/20,0
+Bulgaria,BGR,2/13/20,0
 Cambodia,KHM,2/13/20,1
 Cameroon,CMR,2/13/20,0
 Canada,CAN,2/13/20,7
@@ -2154,6 +2289,7 @@ Chile,CHL,2/13/20,0
 Colombia,COL,2/13/20,0
 Costa Rica,CRI,2/13/20,0
 Croatia,HRV,2/13/20,0
+Cyprus,CYP,2/13/20,0
 Czechia,CZE,2/13/20,0
 Denmark,DNK,2/13/20,0
 Dominican Republic,DOM,2/13/20,0
@@ -2188,6 +2324,7 @@ Lithuania,LTU,2/13/20,0
 Luxembourg,LUX,2/13/20,0
 Macao,MAC,2/13/20,10
 Malaysia,MYS,2/13/20,19
+Maldives,MDV,2/13/20,0
 Malta,MLT,2/13/20,0
 Martinique,MTQ,2/13/20,0
 Mexico,MEX,2/13/20,0
@@ -2201,6 +2338,7 @@ North Macedonia,MKD,2/13/20,0
 Norway,NOR,2/13/20,0
 Oman,OMN,2/13/20,0
 Pakistan,PAK,2/13/20,0
+Paraguay,PRY,2/13/20,0
 Peru,PER,2/13/20,0
 Philippines,PHL,2/13/20,3
 Poland,POL,2/13/20,0
@@ -2231,6 +2369,7 @@ Ukraine,UKR,2/13/20,0
 United Arab Emirates,ARE,2/13/20,8
 Viet Nam,VNM,2/13/20,16
 Afghanistan,AFG,2/14/20,0
+Albania,ALB,2/14/20,0
 Algeria,DZA,2/14/20,0
 Andorra,AND,2/14/20,0
 Argentina,ARG,2/14/20,0
@@ -2239,11 +2378,13 @@ Australia,AUS,2/14/20,15
 Austria,AUT,2/14/20,0
 Azerbaijan,AZE,2/14/20,0
 Bahrain,BHR,2/14/20,0
+Bangladesh,BGD,2/14/20,0
 Belarus,BLR,2/14/20,0
 Belgium,BEL,2/14/20,1
 Bhutan,BTN,2/14/20,0
 Bosnia and Herzegovina,BIH,2/14/20,0
 Brazil,BRA,2/14/20,0
+Bulgaria,BGR,2/14/20,0
 Cambodia,KHM,2/14/20,1
 Cameroon,CMR,2/14/20,0
 Canada,CAN,2/14/20,7
@@ -2251,6 +2392,7 @@ Chile,CHL,2/14/20,0
 Colombia,COL,2/14/20,0
 Costa Rica,CRI,2/14/20,0
 Croatia,HRV,2/14/20,0
+Cyprus,CYP,2/14/20,0
 Czechia,CZE,2/14/20,0
 Denmark,DNK,2/14/20,0
 Dominican Republic,DOM,2/14/20,0
@@ -2285,6 +2427,7 @@ Lithuania,LTU,2/14/20,0
 Luxembourg,LUX,2/14/20,0
 Macao,MAC,2/14/20,10
 Malaysia,MYS,2/14/20,19
+Maldives,MDV,2/14/20,0
 Malta,MLT,2/14/20,0
 Martinique,MTQ,2/14/20,0
 Mexico,MEX,2/14/20,0
@@ -2298,6 +2441,7 @@ North Macedonia,MKD,2/14/20,0
 Norway,NOR,2/14/20,0
 Oman,OMN,2/14/20,0
 Pakistan,PAK,2/14/20,0
+Paraguay,PRY,2/14/20,0
 Peru,PER,2/14/20,0
 Philippines,PHL,2/14/20,3
 Poland,POL,2/14/20,0
@@ -2328,6 +2472,7 @@ Ukraine,UKR,2/14/20,0
 United Arab Emirates,ARE,2/14/20,8
 Viet Nam,VNM,2/14/20,16
 Afghanistan,AFG,2/15/20,0
+Albania,ALB,2/15/20,0
 Algeria,DZA,2/15/20,0
 Andorra,AND,2/15/20,0
 Argentina,ARG,2/15/20,0
@@ -2336,11 +2481,13 @@ Australia,AUS,2/15/20,15
 Austria,AUT,2/15/20,0
 Azerbaijan,AZE,2/15/20,0
 Bahrain,BHR,2/15/20,0
+Bangladesh,BGD,2/15/20,0
 Belarus,BLR,2/15/20,0
 Belgium,BEL,2/15/20,1
 Bhutan,BTN,2/15/20,0
 Bosnia and Herzegovina,BIH,2/15/20,0
 Brazil,BRA,2/15/20,0
+Bulgaria,BGR,2/15/20,0
 Cambodia,KHM,2/15/20,1
 Cameroon,CMR,2/15/20,0
 Canada,CAN,2/15/20,7
@@ -2348,6 +2495,7 @@ Chile,CHL,2/15/20,0
 Colombia,COL,2/15/20,0
 Costa Rica,CRI,2/15/20,0
 Croatia,HRV,2/15/20,0
+Cyprus,CYP,2/15/20,0
 Czechia,CZE,2/15/20,0
 Denmark,DNK,2/15/20,0
 Dominican Republic,DOM,2/15/20,0
@@ -2382,6 +2530,7 @@ Lithuania,LTU,2/15/20,0
 Luxembourg,LUX,2/15/20,0
 Macao,MAC,2/15/20,10
 Malaysia,MYS,2/15/20,22
+Maldives,MDV,2/15/20,0
 Malta,MLT,2/15/20,0
 Martinique,MTQ,2/15/20,0
 Mexico,MEX,2/15/20,0
@@ -2395,6 +2544,7 @@ North Macedonia,MKD,2/15/20,0
 Norway,NOR,2/15/20,0
 Oman,OMN,2/15/20,0
 Pakistan,PAK,2/15/20,0
+Paraguay,PRY,2/15/20,0
 Peru,PER,2/15/20,0
 Philippines,PHL,2/15/20,3
 Poland,POL,2/15/20,0
@@ -2425,6 +2575,7 @@ Ukraine,UKR,2/15/20,0
 United Arab Emirates,ARE,2/15/20,8
 Viet Nam,VNM,2/15/20,16
 Afghanistan,AFG,2/16/20,0
+Albania,ALB,2/16/20,0
 Algeria,DZA,2/16/20,0
 Andorra,AND,2/16/20,0
 Argentina,ARG,2/16/20,0
@@ -2433,11 +2584,13 @@ Australia,AUS,2/16/20,15
 Austria,AUT,2/16/20,0
 Azerbaijan,AZE,2/16/20,0
 Bahrain,BHR,2/16/20,0
+Bangladesh,BGD,2/16/20,0
 Belarus,BLR,2/16/20,0
 Belgium,BEL,2/16/20,1
 Bhutan,BTN,2/16/20,0
 Bosnia and Herzegovina,BIH,2/16/20,0
 Brazil,BRA,2/16/20,0
+Bulgaria,BGR,2/16/20,0
 Cambodia,KHM,2/16/20,1
 Cameroon,CMR,2/16/20,0
 Canada,CAN,2/16/20,7
@@ -2445,6 +2598,7 @@ Chile,CHL,2/16/20,0
 Colombia,COL,2/16/20,0
 Costa Rica,CRI,2/16/20,0
 Croatia,HRV,2/16/20,0
+Cyprus,CYP,2/16/20,0
 Czechia,CZE,2/16/20,0
 Denmark,DNK,2/16/20,0
 Dominican Republic,DOM,2/16/20,0
@@ -2479,6 +2633,7 @@ Lithuania,LTU,2/16/20,0
 Luxembourg,LUX,2/16/20,0
 Macao,MAC,2/16/20,10
 Malaysia,MYS,2/16/20,22
+Maldives,MDV,2/16/20,0
 Malta,MLT,2/16/20,0
 Martinique,MTQ,2/16/20,0
 Mexico,MEX,2/16/20,0
@@ -2492,6 +2647,7 @@ North Macedonia,MKD,2/16/20,0
 Norway,NOR,2/16/20,0
 Oman,OMN,2/16/20,0
 Pakistan,PAK,2/16/20,0
+Paraguay,PRY,2/16/20,0
 Peru,PER,2/16/20,0
 Philippines,PHL,2/16/20,3
 Poland,POL,2/16/20,0
@@ -2522,6 +2678,7 @@ Ukraine,UKR,2/16/20,0
 United Arab Emirates,ARE,2/16/20,9
 Viet Nam,VNM,2/16/20,16
 Afghanistan,AFG,2/17/20,0
+Albania,ALB,2/17/20,0
 Algeria,DZA,2/17/20,0
 Andorra,AND,2/17/20,0
 Argentina,ARG,2/17/20,0
@@ -2530,11 +2687,13 @@ Australia,AUS,2/17/20,15
 Austria,AUT,2/17/20,0
 Azerbaijan,AZE,2/17/20,0
 Bahrain,BHR,2/17/20,0
+Bangladesh,BGD,2/17/20,0
 Belarus,BLR,2/17/20,0
 Belgium,BEL,2/17/20,1
 Bhutan,BTN,2/17/20,0
 Bosnia and Herzegovina,BIH,2/17/20,0
 Brazil,BRA,2/17/20,0
+Bulgaria,BGR,2/17/20,0
 Cambodia,KHM,2/17/20,1
 Cameroon,CMR,2/17/20,0
 Canada,CAN,2/17/20,8
@@ -2542,6 +2701,7 @@ Chile,CHL,2/17/20,0
 Colombia,COL,2/17/20,0
 Costa Rica,CRI,2/17/20,0
 Croatia,HRV,2/17/20,0
+Cyprus,CYP,2/17/20,0
 Czechia,CZE,2/17/20,0
 Denmark,DNK,2/17/20,0
 Dominican Republic,DOM,2/17/20,0
@@ -2576,6 +2736,7 @@ Lithuania,LTU,2/17/20,0
 Luxembourg,LUX,2/17/20,0
 Macao,MAC,2/17/20,10
 Malaysia,MYS,2/17/20,22
+Maldives,MDV,2/17/20,0
 Malta,MLT,2/17/20,0
 Martinique,MTQ,2/17/20,0
 Mexico,MEX,2/17/20,0
@@ -2589,6 +2750,7 @@ North Macedonia,MKD,2/17/20,0
 Norway,NOR,2/17/20,0
 Oman,OMN,2/17/20,0
 Pakistan,PAK,2/17/20,0
+Paraguay,PRY,2/17/20,0
 Peru,PER,2/17/20,0
 Philippines,PHL,2/17/20,3
 Poland,POL,2/17/20,0
@@ -2619,6 +2781,7 @@ Ukraine,UKR,2/17/20,0
 United Arab Emirates,ARE,2/17/20,9
 Viet Nam,VNM,2/17/20,16
 Afghanistan,AFG,2/18/20,0
+Albania,ALB,2/18/20,0
 Algeria,DZA,2/18/20,0
 Andorra,AND,2/18/20,0
 Argentina,ARG,2/18/20,0
@@ -2627,11 +2790,13 @@ Australia,AUS,2/18/20,15
 Austria,AUT,2/18/20,0
 Azerbaijan,AZE,2/18/20,0
 Bahrain,BHR,2/18/20,0
+Bangladesh,BGD,2/18/20,0
 Belarus,BLR,2/18/20,0
 Belgium,BEL,2/18/20,1
 Bhutan,BTN,2/18/20,0
 Bosnia and Herzegovina,BIH,2/18/20,0
 Brazil,BRA,2/18/20,0
+Bulgaria,BGR,2/18/20,0
 Cambodia,KHM,2/18/20,1
 Cameroon,CMR,2/18/20,0
 Canada,CAN,2/18/20,8
@@ -2639,6 +2804,7 @@ Chile,CHL,2/18/20,0
 Colombia,COL,2/18/20,0
 Costa Rica,CRI,2/18/20,0
 Croatia,HRV,2/18/20,0
+Cyprus,CYP,2/18/20,0
 Czechia,CZE,2/18/20,0
 Denmark,DNK,2/18/20,0
 Dominican Republic,DOM,2/18/20,0
@@ -2673,6 +2839,7 @@ Lithuania,LTU,2/18/20,0
 Luxembourg,LUX,2/18/20,0
 Macao,MAC,2/18/20,10
 Malaysia,MYS,2/18/20,22
+Maldives,MDV,2/18/20,0
 Malta,MLT,2/18/20,0
 Martinique,MTQ,2/18/20,0
 Mexico,MEX,2/18/20,0
@@ -2686,6 +2853,7 @@ North Macedonia,MKD,2/18/20,0
 Norway,NOR,2/18/20,0
 Oman,OMN,2/18/20,0
 Pakistan,PAK,2/18/20,0
+Paraguay,PRY,2/18/20,0
 Peru,PER,2/18/20,0
 Philippines,PHL,2/18/20,3
 Poland,POL,2/18/20,0
@@ -2716,6 +2884,7 @@ Ukraine,UKR,2/18/20,0
 United Arab Emirates,ARE,2/18/20,9
 Viet Nam,VNM,2/18/20,16
 Afghanistan,AFG,2/19/20,0
+Albania,ALB,2/19/20,0
 Algeria,DZA,2/19/20,0
 Andorra,AND,2/19/20,0
 Argentina,ARG,2/19/20,0
@@ -2724,11 +2893,13 @@ Australia,AUS,2/19/20,15
 Austria,AUT,2/19/20,0
 Azerbaijan,AZE,2/19/20,0
 Bahrain,BHR,2/19/20,0
+Bangladesh,BGD,2/19/20,0
 Belarus,BLR,2/19/20,0
 Belgium,BEL,2/19/20,1
 Bhutan,BTN,2/19/20,0
 Bosnia and Herzegovina,BIH,2/19/20,0
 Brazil,BRA,2/19/20,0
+Bulgaria,BGR,2/19/20,0
 Cambodia,KHM,2/19/20,1
 Cameroon,CMR,2/19/20,0
 Canada,CAN,2/19/20,8
@@ -2736,6 +2907,7 @@ Chile,CHL,2/19/20,0
 Colombia,COL,2/19/20,0
 Costa Rica,CRI,2/19/20,0
 Croatia,HRV,2/19/20,0
+Cyprus,CYP,2/19/20,0
 Czechia,CZE,2/19/20,0
 Denmark,DNK,2/19/20,0
 Dominican Republic,DOM,2/19/20,0
@@ -2770,6 +2942,7 @@ Lithuania,LTU,2/19/20,0
 Luxembourg,LUX,2/19/20,0
 Macao,MAC,2/19/20,10
 Malaysia,MYS,2/19/20,22
+Maldives,MDV,2/19/20,0
 Malta,MLT,2/19/20,0
 Martinique,MTQ,2/19/20,0
 Mexico,MEX,2/19/20,0
@@ -2783,6 +2956,7 @@ North Macedonia,MKD,2/19/20,0
 Norway,NOR,2/19/20,0
 Oman,OMN,2/19/20,0
 Pakistan,PAK,2/19/20,0
+Paraguay,PRY,2/19/20,0
 Peru,PER,2/19/20,0
 Philippines,PHL,2/19/20,3
 Poland,POL,2/19/20,0
@@ -2813,6 +2987,7 @@ Ukraine,UKR,2/19/20,0
 United Arab Emirates,ARE,2/19/20,9
 Viet Nam,VNM,2/19/20,16
 Afghanistan,AFG,2/20/20,0
+Albania,ALB,2/20/20,0
 Algeria,DZA,2/20/20,0
 Andorra,AND,2/20/20,0
 Argentina,ARG,2/20/20,0
@@ -2821,11 +2996,13 @@ Australia,AUS,2/20/20,15
 Austria,AUT,2/20/20,0
 Azerbaijan,AZE,2/20/20,0
 Bahrain,BHR,2/20/20,0
+Bangladesh,BGD,2/20/20,0
 Belarus,BLR,2/20/20,0
 Belgium,BEL,2/20/20,1
 Bhutan,BTN,2/20/20,0
 Bosnia and Herzegovina,BIH,2/20/20,0
 Brazil,BRA,2/20/20,0
+Bulgaria,BGR,2/20/20,0
 Cambodia,KHM,2/20/20,1
 Cameroon,CMR,2/20/20,0
 Canada,CAN,2/20/20,8
@@ -2833,6 +3010,7 @@ Chile,CHL,2/20/20,0
 Colombia,COL,2/20/20,0
 Costa Rica,CRI,2/20/20,0
 Croatia,HRV,2/20/20,0
+Cyprus,CYP,2/20/20,0
 Czechia,CZE,2/20/20,0
 Denmark,DNK,2/20/20,0
 Dominican Republic,DOM,2/20/20,0
@@ -2867,6 +3045,7 @@ Lithuania,LTU,2/20/20,0
 Luxembourg,LUX,2/20/20,0
 Macao,MAC,2/20/20,10
 Malaysia,MYS,2/20/20,22
+Maldives,MDV,2/20/20,0
 Malta,MLT,2/20/20,0
 Martinique,MTQ,2/20/20,0
 Mexico,MEX,2/20/20,0
@@ -2880,6 +3059,7 @@ North Macedonia,MKD,2/20/20,0
 Norway,NOR,2/20/20,0
 Oman,OMN,2/20/20,0
 Pakistan,PAK,2/20/20,0
+Paraguay,PRY,2/20/20,0
 Peru,PER,2/20/20,0
 Philippines,PHL,2/20/20,3
 Poland,POL,2/20/20,0
@@ -2910,6 +3090,7 @@ Ukraine,UKR,2/20/20,0
 United Arab Emirates,ARE,2/20/20,9
 Viet Nam,VNM,2/20/20,16
 Afghanistan,AFG,2/21/20,0
+Albania,ALB,2/21/20,0
 Algeria,DZA,2/21/20,0
 Andorra,AND,2/21/20,0
 Argentina,ARG,2/21/20,0
@@ -2918,11 +3099,13 @@ Australia,AUS,2/21/20,19
 Austria,AUT,2/21/20,0
 Azerbaijan,AZE,2/21/20,0
 Bahrain,BHR,2/21/20,0
+Bangladesh,BGD,2/21/20,0
 Belarus,BLR,2/21/20,0
 Belgium,BEL,2/21/20,1
 Bhutan,BTN,2/21/20,0
 Bosnia and Herzegovina,BIH,2/21/20,0
 Brazil,BRA,2/21/20,0
+Bulgaria,BGR,2/21/20,0
 Cambodia,KHM,2/21/20,1
 Cameroon,CMR,2/21/20,0
 Canada,CAN,2/21/20,9
@@ -2930,6 +3113,7 @@ Chile,CHL,2/21/20,0
 Colombia,COL,2/21/20,0
 Costa Rica,CRI,2/21/20,0
 Croatia,HRV,2/21/20,0
+Cyprus,CYP,2/21/20,0
 Czechia,CZE,2/21/20,0
 Denmark,DNK,2/21/20,0
 Dominican Republic,DOM,2/21/20,0
@@ -2964,6 +3148,7 @@ Lithuania,LTU,2/21/20,0
 Luxembourg,LUX,2/21/20,0
 Macao,MAC,2/21/20,10
 Malaysia,MYS,2/21/20,22
+Maldives,MDV,2/21/20,0
 Malta,MLT,2/21/20,0
 Martinique,MTQ,2/21/20,0
 Mexico,MEX,2/21/20,0
@@ -2977,6 +3162,7 @@ North Macedonia,MKD,2/21/20,0
 Norway,NOR,2/21/20,0
 Oman,OMN,2/21/20,0
 Pakistan,PAK,2/21/20,0
+Paraguay,PRY,2/21/20,0
 Peru,PER,2/21/20,0
 Philippines,PHL,2/21/20,3
 Poland,POL,2/21/20,0
@@ -3007,6 +3193,7 @@ Ukraine,UKR,2/21/20,0
 United Arab Emirates,ARE,2/21/20,9
 Viet Nam,VNM,2/21/20,16
 Afghanistan,AFG,2/22/20,0
+Albania,ALB,2/22/20,0
 Algeria,DZA,2/22/20,0
 Andorra,AND,2/22/20,0
 Argentina,ARG,2/22/20,0
@@ -3015,11 +3202,13 @@ Australia,AUS,2/22/20,22
 Austria,AUT,2/22/20,0
 Azerbaijan,AZE,2/22/20,0
 Bahrain,BHR,2/22/20,0
+Bangladesh,BGD,2/22/20,0
 Belarus,BLR,2/22/20,0
 Belgium,BEL,2/22/20,1
 Bhutan,BTN,2/22/20,0
 Bosnia and Herzegovina,BIH,2/22/20,0
 Brazil,BRA,2/22/20,0
+Bulgaria,BGR,2/22/20,0
 Cambodia,KHM,2/22/20,1
 Cameroon,CMR,2/22/20,0
 Canada,CAN,2/22/20,9
@@ -3027,6 +3216,7 @@ Chile,CHL,2/22/20,0
 Colombia,COL,2/22/20,0
 Costa Rica,CRI,2/22/20,0
 Croatia,HRV,2/22/20,0
+Cyprus,CYP,2/22/20,0
 Czechia,CZE,2/22/20,0
 Denmark,DNK,2/22/20,0
 Dominican Republic,DOM,2/22/20,0
@@ -3061,6 +3251,7 @@ Lithuania,LTU,2/22/20,0
 Luxembourg,LUX,2/22/20,0
 Macao,MAC,2/22/20,10
 Malaysia,MYS,2/22/20,22
+Maldives,MDV,2/22/20,0
 Malta,MLT,2/22/20,0
 Martinique,MTQ,2/22/20,0
 Mexico,MEX,2/22/20,0
@@ -3074,6 +3265,7 @@ North Macedonia,MKD,2/22/20,0
 Norway,NOR,2/22/20,0
 Oman,OMN,2/22/20,0
 Pakistan,PAK,2/22/20,0
+Paraguay,PRY,2/22/20,0
 Peru,PER,2/22/20,0
 Philippines,PHL,2/22/20,3
 Poland,POL,2/22/20,0
@@ -3104,6 +3296,7 @@ Ukraine,UKR,2/22/20,0
 United Arab Emirates,ARE,2/22/20,13
 Viet Nam,VNM,2/22/20,16
 Afghanistan,AFG,2/23/20,0
+Albania,ALB,2/23/20,0
 Algeria,DZA,2/23/20,0
 Andorra,AND,2/23/20,0
 Argentina,ARG,2/23/20,0
@@ -3112,11 +3305,13 @@ Australia,AUS,2/23/20,22
 Austria,AUT,2/23/20,0
 Azerbaijan,AZE,2/23/20,0
 Bahrain,BHR,2/23/20,0
+Bangladesh,BGD,2/23/20,0
 Belarus,BLR,2/23/20,0
 Belgium,BEL,2/23/20,1
 Bhutan,BTN,2/23/20,0
 Bosnia and Herzegovina,BIH,2/23/20,0
 Brazil,BRA,2/23/20,0
+Bulgaria,BGR,2/23/20,0
 Cambodia,KHM,2/23/20,1
 Cameroon,CMR,2/23/20,0
 Canada,CAN,2/23/20,9
@@ -3124,6 +3319,7 @@ Chile,CHL,2/23/20,0
 Colombia,COL,2/23/20,0
 Costa Rica,CRI,2/23/20,0
 Croatia,HRV,2/23/20,0
+Cyprus,CYP,2/23/20,0
 Czechia,CZE,2/23/20,0
 Denmark,DNK,2/23/20,0
 Dominican Republic,DOM,2/23/20,0
@@ -3158,6 +3354,7 @@ Lithuania,LTU,2/23/20,0
 Luxembourg,LUX,2/23/20,0
 Macao,MAC,2/23/20,10
 Malaysia,MYS,2/23/20,22
+Maldives,MDV,2/23/20,0
 Malta,MLT,2/23/20,0
 Martinique,MTQ,2/23/20,0
 Mexico,MEX,2/23/20,0
@@ -3171,6 +3368,7 @@ North Macedonia,MKD,2/23/20,0
 Norway,NOR,2/23/20,0
 Oman,OMN,2/23/20,0
 Pakistan,PAK,2/23/20,0
+Paraguay,PRY,2/23/20,0
 Peru,PER,2/23/20,0
 Philippines,PHL,2/23/20,3
 Poland,POL,2/23/20,0
@@ -3201,6 +3399,7 @@ Ukraine,UKR,2/23/20,0
 United Arab Emirates,ARE,2/23/20,13
 Viet Nam,VNM,2/23/20,16
 Afghanistan,AFG,2/24/20,1
+Albania,ALB,2/24/20,0
 Algeria,DZA,2/24/20,0
 Andorra,AND,2/24/20,0
 Argentina,ARG,2/24/20,0
@@ -3209,11 +3408,13 @@ Australia,AUS,2/24/20,22
 Austria,AUT,2/24/20,0
 Azerbaijan,AZE,2/24/20,0
 Bahrain,BHR,2/24/20,1
+Bangladesh,BGD,2/24/20,0
 Belarus,BLR,2/24/20,0
 Belgium,BEL,2/24/20,1
 Bhutan,BTN,2/24/20,0
 Bosnia and Herzegovina,BIH,2/24/20,0
 Brazil,BRA,2/24/20,0
+Bulgaria,BGR,2/24/20,0
 Cambodia,KHM,2/24/20,1
 Cameroon,CMR,2/24/20,0
 Canada,CAN,2/24/20,10
@@ -3221,6 +3422,7 @@ Chile,CHL,2/24/20,0
 Colombia,COL,2/24/20,0
 Costa Rica,CRI,2/24/20,0
 Croatia,HRV,2/24/20,0
+Cyprus,CYP,2/24/20,0
 Czechia,CZE,2/24/20,0
 Denmark,DNK,2/24/20,0
 Dominican Republic,DOM,2/24/20,0
@@ -3255,6 +3457,7 @@ Lithuania,LTU,2/24/20,0
 Luxembourg,LUX,2/24/20,0
 Macao,MAC,2/24/20,10
 Malaysia,MYS,2/24/20,22
+Maldives,MDV,2/24/20,0
 Malta,MLT,2/24/20,0
 Martinique,MTQ,2/24/20,0
 Mexico,MEX,2/24/20,0
@@ -3268,6 +3471,7 @@ North Macedonia,MKD,2/24/20,0
 Norway,NOR,2/24/20,0
 Oman,OMN,2/24/20,2
 Pakistan,PAK,2/24/20,0
+Paraguay,PRY,2/24/20,0
 Peru,PER,2/24/20,0
 Philippines,PHL,2/24/20,3
 Poland,POL,2/24/20,0
@@ -3298,6 +3502,7 @@ Ukraine,UKR,2/24/20,0
 United Arab Emirates,ARE,2/24/20,13
 Viet Nam,VNM,2/24/20,16
 Afghanistan,AFG,2/25/20,1
+Albania,ALB,2/25/20,0
 Algeria,DZA,2/25/20,1
 Andorra,AND,2/25/20,0
 Argentina,ARG,2/25/20,0
@@ -3306,11 +3511,13 @@ Australia,AUS,2/25/20,22
 Austria,AUT,2/25/20,2
 Azerbaijan,AZE,2/25/20,0
 Bahrain,BHR,2/25/20,23
+Bangladesh,BGD,2/25/20,0
 Belarus,BLR,2/25/20,0
 Belgium,BEL,2/25/20,1
 Bhutan,BTN,2/25/20,0
 Bosnia and Herzegovina,BIH,2/25/20,0
 Brazil,BRA,2/25/20,0
+Bulgaria,BGR,2/25/20,0
 Cambodia,KHM,2/25/20,1
 Cameroon,CMR,2/25/20,0
 Canada,CAN,2/25/20,11
@@ -3318,6 +3525,7 @@ Chile,CHL,2/25/20,0
 Colombia,COL,2/25/20,0
 Costa Rica,CRI,2/25/20,0
 Croatia,HRV,2/25/20,1
+Cyprus,CYP,2/25/20,0
 Czechia,CZE,2/25/20,0
 Denmark,DNK,2/25/20,0
 Dominican Republic,DOM,2/25/20,0
@@ -3352,6 +3560,7 @@ Lithuania,LTU,2/25/20,0
 Luxembourg,LUX,2/25/20,0
 Macao,MAC,2/25/20,10
 Malaysia,MYS,2/25/20,22
+Maldives,MDV,2/25/20,0
 Malta,MLT,2/25/20,0
 Martinique,MTQ,2/25/20,0
 Mexico,MEX,2/25/20,0
@@ -3365,6 +3574,7 @@ North Macedonia,MKD,2/25/20,0
 Norway,NOR,2/25/20,0
 Oman,OMN,2/25/20,2
 Pakistan,PAK,2/25/20,0
+Paraguay,PRY,2/25/20,0
 Peru,PER,2/25/20,0
 Philippines,PHL,2/25/20,3
 Poland,POL,2/25/20,0
@@ -3395,6 +3605,7 @@ Ukraine,UKR,2/25/20,0
 United Arab Emirates,ARE,2/25/20,13
 Viet Nam,VNM,2/25/20,16
 Afghanistan,AFG,2/26/20,1
+Albania,ALB,2/26/20,0
 Algeria,DZA,2/26/20,1
 Andorra,AND,2/26/20,0
 Argentina,ARG,2/26/20,0
@@ -3403,11 +3614,13 @@ Australia,AUS,2/26/20,22
 Austria,AUT,2/26/20,2
 Azerbaijan,AZE,2/26/20,0
 Bahrain,BHR,2/26/20,33
+Bangladesh,BGD,2/26/20,0
 Belarus,BLR,2/26/20,0
 Belgium,BEL,2/26/20,1
 Bhutan,BTN,2/26/20,0
 Bosnia and Herzegovina,BIH,2/26/20,0
 Brazil,BRA,2/26/20,1
+Bulgaria,BGR,2/26/20,0
 Cambodia,KHM,2/26/20,1
 Cameroon,CMR,2/26/20,0
 Canada,CAN,2/26/20,11
@@ -3415,6 +3628,7 @@ Chile,CHL,2/26/20,0
 Colombia,COL,2/26/20,0
 Costa Rica,CRI,2/26/20,0
 Croatia,HRV,2/26/20,3
+Cyprus,CYP,2/26/20,0
 Czechia,CZE,2/26/20,0
 Denmark,DNK,2/26/20,0
 Dominican Republic,DOM,2/26/20,0
@@ -3449,6 +3663,7 @@ Lithuania,LTU,2/26/20,0
 Luxembourg,LUX,2/26/20,0
 Macao,MAC,2/26/20,10
 Malaysia,MYS,2/26/20,22
+Maldives,MDV,2/26/20,0
 Malta,MLT,2/26/20,0
 Martinique,MTQ,2/26/20,0
 Mexico,MEX,2/26/20,0
@@ -3462,6 +3677,7 @@ North Macedonia,MKD,2/26/20,1
 Norway,NOR,2/26/20,1
 Oman,OMN,2/26/20,4
 Pakistan,PAK,2/26/20,2
+Paraguay,PRY,2/26/20,0
 Peru,PER,2/26/20,0
 Philippines,PHL,2/26/20,3
 Poland,POL,2/26/20,0
@@ -3492,6 +3708,7 @@ Ukraine,UKR,2/26/20,0
 United Arab Emirates,ARE,2/26/20,13
 Viet Nam,VNM,2/26/20,16
 Afghanistan,AFG,2/27/20,1
+Albania,ALB,2/27/20,0
 Algeria,DZA,2/27/20,1
 Andorra,AND,2/27/20,0
 Argentina,ARG,2/27/20,0
@@ -3500,11 +3717,13 @@ Australia,AUS,2/27/20,23
 Austria,AUT,2/27/20,3
 Azerbaijan,AZE,2/27/20,0
 Bahrain,BHR,2/27/20,33
+Bangladesh,BGD,2/27/20,0
 Belarus,BLR,2/27/20,0
 Belgium,BEL,2/27/20,1
 Bhutan,BTN,2/27/20,0
 Bosnia and Herzegovina,BIH,2/27/20,0
 Brazil,BRA,2/27/20,1
+Bulgaria,BGR,2/27/20,0
 Cambodia,KHM,2/27/20,1
 Cameroon,CMR,2/27/20,0
 Canada,CAN,2/27/20,13
@@ -3512,6 +3731,7 @@ Chile,CHL,2/27/20,0
 Colombia,COL,2/27/20,0
 Costa Rica,CRI,2/27/20,0
 Croatia,HRV,2/27/20,3
+Cyprus,CYP,2/27/20,0
 Czechia,CZE,2/27/20,0
 Denmark,DNK,2/27/20,1
 Dominican Republic,DOM,2/27/20,0
@@ -3546,6 +3766,7 @@ Lithuania,LTU,2/27/20,0
 Luxembourg,LUX,2/27/20,0
 Macao,MAC,2/27/20,10
 Malaysia,MYS,2/27/20,23
+Maldives,MDV,2/27/20,0
 Malta,MLT,2/27/20,0
 Martinique,MTQ,2/27/20,0
 Mexico,MEX,2/27/20,0
@@ -3559,6 +3780,7 @@ North Macedonia,MKD,2/27/20,1
 Norway,NOR,2/27/20,1
 Oman,OMN,2/27/20,4
 Pakistan,PAK,2/27/20,2
+Paraguay,PRY,2/27/20,0
 Peru,PER,2/27/20,0
 Philippines,PHL,2/27/20,3
 Poland,POL,2/27/20,0
@@ -3589,6 +3811,7 @@ Ukraine,UKR,2/27/20,0
 United Arab Emirates,ARE,2/27/20,13
 Viet Nam,VNM,2/27/20,16
 Afghanistan,AFG,2/28/20,1
+Albania,ALB,2/28/20,0
 Algeria,DZA,2/28/20,1
 Andorra,AND,2/28/20,0
 Argentina,ARG,2/28/20,0
@@ -3597,11 +3820,13 @@ Australia,AUS,2/28/20,23
 Austria,AUT,2/28/20,3
 Azerbaijan,AZE,2/28/20,0
 Bahrain,BHR,2/28/20,36
+Bangladesh,BGD,2/28/20,0
 Belarus,BLR,2/28/20,1
 Belgium,BEL,2/28/20,1
 Bhutan,BTN,2/28/20,0
 Bosnia and Herzegovina,BIH,2/28/20,0
 Brazil,BRA,2/28/20,1
+Bulgaria,BGR,2/28/20,0
 Cambodia,KHM,2/28/20,1
 Cameroon,CMR,2/28/20,0
 Canada,CAN,2/28/20,14
@@ -3609,6 +3834,7 @@ Chile,CHL,2/28/20,0
 Colombia,COL,2/28/20,0
 Costa Rica,CRI,2/28/20,0
 Croatia,HRV,2/28/20,5
+Cyprus,CYP,2/28/20,0
 Czechia,CZE,2/28/20,0
 Denmark,DNK,2/28/20,1
 Dominican Republic,DOM,2/28/20,0
@@ -3643,6 +3869,7 @@ Lithuania,LTU,2/28/20,1
 Luxembourg,LUX,2/28/20,0
 Macao,MAC,2/28/20,10
 Malaysia,MYS,2/28/20,23
+Maldives,MDV,2/28/20,0
 Malta,MLT,2/28/20,0
 Martinique,MTQ,2/28/20,0
 Mexico,MEX,2/28/20,1
@@ -3656,6 +3883,7 @@ North Macedonia,MKD,2/28/20,1
 Norway,NOR,2/28/20,6
 Oman,OMN,2/28/20,4
 Pakistan,PAK,2/28/20,2
+Paraguay,PRY,2/28/20,0
 Peru,PER,2/28/20,0
 Philippines,PHL,2/28/20,3
 Poland,POL,2/28/20,0
@@ -3686,6 +3914,7 @@ Ukraine,UKR,2/28/20,0
 United Arab Emirates,ARE,2/28/20,19
 Viet Nam,VNM,2/28/20,16
 Afghanistan,AFG,2/29/20,1
+Albania,ALB,2/29/20,0
 Algeria,DZA,2/29/20,1
 Andorra,AND,2/29/20,0
 Argentina,ARG,2/29/20,0
@@ -3694,11 +3923,13 @@ Australia,AUS,2/29/20,25
 Austria,AUT,2/29/20,9
 Azerbaijan,AZE,2/29/20,0
 Bahrain,BHR,2/29/20,41
+Bangladesh,BGD,2/29/20,0
 Belarus,BLR,2/29/20,1
 Belgium,BEL,2/29/20,1
 Bhutan,BTN,2/29/20,0
 Bosnia and Herzegovina,BIH,2/29/20,0
 Brazil,BRA,2/29/20,2
+Bulgaria,BGR,2/29/20,0
 Cambodia,KHM,2/29/20,1
 Cameroon,CMR,2/29/20,0
 Canada,CAN,2/29/20,20
@@ -3706,6 +3937,7 @@ Chile,CHL,2/29/20,0
 Colombia,COL,2/29/20,0
 Costa Rica,CRI,2/29/20,0
 Croatia,HRV,2/29/20,6
+Cyprus,CYP,2/29/20,0
 Czechia,CZE,2/29/20,0
 Denmark,DNK,2/29/20,3
 Dominican Republic,DOM,2/29/20,0
@@ -3740,6 +3972,7 @@ Lithuania,LTU,2/29/20,1
 Luxembourg,LUX,2/29/20,1
 Macao,MAC,2/29/20,10
 Malaysia,MYS,2/29/20,25
+Maldives,MDV,2/29/20,0
 Malta,MLT,2/29/20,0
 Martinique,MTQ,2/29/20,0
 Mexico,MEX,2/29/20,4
@@ -3753,6 +3986,7 @@ North Macedonia,MKD,2/29/20,1
 Norway,NOR,2/29/20,15
 Oman,OMN,2/29/20,6
 Pakistan,PAK,2/29/20,4
+Paraguay,PRY,2/29/20,0
 Peru,PER,2/29/20,0
 Philippines,PHL,2/29/20,3
 Poland,POL,2/29/20,0
@@ -3783,6 +4017,7 @@ Ukraine,UKR,2/29/20,0
 United Arab Emirates,ARE,2/29/20,21
 Viet Nam,VNM,2/29/20,16
 Afghanistan,AFG,3/1/20,1
+Albania,ALB,3/1/20,0
 Algeria,DZA,3/1/20,1
 Andorra,AND,3/1/20,0
 Argentina,ARG,3/1/20,0
@@ -3791,11 +4026,13 @@ Australia,AUS,3/1/20,27
 Austria,AUT,3/1/20,14
 Azerbaijan,AZE,3/1/20,3
 Bahrain,BHR,3/1/20,47
+Bangladesh,BGD,3/1/20,0
 Belarus,BLR,3/1/20,1
 Belgium,BEL,3/1/20,2
 Bhutan,BTN,3/1/20,0
 Bosnia and Herzegovina,BIH,3/1/20,0
 Brazil,BRA,3/1/20,2
+Bulgaria,BGR,3/1/20,0
 Cambodia,KHM,3/1/20,1
 Cameroon,CMR,3/1/20,0
 Canada,CAN,3/1/20,24
@@ -3803,6 +4040,7 @@ Chile,CHL,3/1/20,0
 Colombia,COL,3/1/20,0
 Costa Rica,CRI,3/1/20,0
 Croatia,HRV,3/1/20,7
+Cyprus,CYP,3/1/20,0
 Czechia,CZE,3/1/20,3
 Denmark,DNK,3/1/20,4
 Dominican Republic,DOM,3/1/20,1
@@ -3837,6 +4075,7 @@ Lithuania,LTU,3/1/20,1
 Luxembourg,LUX,3/1/20,1
 Macao,MAC,3/1/20,10
 Malaysia,MYS,3/1/20,29
+Maldives,MDV,3/1/20,0
 Malta,MLT,3/1/20,0
 Martinique,MTQ,3/1/20,0
 Mexico,MEX,3/1/20,5
@@ -3850,6 +4089,7 @@ North Macedonia,MKD,3/1/20,1
 Norway,NOR,3/1/20,19
 Oman,OMN,3/1/20,6
 Pakistan,PAK,3/1/20,4
+Paraguay,PRY,3/1/20,0
 Peru,PER,3/1/20,0
 Philippines,PHL,3/1/20,3
 Poland,POL,3/1/20,0
@@ -3880,6 +4120,7 @@ Ukraine,UKR,3/1/20,0
 United Arab Emirates,ARE,3/1/20,21
 Viet Nam,VNM,3/1/20,16
 Afghanistan,AFG,3/2/20,1
+Albania,ALB,3/2/20,0
 Algeria,DZA,3/2/20,3
 Andorra,AND,3/2/20,1
 Argentina,ARG,3/2/20,0
@@ -3888,11 +4129,13 @@ Australia,AUS,3/2/20,30
 Austria,AUT,3/2/20,18
 Azerbaijan,AZE,3/2/20,3
 Bahrain,BHR,3/2/20,49
+Bangladesh,BGD,3/2/20,0
 Belarus,BLR,3/2/20,1
 Belgium,BEL,3/2/20,8
 Bhutan,BTN,3/2/20,0
 Bosnia and Herzegovina,BIH,3/2/20,0
 Brazil,BRA,3/2/20,2
+Bulgaria,BGR,3/2/20,0
 Cambodia,KHM,3/2/20,1
 Cameroon,CMR,3/2/20,0
 Canada,CAN,3/2/20,27
@@ -3900,6 +4143,7 @@ Chile,CHL,3/2/20,0
 Colombia,COL,3/2/20,0
 Costa Rica,CRI,3/2/20,0
 Croatia,HRV,3/2/20,7
+Cyprus,CYP,3/2/20,0
 Czechia,CZE,3/2/20,3
 Denmark,DNK,3/2/20,4
 Dominican Republic,DOM,3/2/20,1
@@ -3934,6 +4178,7 @@ Lithuania,LTU,3/2/20,1
 Luxembourg,LUX,3/2/20,1
 Macao,MAC,3/2/20,10
 Malaysia,MYS,3/2/20,29
+Maldives,MDV,3/2/20,0
 Malta,MLT,3/2/20,0
 Martinique,MTQ,3/2/20,0
 Mexico,MEX,3/2/20,5
@@ -3947,6 +4192,7 @@ North Macedonia,MKD,3/2/20,1
 Norway,NOR,3/2/20,25
 Oman,OMN,3/2/20,6
 Pakistan,PAK,3/2/20,4
+Paraguay,PRY,3/2/20,0
 Peru,PER,3/2/20,0
 Philippines,PHL,3/2/20,3
 Poland,POL,3/2/20,0
@@ -3977,6 +4223,7 @@ Ukraine,UKR,3/2/20,0
 United Arab Emirates,ARE,3/2/20,21
 Viet Nam,VNM,3/2/20,16
 Afghanistan,AFG,3/3/20,1
+Albania,ALB,3/3/20,0
 Algeria,DZA,3/3/20,5
 Andorra,AND,3/3/20,1
 Argentina,ARG,3/3/20,1
@@ -3985,11 +4232,13 @@ Australia,AUS,3/3/20,39
 Austria,AUT,3/3/20,21
 Azerbaijan,AZE,3/3/20,3
 Bahrain,BHR,3/3/20,49
+Bangladesh,BGD,3/3/20,0
 Belarus,BLR,3/3/20,1
 Belgium,BEL,3/3/20,13
 Bhutan,BTN,3/3/20,0
 Bosnia and Herzegovina,BIH,3/3/20,0
 Brazil,BRA,3/3/20,2
+Bulgaria,BGR,3/3/20,0
 Cambodia,KHM,3/3/20,1
 Cameroon,CMR,3/3/20,0
 Canada,CAN,3/3/20,30
@@ -3997,6 +4246,7 @@ Chile,CHL,3/3/20,1
 Colombia,COL,3/3/20,0
 Costa Rica,CRI,3/3/20,0
 Croatia,HRV,3/3/20,9
+Cyprus,CYP,3/3/20,0
 Czechia,CZE,3/3/20,5
 Denmark,DNK,3/3/20,6
 Dominican Republic,DOM,3/3/20,1
@@ -4031,6 +4281,7 @@ Lithuania,LTU,3/3/20,1
 Luxembourg,LUX,3/3/20,1
 Macao,MAC,3/3/20,10
 Malaysia,MYS,3/3/20,36
+Maldives,MDV,3/3/20,0
 Malta,MLT,3/3/20,0
 Martinique,MTQ,3/3/20,0
 Mexico,MEX,3/3/20,5
@@ -4044,6 +4295,7 @@ North Macedonia,MKD,3/3/20,1
 Norway,NOR,3/3/20,32
 Oman,OMN,3/3/20,12
 Pakistan,PAK,3/3/20,5
+Paraguay,PRY,3/3/20,0
 Peru,PER,3/3/20,0
 Philippines,PHL,3/3/20,3
 Poland,POL,3/3/20,0
@@ -4074,6 +4326,7 @@ Ukraine,UKR,3/3/20,1
 United Arab Emirates,ARE,3/3/20,27
 Viet Nam,VNM,3/3/20,16
 Afghanistan,AFG,3/4/20,1
+Albania,ALB,3/4/20,0
 Algeria,DZA,3/4/20,12
 Andorra,AND,3/4/20,1
 Argentina,ARG,3/4/20,1
@@ -4082,11 +4335,13 @@ Australia,AUS,3/4/20,52
 Austria,AUT,3/4/20,29
 Azerbaijan,AZE,3/4/20,3
 Bahrain,BHR,3/4/20,52
+Bangladesh,BGD,3/4/20,0
 Belarus,BLR,3/4/20,6
 Belgium,BEL,3/4/20,23
 Bhutan,BTN,3/4/20,0
 Bosnia and Herzegovina,BIH,3/4/20,0
 Brazil,BRA,3/4/20,4
+Bulgaria,BGR,3/4/20,0
 Cambodia,KHM,3/4/20,1
 Cameroon,CMR,3/4/20,0
 Canada,CAN,3/4/20,33
@@ -4094,6 +4349,7 @@ Chile,CHL,3/4/20,1
 Colombia,COL,3/4/20,0
 Costa Rica,CRI,3/4/20,0
 Croatia,HRV,3/4/20,10
+Cyprus,CYP,3/4/20,0
 Czechia,CZE,3/4/20,8
 Denmark,DNK,3/4/20,10
 Dominican Republic,DOM,3/4/20,1
@@ -4128,6 +4384,7 @@ Lithuania,LTU,3/4/20,1
 Luxembourg,LUX,3/4/20,1
 Macao,MAC,3/4/20,10
 Malaysia,MYS,3/4/20,50
+Maldives,MDV,3/4/20,0
 Malta,MLT,3/4/20,0
 Martinique,MTQ,3/4/20,0
 Mexico,MEX,3/4/20,5
@@ -4141,6 +4398,7 @@ North Macedonia,MKD,3/4/20,1
 Norway,NOR,3/4/20,56
 Oman,OMN,3/4/20,15
 Pakistan,PAK,3/4/20,5
+Paraguay,PRY,3/4/20,0
 Peru,PER,3/4/20,0
 Philippines,PHL,3/4/20,3
 Poland,POL,3/4/20,1
@@ -4171,6 +4429,7 @@ Ukraine,UKR,3/4/20,1
 United Arab Emirates,ARE,3/4/20,27
 Viet Nam,VNM,3/4/20,16
 Afghanistan,AFG,3/5/20,1
+Albania,ALB,3/5/20,0
 Algeria,DZA,3/5/20,12
 Andorra,AND,3/5/20,1
 Argentina,ARG,3/5/20,1
@@ -4179,11 +4438,13 @@ Australia,AUS,3/5/20,55
 Austria,AUT,3/5/20,41
 Azerbaijan,AZE,3/5/20,6
 Bahrain,BHR,3/5/20,55
+Bangladesh,BGD,3/5/20,0
 Belarus,BLR,3/5/20,6
 Belgium,BEL,3/5/20,50
 Bhutan,BTN,3/5/20,0
 Bosnia and Herzegovina,BIH,3/5/20,2
 Brazil,BRA,3/5/20,4
+Bulgaria,BGR,3/5/20,0
 Cambodia,KHM,3/5/20,1
 Cameroon,CMR,3/5/20,0
 Canada,CAN,3/5/20,37
@@ -4191,6 +4452,7 @@ Chile,CHL,3/5/20,4
 Colombia,COL,3/5/20,0
 Costa Rica,CRI,3/5/20,0
 Croatia,HRV,3/5/20,10
+Cyprus,CYP,3/5/20,0
 Czechia,CZE,3/5/20,12
 Denmark,DNK,3/5/20,10
 Dominican Republic,DOM,3/5/20,1
@@ -4225,6 +4487,7 @@ Lithuania,LTU,3/5/20,1
 Luxembourg,LUX,3/5/20,1
 Macao,MAC,3/5/20,10
 Malaysia,MYS,3/5/20,50
+Maldives,MDV,3/5/20,0
 Malta,MLT,3/5/20,0
 Martinique,MTQ,3/5/20,0
 Mexico,MEX,3/5/20,5
@@ -4238,6 +4501,7 @@ North Macedonia,MKD,3/5/20,1
 Norway,NOR,3/5/20,87
 Oman,OMN,3/5/20,16
 Pakistan,PAK,3/5/20,5
+Paraguay,PRY,3/5/20,0
 Peru,PER,3/5/20,0
 Philippines,PHL,3/5/20,3
 Poland,POL,3/5/20,1
@@ -4268,6 +4532,7 @@ Ukraine,UKR,3/5/20,1
 United Arab Emirates,ARE,3/5/20,29
 Viet Nam,VNM,3/5/20,16
 Afghanistan,AFG,3/6/20,1
+Albania,ALB,3/6/20,0
 Algeria,DZA,3/6/20,17
 Andorra,AND,3/6/20,1
 Argentina,ARG,3/6/20,2
@@ -4276,11 +4541,13 @@ Australia,AUS,3/6/20,60
 Austria,AUT,3/6/20,55
 Azerbaijan,AZE,3/6/20,6
 Bahrain,BHR,3/6/20,60
+Bangladesh,BGD,3/6/20,0
 Belarus,BLR,3/6/20,6
 Belgium,BEL,3/6/20,109
 Bhutan,BTN,3/6/20,1
 Bosnia and Herzegovina,BIH,3/6/20,2
 Brazil,BRA,3/6/20,13
+Bulgaria,BGR,3/6/20,0
 Cambodia,KHM,3/6/20,1
 Cameroon,CMR,3/6/20,1
 Canada,CAN,3/6/20,49
@@ -4288,6 +4555,7 @@ Chile,CHL,3/6/20,4
 Colombia,COL,3/6/20,1
 Costa Rica,CRI,3/6/20,1
 Croatia,HRV,3/6/20,11
+Cyprus,CYP,3/6/20,0
 Czechia,CZE,3/6/20,18
 Denmark,DNK,3/6/20,23
 Dominican Republic,DOM,3/6/20,2
@@ -4322,6 +4590,7 @@ Lithuania,LTU,3/6/20,1
 Luxembourg,LUX,3/6/20,2
 Macao,MAC,3/6/20,10
 Malaysia,MYS,3/6/20,83
+Maldives,MDV,3/6/20,0
 Malta,MLT,3/6/20,0
 Martinique,MTQ,3/6/20,0
 Mexico,MEX,3/6/20,6
@@ -4335,6 +4604,7 @@ North Macedonia,MKD,3/6/20,3
 Norway,NOR,3/6/20,108
 Oman,OMN,3/6/20,16
 Pakistan,PAK,3/6/20,6
+Paraguay,PRY,3/6/20,0
 Peru,PER,3/6/20,1
 Philippines,PHL,3/6/20,5
 Poland,POL,3/6/20,5
@@ -4365,6 +4635,7 @@ Ukraine,UKR,3/6/20,1
 United Arab Emirates,ARE,3/6/20,29
 Viet Nam,VNM,3/6/20,16
 Afghanistan,AFG,3/7/20,1
+Albania,ALB,3/7/20,0
 Algeria,DZA,3/7/20,17
 Andorra,AND,3/7/20,1
 Argentina,ARG,3/7/20,8
@@ -4373,11 +4644,13 @@ Australia,AUS,3/7/20,63
 Austria,AUT,3/7/20,79
 Azerbaijan,AZE,3/7/20,9
 Bahrain,BHR,3/7/20,85
+Bangladesh,BGD,3/7/20,0
 Belarus,BLR,3/7/20,6
 Belgium,BEL,3/7/20,169
 Bhutan,BTN,3/7/20,1
 Bosnia and Herzegovina,BIH,3/7/20,3
 Brazil,BRA,3/7/20,13
+Bulgaria,BGR,3/7/20,0
 Cambodia,KHM,3/7/20,1
 Cameroon,CMR,3/7/20,1
 Canada,CAN,3/7/20,54
@@ -4385,6 +4658,7 @@ Chile,CHL,3/7/20,4
 Colombia,COL,3/7/20,1
 Costa Rica,CRI,3/7/20,1
 Croatia,HRV,3/7/20,12
+Cyprus,CYP,3/7/20,0
 Czechia,CZE,3/7/20,19
 Denmark,DNK,3/7/20,23
 Dominican Republic,DOM,3/7/20,2
@@ -4419,6 +4693,7 @@ Lithuania,LTU,3/7/20,1
 Luxembourg,LUX,3/7/20,2
 Macao,MAC,3/7/20,10
 Malaysia,MYS,3/7/20,93
+Maldives,MDV,3/7/20,0
 Malta,MLT,3/7/20,3
 Martinique,MTQ,3/7/20,2
 Mexico,MEX,3/7/20,6
@@ -4432,6 +4707,7 @@ North Macedonia,MKD,3/7/20,3
 Norway,NOR,3/7/20,147
 Oman,OMN,3/7/20,16
 Pakistan,PAK,3/7/20,6
+Paraguay,PRY,3/7/20,0
 Peru,PER,3/7/20,1
 Philippines,PHL,3/7/20,6
 Poland,POL,3/7/20,5
@@ -4457,7 +4733,213 @@ Thailand,THA,3/7/20,50
 Togo,TGO,3/7/20,1
 Tunisia,TUN,3/7/20,1
 United Kingdom,GBR,3/7/20,206
-United States,USA,3/7/20,417
+United States,USA,3/7/20,416
 Ukraine,UKR,3/7/20,1
 United Arab Emirates,ARE,3/7/20,45
 Viet Nam,VNM,3/7/20,18
+Afghanistan,AFG,3/8/20,4
+Albania,ALB,3/8/20,0
+Algeria,DZA,3/8/20,19
+Andorra,AND,3/8/20,1
+Argentina,ARG,3/8/20,12
+Armenia,ARM,3/8/20,1
+Australia,AUS,3/8/20,76
+Austria,AUT,3/8/20,104
+Azerbaijan,AZE,3/8/20,9
+Bahrain,BHR,3/8/20,85
+Bangladesh,BGD,3/8/20,3
+Belarus,BLR,3/8/20,6
+Belgium,BEL,3/8/20,200
+Bhutan,BTN,3/8/20,1
+Bosnia and Herzegovina,BIH,3/8/20,3
+Brazil,BRA,3/8/20,20
+Bulgaria,BGR,3/8/20,4
+Cambodia,KHM,3/8/20,2
+Cameroon,CMR,3/8/20,2
+Canada,CAN,3/8/20,64
+Chile,CHL,3/8/20,8
+Colombia,COL,3/8/20,1
+Costa Rica,CRI,3/8/20,5
+Croatia,HRV,3/8/20,12
+Cyprus,CYP,3/8/20,0
+Czechia,CZE,3/8/20,31
+Denmark,DNK,3/8/20,35
+Dominican Republic,DOM,3/8/20,5
+Ecuador,ECU,3/8/20,14
+Egypt,EGY,3/8/20,49
+Estonia,EST,3/8/20,10
+Faroe Islands,FRO,3/8/20,2
+Finland,FIN,3/8/20,23
+France,FRA,3/8/20,1126
+French Guiana,GUF,3/8/20,5
+Georgia,GEO,3/8/20,13
+Germany,DEU,3/8/20,1040
+Gibraltar,GIB,3/8/20,1
+Greece,GRC,3/8/20,73
+Hong Kong,HKG,3/8/20,114
+Hungary,HUN,3/8/20,7
+Iceland,ISL,3/8/20,50
+India,IND,3/8/20,39
+Indonesia,IDN,3/8/20,6
+"Iran, Islamic Republic of",IRN,3/8/20,6566
+Iraq,IRQ,3/8/20,60
+Ireland,IRL,3/8/20,19
+Israel,ISR,3/8/20,39
+Italy,ITA,3/8/20,7375
+Japan,JPN,3/8/20,502
+Jordan,JOR,3/8/20,1
+Kuwait,KWT,3/8/20,64
+Latvia,LVA,3/8/20,2
+Lebanon,LBN,3/8/20,32
+Liechtenstein,LIE,3/8/20,1
+Lithuania,LTU,3/8/20,1
+Luxembourg,LUX,3/8/20,3
+Macao,MAC,3/8/20,10
+Malaysia,MYS,3/8/20,99
+Maldives,MDV,3/8/20,4
+Malta,MLT,3/8/20,3
+Martinique,MTQ,3/8/20,2
+Mexico,MEX,3/8/20,7
+Monaco,MCO,3/8/20,1
+Morocco,MAR,3/8/20,2
+Nepal,NPL,3/8/20,1
+Netherlands,NLD,3/8/20,265
+New Zealand,NZL,3/8/20,5
+Nigeria,NGA,3/8/20,1
+North Macedonia,MKD,3/8/20,3
+Norway,NOR,3/8/20,176
+Oman,OMN,3/8/20,16
+Pakistan,PAK,3/8/20,6
+Paraguay,PRY,3/8/20,1
+Peru,PER,3/8/20,6
+Philippines,PHL,3/8/20,10
+Poland,POL,3/8/20,11
+Portugal,PRT,3/8/20,30
+Qatar,QAT,3/8/20,15
+Romania,ROU,3/8/20,15
+Russian Federation,RUS,3/8/20,17
+San Marino,SMR,3/8/20,36
+Saudi Arabia,SAU,3/8/20,11
+Senegal,SEN,3/8/20,4
+Serbia,SRB,3/8/20,1
+Singapore,SGP,3/8/20,150
+Slovakia,SVK,3/8/20,3
+Slovenia,SVN,3/8/20,16
+South Africa,ZAF,3/8/20,3
+"Korea, Republic of",KOR,3/8/20,7314
+Spain,ESP,3/8/20,673
+Sri Lanka,LKA,3/8/20,1
+Sweden,SWE,3/8/20,203
+Switzerland,CHE,3/8/20,337
+"Taiwan, Province of China",TWN,3/8/20,45
+Thailand,THA,3/8/20,50
+Togo,TGO,3/8/20,1
+Tunisia,TUN,3/8/20,2
+United Kingdom,GBR,3/8/20,273
+United States,USA,3/8/20,537
+Ukraine,UKR,3/8/20,1
+United Arab Emirates,ARE,3/8/20,45
+Viet Nam,VNM,3/8/20,30
+Afghanistan,AFG,3/9/20,4
+Albania,ALB,3/9/20,2
+Algeria,DZA,3/9/20,20
+Andorra,AND,3/9/20,1
+Argentina,ARG,3/9/20,12
+Armenia,ARM,3/9/20,1
+Australia,AUS,3/9/20,91
+Austria,AUT,3/9/20,131
+Azerbaijan,AZE,3/9/20,9
+Bahrain,BHR,3/9/20,95
+Bangladesh,BGD,3/9/20,3
+Belarus,BLR,3/9/20,6
+Belgium,BEL,3/9/20,239
+Bhutan,BTN,3/9/20,1
+Bosnia and Herzegovina,BIH,3/9/20,3
+Brazil,BRA,3/9/20,25
+Bulgaria,BGR,3/9/20,4
+Cambodia,KHM,3/9/20,2
+Cameroon,CMR,3/9/20,2
+Canada,CAN,3/9/20,77
+Chile,CHL,3/9/20,8
+Colombia,COL,3/9/20,1
+Costa Rica,CRI,3/9/20,9
+Croatia,HRV,3/9/20,12
+Cyprus,CYP,3/9/20,2
+Czechia,CZE,3/9/20,31
+Denmark,DNK,3/9/20,90
+Dominican Republic,DOM,3/9/20,5
+Ecuador,ECU,3/9/20,15
+Egypt,EGY,3/9/20,55
+Estonia,EST,3/9/20,10
+Faroe Islands,FRO,3/9/20,2
+Finland,FIN,3/9/20,30
+France,FRA,3/9/20,1209
+French Guiana,GUF,3/9/20,5
+Georgia,GEO,3/9/20,15
+Germany,DEU,3/9/20,1176
+Gibraltar,GIB,3/9/20,1
+Greece,GRC,3/9/20,73
+Hong Kong,HKG,3/9/20,115
+Hungary,HUN,3/9/20,9
+Iceland,ISL,3/9/20,58
+India,IND,3/9/20,43
+Indonesia,IDN,3/9/20,19
+"Iran, Islamic Republic of",IRN,3/9/20,7161
+Iraq,IRQ,3/9/20,60
+Ireland,IRL,3/9/20,21
+Israel,ISR,3/9/20,39
+Italy,ITA,3/9/20,9172
+Japan,JPN,3/9/20,511
+Jordan,JOR,3/9/20,1
+Kuwait,KWT,3/9/20,64
+Latvia,LVA,3/9/20,6
+Lebanon,LBN,3/9/20,32
+Liechtenstein,LIE,3/9/20,1
+Lithuania,LTU,3/9/20,1
+Luxembourg,LUX,3/9/20,3
+Macao,MAC,3/9/20,10
+Malaysia,MYS,3/9/20,117
+Maldives,MDV,3/9/20,4
+Malta,MLT,3/9/20,3
+Martinique,MTQ,3/9/20,2
+Mexico,MEX,3/9/20,7
+Monaco,MCO,3/9/20,1
+Morocco,MAR,3/9/20,2
+Nepal,NPL,3/9/20,1
+Netherlands,NLD,3/9/20,321
+New Zealand,NZL,3/9/20,5
+Nigeria,NGA,3/9/20,2
+North Macedonia,MKD,3/9/20,3
+Norway,NOR,3/9/20,205
+Oman,OMN,3/9/20,16
+Pakistan,PAK,3/9/20,6
+Paraguay,PRY,3/9/20,1
+Peru,PER,3/9/20,7
+Philippines,PHL,3/9/20,20
+Poland,POL,3/9/20,16
+Portugal,PRT,3/9/20,30
+Qatar,QAT,3/9/20,18
+Romania,ROU,3/9/20,15
+Russian Federation,RUS,3/9/20,17
+San Marino,SMR,3/9/20,36
+Saudi Arabia,SAU,3/9/20,15
+Senegal,SEN,3/9/20,4
+Serbia,SRB,3/9/20,1
+Singapore,SGP,3/9/20,150
+Slovakia,SVK,3/9/20,3
+Slovenia,SVN,3/9/20,16
+South Africa,ZAF,3/9/20,3
+"Korea, Republic of",KOR,3/9/20,7478
+Spain,ESP,3/9/20,1073
+Sri Lanka,LKA,3/9/20,1
+Sweden,SWE,3/9/20,248
+Switzerland,CHE,3/9/20,374
+"Taiwan, Province of China",TWN,3/9/20,45
+Thailand,THA,3/9/20,50
+Togo,TGO,3/9/20,1
+Tunisia,TUN,3/9/20,2
+United Kingdom,GBR,3/9/20,321
+United States,USA,3/9/20,605
+Ukraine,UKR,3/9/20,1
+United Arab Emirates,ARE,3/9/20,45
+Viet Nam,VNM,3/9/20,30
