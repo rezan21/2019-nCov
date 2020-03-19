@@ -1,112 +1,153 @@
 Country/Region,timestamp,conf_cases,recov_cases,death_cases
-Afghanistan,2020-03-09,4,0,0
-Albania,2020-03-09,2,0,0
-Algeria,2020-03-09,20,0,0
-Andorra,2020-03-09,1,0,0
-Argentina,2020-03-09,12,0,1
-Armenia,2020-03-09,1,0,0
-Australia,2020-03-09,91,21,4
-Austria,2020-03-09,131,2,0
-Azerbaijan,2020-03-09,9,0,0
-Bahrain,2020-03-09,95,14,0
-Bangladesh,2020-03-09,3,0,0
-Belarus,2020-03-09,6,1,0
-Belgium,2020-03-09,239,1,0
-Bhutan,2020-03-09,1,0,0
-Bosnia and Herzegovina,2020-03-09,3,0,0
-Brazil,2020-03-09,25,0,0
-Brunei,2020-03-09,1,0,0
-Bulgaria,2020-03-09,4,0,0
-Cambodia,2020-03-09,2,1,0
-Cameroon,2020-03-09,2,0,0
-Canada,2020-03-09,77,8,1
-Chile,2020-03-09,8,0,0
-Colombia,2020-03-09,1,0,0
-Costa Rica,2020-03-09,9,0,0
-Croatia,2020-03-09,12,0,0
-Cyprus,2020-03-09,2,0,0
-Czech Republic,2020-03-09,31,0,0
-Denmark,2020-03-09,90,1,0
-Dominican Republic,2020-03-09,5,0,0
-Ecuador,2020-03-09,15,0,0
-Egypt,2020-03-09,55,12,1
-Estonia,2020-03-09,10,0,0
-Faroe Islands,2020-03-09,2,0,0
-Finland,2020-03-09,30,1,0
-France,2020-03-09,1209,12,19
-French Guiana,2020-03-09,5,0,0
-Georgia,2020-03-09,15,0,0
-Germany,2020-03-09,1176,18,2
-Gibraltar,2020-03-09,1,0,0
-Greece,2020-03-09,73,0,0
-Hong Kong,2020-03-09,115,59,3
-Hungary,2020-03-09,9,0,0
-Iceland,2020-03-09,58,0,0
-India,2020-03-09,43,3,0
-Indonesia,2020-03-09,19,0,0
-Iran,2020-03-09,7161,2394,237
-Iraq,2020-03-09,60,9,6
-Ireland,2020-03-09,21,0,0
-Israel,2020-03-09,39,2,0
-Italy,2020-03-09,9172,724,463
-Japan,2020-03-09,511,76,17
-Jordan,2020-03-09,1,0,0
-Kuwait,2020-03-09,64,1,0
-Latvia,2020-03-09,6,0,0
-Lebanon,2020-03-09,32,1,0
-Liechtenstein,2020-03-09,1,0,0
-Lithuania,2020-03-09,1,0,0
-Luxembourg,2020-03-09,3,0,0
-Macau,2020-03-09,10,10,0
-Mainland China,2020-03-09,80735,58735,3120
-Malaysia,2020-03-09,117,24,0
-Maldives,2020-03-09,4,0,0
-Malta,2020-03-09,3,0,0
-Martinique,2020-03-09,2,0,0
-Mexico,2020-03-09,7,1,0
-Moldova,2020-03-09,1,0,0
-Monaco,2020-03-09,1,0,0
-Morocco,2020-03-09,2,0,0
-Nepal,2020-03-09,1,1,0
-Netherlands,2020-03-09,321,0,3
-New Zealand,2020-03-09,5,0,0
-Nigeria,2020-03-09,2,0,0
-North Macedonia,2020-03-09,3,0,0
-Norway,2020-03-09,205,1,0
-Oman,2020-03-09,16,2,0
-Others,2020-03-09,696,40,6
-Pakistan,2020-03-09,6,1,0
-Palestine,2020-03-09,22,0,0
-Paraguay,2020-03-09,1,0,0
-Peru,2020-03-09,7,0,0
-Philippines,2020-03-09,20,1,1
-Poland,2020-03-09,16,0,0
-Portugal,2020-03-09,30,0,0
-Qatar,2020-03-09,18,0,0
-Romania,2020-03-09,15,3,0
-Russia,2020-03-09,17,3,0
-Saint Barthelemy,2020-03-09,1,0,0
-San Marino,2020-03-09,36,0,1
-Saudi Arabia,2020-03-09,15,0,0
-Senegal,2020-03-09,4,1,0
-Serbia,2020-03-09,1,0,0
-Singapore,2020-03-09,150,78,0
-Slovakia,2020-03-09,3,0,0
-Slovenia,2020-03-09,16,0,0
-South Africa,2020-03-09,3,0,0
-South Korea,2020-03-09,7478,118,53
-Spain,2020-03-09,1073,32,28
-Sri Lanka,2020-03-09,1,1,0
-St. Martin,2020-03-09,2,0,0
-Sweden,2020-03-09,248,1,0
-Switzerland,2020-03-09,374,3,2
-Taiwan,2020-03-09,45,15,1
-Thailand,2020-03-09,50,31,1
-Togo,2020-03-09,1,0,0
-Tunisia,2020-03-09,2,0,0
-UK,2020-03-09,321,18,4
-US,2020-03-09,605,8,22
-Ukraine,2020-03-09,1,0,0
-United Arab Emirates,2020-03-09,45,7,0
-Vatican City,2020-03-09,1,0,0
-Vietnam,2020-03-09,30,16,0
+Afghanistan,2020-03-18,22,1,0
+Albania,2020-03-18,59,0,2
+Algeria,2020-03-18,74,12,7
+Andorra,2020-03-18,39,1,0
+Antigua and Barbuda,2020-03-18,1,0,0
+Argentina,2020-03-18,79,3,2
+Armenia,2020-03-18,84,1,0
+Australia,2020-03-18,568,23,6
+Austria,2020-03-18,1646,9,4
+Azerbaijan,2020-03-18,28,6,1
+Bahamas,2020-03-18,1,0,0
+Bahrain,2020-03-18,256,88,1
+Bangladesh,2020-03-18,14,3,1
+Barbados,2020-03-18,2,0,0
+Belarus,2020-03-18,51,5,0
+Belgium,2020-03-18,1486,31,14
+Benin,2020-03-18,2,0,0
+Bhutan,2020-03-18,1,0,0
+"Bolivia, Plurinational State of",2020-03-18,12,0,0
+Bosnia and Herzegovina,2020-03-18,38,2,0
+Brazil,2020-03-18,372,2,3
+Brunei Darussalam,2020-03-18,68,0,0
+Bulgaria,2020-03-18,92,0,2
+Burkina Faso,2020-03-18,20,0,1
+Cambodia,2020-03-18,35,1,0
+Cameroon,2020-03-18,10,0,0
+Canada,2020-03-18,657,9,8
+Central African Republic,2020-03-18,1,0,0
+Chile,2020-03-18,238,0,0
+China,2020-03-18,81102,69755,3241
+Colombia,2020-03-18,93,1,0
+Congo,2020-03-18,1,0,0
+"Congo, The Democratic Republic of the",2020-03-18,4,0,0
+Costa Rica,2020-03-18,50,0,0
+Croatia,2020-03-18,81,4,0
+Cruise Ship,2020-03-18,712,325,7
+Cuba,2020-03-18,7,0,1
+Cyprus,2020-03-18,49,0,0
+Czechia,2020-03-18,464,3,0
+Côte d'Ivoire,2020-03-18,6,1,0
+Denmark,2020-03-18,1115,1,4
+Djibouti,2020-03-18,1,0,0
+Dominican Republic,2020-03-18,21,0,1
+Ecuador,2020-03-18,111,0,2
+Egypt,2020-03-18,196,32,6
+Equatorial Guinea,2020-03-18,4,0,0
+Estonia,2020-03-18,258,1,0
+Eswatini,2020-03-18,1,0,0
+Ethiopia,2020-03-18,6,0,0
+Finland,2020-03-18,336,10,0
+France,2020-03-18,9105,12,148
+Gabon,2020-03-18,1,0,0
+Gambia,2020-03-18,1,0,0
+Georgia,2020-03-18,38,1,0
+Germany,2020-03-18,12327,105,28
+Ghana,2020-03-18,7,0,0
+Greece,2020-03-18,418,8,5
+Greenland,2020-03-18,1,0,0
+Guatemala,2020-03-18,6,0,1
+Guinea,2020-03-18,1,0,0
+Guyana,2020-03-18,7,0,1
+Holy See,2020-03-18,1,0,0
+Honduras,2020-03-18,9,0,0
+Hungary,2020-03-18,58,2,1
+Iceland,2020-03-18,250,5,1
+India,2020-03-18,156,14,3
+Indonesia,2020-03-18,227,11,19
+"Iran, Islamic Republic of",2020-03-18,17361,5389,1135
+Iraq,2020-03-18,164,43,12
+Ireland,2020-03-18,292,5,2
+Israel,2020-03-18,433,11,0
+Italy,2020-03-18,35713,4025,2978
+Jamaica,2020-03-18,13,2,0
+Japan,2020-03-18,889,144,29
+Jordan,2020-03-18,52,1,0
+Kazakhstan,2020-03-18,35,0,0
+Kenya,2020-03-18,3,0,0
+"Korea, Republic of",2020-03-18,8413,1540,84
+Kosovo,2020-03-18,2,0,0
+Kuwait,2020-03-18,142,15,0
+Kyrgyzstan,2020-03-18,3,0,0
+Latvia,2020-03-18,71,1,0
+Lebanon,2020-03-18,133,3,3
+Liberia,2020-03-18,2,0,0
+Liechtenstein,2020-03-18,28,0,0
+Lithuania,2020-03-18,27,1,0
+Luxembourg,2020-03-18,203,0,2
+Malaysia,2020-03-18,790,60,2
+Maldives,2020-03-18,13,0,0
+Malta,2020-03-18,38,2,0
+Martinique,2020-03-18,19,0,1
+Mauritania,2020-03-18,1,0,0
+Mauritius,2020-03-18,3,0,0
+Mexico,2020-03-18,93,4,0
+"Moldova, Republic of",2020-03-18,30,1,1
+Monaco,2020-03-18,7,0,0
+Mongolia,2020-03-18,6,0,0
+Montenegro,2020-03-18,1,0,0
+Morocco,2020-03-18,49,1,2
+Namibia,2020-03-18,2,0,0
+Nepal,2020-03-18,1,1,0
+Netherlands,2020-03-18,2058,2,58
+New Zealand,2020-03-18,20,0,0
+Nigeria,2020-03-18,8,1,0
+North Macedonia,2020-03-18,35,1,0
+Norway,2020-03-18,1550,1,6
+Oman,2020-03-18,39,12,0
+Pakistan,2020-03-18,299,2,0
+Panama,2020-03-18,86,0,1
+Paraguay,2020-03-18,11,0,0
+Peru,2020-03-18,145,1,0
+Philippines,2020-03-18,202,5,19
+Poland,2020-03-18,251,13,5
+Portugal,2020-03-18,448,3,2
+Qatar,2020-03-18,452,4,0
+Romania,2020-03-18,260,19,0
+Russian Federation,2020-03-18,147,8,0
+Rwanda,2020-03-18,8,0,0
+Saint Lucia,2020-03-18,2,0,0
+Saint Vincent and the Grenadines,2020-03-18,1,0,0
+San Marino,2020-03-18,119,4,11
+Saudi Arabia,2020-03-18,171,6,0
+Senegal,2020-03-18,31,2,0
+Serbia,2020-03-18,83,1,0
+Seychelles,2020-03-18,4,0,0
+Singapore,2020-03-18,313,114,0
+Slovakia,2020-03-18,105,0,1
+Slovenia,2020-03-18,275,0,1
+Somalia,2020-03-18,1,0,0
+South Africa,2020-03-18,116,0,0
+Spain,2020-03-18,13910,1081,623
+Sri Lanka,2020-03-18,51,1,0
+Sudan,2020-03-18,2,0,1
+Suriname,2020-03-18,1,0,0
+Sweden,2020-03-18,1279,1,10
+Switzerland,2020-03-18,3028,15,28
+"Taiwan, Province of China",2020-03-18,100,22,1
+"Tanzania, United Republic of",2020-03-18,3,0,0
+Thailand,2020-03-18,212,42,1
+Togo,2020-03-18,1,0,0
+Trinidad and Tobago,2020-03-18,7,0,0
+Tunisia,2020-03-18,29,0,0
+Turkey,2020-03-18,98,0,1
+Ukraine,2020-03-18,14,0,2
+United Arab Emirates,2020-03-18,113,26,0
+United Kingdom,2020-03-18,2642,67,72
+United States,2020-03-18,7783,0,118
+Uruguay,2020-03-18,50,0,0
+Uzbekistan,2020-03-18,15,0,0
+"Venezuela, Bolivarian Republic of",2020-03-18,36,0,0
+Viet Nam,2020-03-18,75,16,0
+Zambia,2020-03-18,2,0,0

@@ -22,7 +22,7 @@ def plot_animation(df=animation_df):
 
     fig.update_layout(
             title = go.layout.Title(
-            text = '<b>2019-nCoV</b>:Worldwide Periodic Confirmed Cases<br>Graph <i>Excludes</i> cases in China'),
+            text = '<b>2019-nCoV</b>:Worldwide Periodic Confirmed Cases'),
             showlegend = True,
 
         )
@@ -31,35 +31,33 @@ def plot_animation(df=animation_df):
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON # return JSON
 
-def plot_worldwide_graph(df=general_df):
-    timestamp_grouped = df.groupby("timestamp").sum().sort_values("timestamp", ascending=True)
-    timestamp_grouped.reset_index(inplace=True)
+# def plot_worldwide_graph(df=general_df):
+#     timestamp_grouped = df.groupby("timestamp").sum().sort_values("timestamp", ascending=True)
+#     timestamp_grouped.reset_index(inplace=True)
 
 
-    fig = go.Figure()
-    fig.add_trace(go.Scatter(x=timestamp_grouped["timestamp"], y=timestamp_grouped["conf_cases"], name='Confirmed Cases',
-                            line=dict(width=3)))
-    fig.add_trace(go.Scatter(x=timestamp_grouped["timestamp"], y=timestamp_grouped["recov_cases"], name='Recovered Cases',
-                            line=dict(width=3)))
-    fig.add_trace(go.Scatter(x=timestamp_grouped["timestamp"], y=timestamp_grouped["death_cases"], name='Death Cases',
-                            line=dict(width=3)))
+#     fig = go.Figure()
+#     fig.add_trace(go.Scatter(x=timestamp_grouped["timestamp"], y=timestamp_grouped["conf_cases"], name='Confirmed Cases',
+#                             line=dict(width=3)))
+#     fig.add_trace(go.Scatter(x=timestamp_grouped["timestamp"], y=timestamp_grouped["recov_cases"], name='Recovered Cases',
+#                             line=dict(width=3)))
+#     fig.add_trace(go.Scatter(x=timestamp_grouped["timestamp"], y=timestamp_grouped["death_cases"], name='Death Cases',
+#                             line=dict(width=3)))
 
-    fig.update_layout(title='CoronaVirus Performance over Time (Worldwide)',
-                    xaxis_title='Time',
-                    yaxis_title='Number of Cases (Persons)')
+#     fig.update_layout(title='CoronaVirus Performance over Time (Worldwide)',
+#                     xaxis_title='Time',
+#                     yaxis_title='Number of Cases (Persons)')
 
-    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-    return graphJSON
-
-
+#     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+#     return graphJSON
 
 def plot_china_world_graph(df=general_df):
-    china = df[df["Country/Region"]=="Mainland China"].drop("Country/Region",axis=1)
+    china = df[df["Country/Region"]=="China"].drop("Country/Region",axis=1)
     timestamp_grouped_exc_china = df.drop(china.index).reset_index(drop=True)
     timestamp_grouped_exc_china = timestamp_grouped_exc_china.groupby("timestamp").sum().sort_values("timestamp", ascending=True)
     timestamp_grouped_exc_china.reset_index(inplace=True)
 
-    china = df[df["Country/Region"]=="Mainland China"].drop("Country/Region",axis=1)
+    china = df[df["Country/Region"]=="China"].drop("Country/Region",axis=1)
     china = china.groupby("timestamp").sum().sort_values("timestamp", ascending=True)
     china.reset_index(inplace=True)
 
@@ -129,7 +127,7 @@ def plot_barchart(df=general_df):
 
     ))
 
-    fig.update_layout(title='CoronaVirus: Ratios<br><span style="font-size:80%">Excluding China</span>',
+    fig.update_layout(title='CoronaVirus: Ratios',
                     xaxis_title='Country',
                    # yaxis_title='Number of Cases (Persons)'
                     showlegend=False)
@@ -139,8 +137,6 @@ def plot_barchart(df=general_df):
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON
 
-
-
 def plot_death_rate(df_death=df_death):
     final_date = df_death["timestamp"].iloc[0]
     fig = px.bar(df_death, x='Country/Region', y='death_rate',hover_data=["death_cases", "conf_cases"])
@@ -148,7 +144,6 @@ def plot_death_rate(df_death=df_death):
 
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON
-
 
 def plot_recov_rate(df_recov=df_recov):
     fig = px.bar(df_recov, x='Country/Region', y='recover_rate', hover_data=["recov_cases", "conf_cases"] )

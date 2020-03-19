@@ -5,39 +5,25 @@
         coronavirus disease 2019 (COVID-19).[8] There is no vaccine available.<u>Wikipedia</u>
     </p>
     <div class="charts-grid">
-        <div class="left-grid">
-            <div class="mapFrame">
-                <div class="chart" id="animation_frame" >
-                    <script>
-                        var graphs = {{animation_frame | safe}};
-                        Plotly.plot('animation_frame',graphs,{});
-                    </script>
-                </div>
+        <div class="mapFrame">
+            <div class="chart" id="animation_frame" >
+                <script>
+                    var graphs = {{animation_frame | safe}};
+                    Plotly.plot('animation_frame',graphs,{});
+                </script>
+            </div>
+        </div>
+        <div class="triples">
+            <div class="chart" id="recov_donut" >
+                <script>
+                    var graphs = {{recov_donut | safe}};
+                    Plotly.plot('recov_donut',graphs,{});
+                </script>
             </div>
             <div class="chart" id="china_world_graph" >
                 <script>
                     var graphs = {{china_world_graph | safe}};
                     Plotly.plot('china_world_graph',graphs,{});
-                </script>
-            </div>
-            <div class="chart" id="death_rate_chart" >
-                <script>
-                    var graphs = {{death_rate_chart | safe}};
-                    Plotly.plot('death_rate_chart',graphs,{});
-                </script>
-            </div>
-            <div class="chart" id="recov_rate_chart" >
-                <script>
-                    var graphs = {{recov_rate_chart | safe}};
-                    Plotly.plot('recov_rate_chart',graphs,{});
-                </script>
-            </div>
-        </div>
-        <div class="right-grid">
-            <div class="chart" id="recov_donut" >
-                <script>
-                    var graphs = {{recov_donut | safe}};
-                    Plotly.plot('recov_donut',graphs,{});
                 </script>
             </div>
             <div class="chart" id="death_donut" >
@@ -46,20 +32,31 @@
                     Plotly.plot('death_donut',graphs,{});
                 </script>
             </div>
-            <div class="chart" id="barchart" >
-                <script>
-                    var graphs = {{barchart | safe}};
-                    Plotly.plot('barchart',graphs,{});
-                </script>
-            </div>
-
         </div>
+        <div class="chart" id="death_rate_chart" >
+            <script>
+                var graphs = {{death_rate_chart | safe}};
+                Plotly.plot('death_rate_chart',graphs,{});
+            </script>
+        </div>
+        <div class="chart" id="recov_rate_chart" >
+            <script>
+                var graphs = {{recov_rate_chart | safe}};
+                Plotly.plot('recov_rate_chart',graphs,{});
+            </script>
+        </div>
+        <div class="chart" id="barchart" >
+            <script>
+                var graphs = {{barchart | safe}};
+                Plotly.plot('barchart',graphs,{});
+            </script>
+        </div>
+
     
-
-
-
-
     </div>
+
+
+
         
     
         
